@@ -43,8 +43,10 @@ Given the historical fractures, the competing grammars, and the catastrophic fai
 
 We return to apophatic reality. 
 
-The apophatic tradition—the insistence that God ultimately exceeds all human categories—is among the oldest and most vital threads in Christian theology. The history of the Church contains abundant, bloody evidence that excessive certainty—the absolute conviction that one's specific formulations fully capture divine reality—has been a primary source of both intellectual distortion and horrific pastoral violence. You cannot burn a heretic at the stake over a doctrine you hold with genuine humility.
+The apophatic tradition—the insistence that God ultimately exceeds all human categories—is among the oldest and most vital threads in Christian theology.[^13] The history of the Church contains abundant, bloody evidence that excessive certainty—the absolute conviction that one's specific formulations fully capture divine reality—has been a primary source of both intellectual distortion and horrific pastoral violence. You cannot burn a heretic at the stake over a doctrine you hold with genuine humility.
 
 Apophatic humility acts as the ultimate stabilizer. It does not say, "We know nothing about God." It says, "What we know is true, but it is not exhaustive." It preserves the reality of divine revelation while aggressively preventing any human system from claiming total possession of the truth. 
 
 If every Christian tradition took its own apophatic commitments seriously, the tone of inter-traditional engagement would change overnight. Humility does not resolve our disagreements, but it radically changes the posture with which those disagreements are held.
+
+[^13]: This tradition is most famously articulated by the 5th-to-6th-century author known as Pseudo-Dionysius the Areopagite in his work *Mystical Theology*. It heavily influenced both Eastern figures like Maximus the Confessor and Western figures like Thomas Aquinas.

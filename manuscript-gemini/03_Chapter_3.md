@@ -18,7 +18,7 @@ The Reformation did not happen because Martin Luther woke up one morning and dec
 
 To understand the 16th century, you have to understand the psychological state of the average European Christian. The Black Death had wiped out roughly a third of the continent's population in the 14th century. The cultural trauma of that mass death left an enduring imprint of terror regarding judgment and the afterlife. People were absolutely terrified of Purgatory—the state of agonizing purification required before a soul could enter heaven. 
 
-Into this terror stepped the indulgence peddlers. The sale of indulgences—essentially financial transactions intended to reduce punishment for sin in Purgatory—had become a highly lucrative fundraising mechanism for the Renaissance papacy, specifically to fund the exorbitant building costs of St. Peter's Basilica in Rome. Men like Johann Tetzel traveled through German towns pitching indulgences with carnival-like flair, famously preaching: "As soon as the coin in the coffer rings, the soul from purgatory springs." 
+Into this terror stepped the indulgence peddlers. The sale of indulgences—essentially financial transactions intended to reduce punishment for sin in Purgatory—had become a highly lucrative fundraising mechanism for the Renaissance papacy, specifically to fund the exorbitant building costs of St. Peter's Basilica in Rome.[^9] Men like Johann Tetzel traveled through German towns pitching indulgences with carnival-like flair, famously preaching: "As soon as the coin in the coffer rings, the soul from purgatory springs." 
 
 For a deeply conscientious parish priest and monk like Martin Luther, who was agonizingly concerned with the actual pastoral care of his flock, this was an intolerable, blasphemous corruption of grace. 
 
@@ -28,7 +28,7 @@ The answer lies in technology and politics. The printing press acted as a techno
 
 Simultaneously, the political configuration of Europe was perfectly primed for a rupture. The German princes recognized that supporting Luther offered them a highly convenient way to assert political and financial independence from the Pope and the Holy Roman Emperor. They provided the military and political shield that kept Luther alive after the Diet of Worms (1521), where he famously refused to recant his writings. Religion became irrevocably fused with political territory, a reality later formalized by the Peace of Augsburg (1555) and the Peace of Westphalia (1648), which established the principle of *cuius regio, eius religio* ("whose realm, his religion").
 
-In response, the Catholic Church convened the Council of Trent (1545–1563), launching the Counter-Reformation. Trent aggressively and successfully cleaned up the moral and financial abuses that had sparked the crisis, but it also rigidly codified Catholic doctrine against the Protestant claims, permanently locking the two sides into opposing fortresses.
+In response, the Catholic Church convened the Council of Trent (1545–1563), launching the Counter-Reformation.[^10] Trent aggressively and successfully cleaned up the moral and financial abuses that had sparked the crisis, but it also rigidly codified Catholic doctrine against the Protestant claims, permanently locking the two sides into opposing fortresses.
 
 ### The Immediate Consequence: Internal Fracture
 
@@ -53,3 +53,6 @@ If we reject papal authority and conciliar infallibility, who exactly defines th
 Was the Reformation a necessary correction, or a tragic fracture?
 
 The honest, difficult answer is that it was both. It was a glorious recovery of pastoral immediacy and scriptural accessibility that had been suffocated by institutional bureaucracy and financial corruption. And it was a tragic shattering of Western unity that unleashed centuries of religious war and set the template for endless modern denominational division. We must learn to hold both truths simultaneously.
+
+[^9]: Indulgences were theoretically tied to the sacrament of penance (remitting the temporal punishment for already-forgiven sin), but in practice, they were widely understood and marketed as a financial purchase of salvation. See Luther's *Ninety-Five Theses* (1517), specifically Theses 27-28.
+[^10]: The Council of Trent's *Decree on Justification* (1547) formalized the Catholic position that justification requires cooperation with grace, formally condemning the strict Protestant interpretation of *sola fide*.

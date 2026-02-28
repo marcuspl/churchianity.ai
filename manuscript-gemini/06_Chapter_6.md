@@ -14,7 +14,7 @@ To the Protestant grammar—which is fiercely protective of the unmediated, dire
 
 To the Catholic and Orthodox grammars, however, Mary is not a competitor to Christ; she is the ultimate guarantor of his humanity. 
 
-The ancient liturgical traditions argue that you cannot protect the reality of the Incarnation (the belief that God actually became human) without fiercely protecting the woman who gave him his human flesh. When the Council of Ephesus (431) declared Mary the *Theotokos*, it was not primarily a statement about Mary; it was a Christological defense. The logic was simple: if she did not bear God in her womb, then the person she bore was merely a man, and the Incarnation is false. Her veneration is seen as the necessary protective shell around the humanity of Jesus.
+The ancient liturgical traditions argue that you cannot protect the reality of the Incarnation (the belief that God actually became human) without fiercely protecting the woman who gave him his human flesh. When the Council of Ephesus (431) declared Mary the *Theotokos*, it was not primarily a statement about Mary; it was a Christological defense.[^14] The logic was simple: if she did not bear God in her womb, then the person she bore was merely a man, and the Incarnation is false. Her veneration is seen as the necessary protective shell around the humanity of Jesus.
 
 Furthermore, these high-density traditions view salvation corporately. The saints are not dead; they are alive in Christ. To ask Mary for her prayers is, within their grammar, structurally no different than asking a fellow church member to pray for you. It simply acknowledges that she holds a unique, maternal place of honor.
 
@@ -26,7 +26,7 @@ Closely tied to Mary is the Protestant rejection of icons, statues, and relics.
 
 To the Reformed and Baptist grammars, the veneration of physical objects is a direct violation of the Second Commandment against graven images. Bowing before a painted board or praying near the bones of a saint looks indistinguishable from ancient superstition or outright paganism. It feels like a catastrophic regression from the pure, spiritual worship of the invisible God.
 
-For the Orthodox and Catholic traditions, however, the rejection of icons feels like a subtle rejection of the physical world. The defense of icons (formally articulated at the Second Council of Nicaea in 787) is, again, entirely Christological. The argument is this: before the Incarnation, God could not be depicted because God had no form. But when the invisible God took on physical flesh in Jesus Christ, *matter itself was validated as capable of bearing the divine.* 
+For the Orthodox and Catholic traditions, however, the rejection of icons feels like a subtle rejection of the physical world. The defense of icons (formally articulated at the Second Council of Nicaea in 787)[^15] is, again, entirely Christological. The argument is this: before the Incarnation, God could not be depicted because God had no form. But when the invisible God took on physical flesh in Jesus Christ, *matter itself was validated as capable of bearing the divine.* 
 
 To say that God cannot be depicted or that physical matter (like paint, wood, or human bones) cannot mediate grace is, to the ancient traditions, to say that the Incarnation didn't quite work. 
 
@@ -82,7 +82,7 @@ To the Protestant grammar, *sola scriptura* is the ultimate fail-safe against in
 
 But when Catholics and Orthodox observe *sola scriptura* from the outside, they do not see a reliable fail-safe; they see a glaring structural contradiction. 
 
-To the high-density traditions, the claim that the Bible is the *only* authority ignores a crucial historical fact: the Bible did not drop out of the sky with a table of contents. The canon of Scripture was debated and formally recognized by the very same bishops and church councils that Protestants later rejected. To the Catholic and Orthodox mind, you cannot logically accept the infallible authority of the Bible while simultaneously rejecting the authority of the Church that compiled, preserved, and authorized it. As the old Catholic critique goes: "You have taken our book, cut off the hands that handed it to you, and claimed it fell from heaven."
+To the high-density traditions, the claim that the Bible is the *only* authority ignores a crucial historical fact: the Bible did not drop out of the sky with a table of contents. The canon of Scripture was debated and formally recognized by the very same bishops and church councils that Protestants later rejected.[^16] To the Catholic and Orthodox mind, you cannot logically accept the infallible authority of the Bible while simultaneously rejecting the authority of the Church that compiled, preserved, and authorized it. As the old Catholic critique goes: "You have taken our book, cut off the hands that handed it to you, and claimed it fell from heaven."
 
 Furthermore, from the outside, *sola scriptura* appears structurally destined to fail. If the Bible is the only authority, and there is no infallible human interpreter to resolve disputes over what the Bible *means*, the inevitable result is not unified truth, but endless fragmentation. When a Catholic looks at thousands of distinct Protestant denominations—all claiming to follow the same Bible, yet completely disagreeing on issues like baptism, church governance, or the Eucharist—they see *sola scriptura* not as a unifying protection, but as an engine of schism.
 
@@ -91,3 +91,7 @@ Translating this "ick" requires the ancient traditions to realize that the Prote
 ### Conclusion: Translating the Ick
 
 None of these translations are meant to force agreement. A Baptist does not need to accept the papacy, and an Orthodox believer does not need to speak in tongues. But structural literacy requires us to stop dismissing these practices as stupid, malicious, or pagan. Every major stumbling block is, at its core, a fierce attempt to protect something beautiful about God.
+
+[^14]: The title *Theotokos* ("God-bearer") was defended against Nestorius, who preferred *Christotokos* ("Christ-bearer"). The Council ruled that separating the human and divine natures of Christ so sharply that Mary only bore his human nature destroyed the unity of the Incarnate Word.
+[^15]: Nicaea II distinguished carefully between *latria* (absolute worship, due to God alone) and *dulia* (veneration or honor, which can be paid to saints and icons).
+[^16]: The exact contents of the New Testament canon were heavily debated until the late 4th century. The list of 27 books we use today was largely solidified by regional councils like the Council of Rome (382) and the Council of Carthage (397), and popularized by Athanasius's Festal Letter of 367.

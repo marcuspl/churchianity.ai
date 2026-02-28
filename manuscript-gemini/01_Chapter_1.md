@@ -16,7 +16,7 @@ When modern Christians look across the street at a different denomination, they 
 
 Beneath the historical fractures, the common ground is vast. 
 
-The early Councils of Nicaea (325) and Constantinople (381) established the Trinitarian framework—that God is one in essence and three in persons—that the Orthodox, Catholic, and Protestant traditions still universally confess today. The Council of Chalcedon (451) established the Christological foundation that Christ is fully God and fully man, in two natures, without confusion or division.
+The early Councils of Nicaea (325) and Constantinople (381) established the Trinitarian framework—that God is one in essence and three in persons—that the Orthodox, Catholic, and Protestant traditions still universally confess today.[^1] The Council of Chalcedon (451) established the Christological foundation that Christ is fully God and fully man, in two natures, without confusion or division.[^2]
 
 We share the basic rhythms of time. The structural skeleton of the liturgical year—the seasons of Advent waiting, Lenten fasting, and Paschal/Easter celebration—emerged early in the Church's life and provides a concrete, lived continuity beneath all of our modern fractures. We share the brilliant patrimony of the early Church Fathers, like Athanasius, John Chrysostom, and the Cappadocians, as well as the blood of the early martyrs.
 
@@ -36,7 +36,7 @@ However, sharing the same historical inheritance does not mean we interact with 
 
 When telling the story of Christian division, it is a common, Western-centric mistake to view the East-West schism of 1054 as the "first" fracture. The historical reality is much messier, and much older. 
 
-The oldest continuous Christian communities in the world are often entirely invisible in Western accounts of church history. The Church of the East (often called the Assyrian Church) split from the imperial Church following the Council of Ephesus in 431. Shortly after, the Oriental Orthodox churches—which today include the Coptic (Egyptian), Armenian, Syriac, and Ethiopian churches—split following the Council of Chalcedon in 451. 
+The oldest continuous Christian communities in the world are often entirely invisible in Western accounts of church history. The Church of the East (often called the Assyrian Church) split from the imperial Church following the Council of Ephesus in 431.[^3] Shortly after, the Oriental Orthodox churches—which today include the Coptic (Egyptian), Armenian, Syriac, and Ethiopian churches—split following the Council of Chalcedon in 451.[^4] 
 
 The tragedy of the 451 split is that it was primarily a dispute over the specific language used to describe Christ's two natures. The imperial Church adopted the "dyophysite" formulation (Christ in two natures), while the Oriental Orthodox maintained a "miaphysite" formulation (one incarnate nature of the Word). 
 
@@ -54,3 +54,8 @@ The Constantinian shift, marked by the Edict of Milan in 313 and the Council of 
 Every major Ecumenical Council—from Nicaea to the Second Council of Nicaea in 787—was convened by a Roman or Byzantine emperor, not solely by a gathering of bishops. The emperor enforced the conciliar outcomes with the full weight of state power. Consequently, theological disputes became inextricably intertwined with imperial jurisdictions, taxation, cultural dominance, and statecraft. 
 
 Demystifying this reality is deeply liberating for the laity today. When we understand how much of what looks like purely "theological" schism was fundamentally driven by geopolitical maneuvering, financial interests, and imperial ambition, it frees everyday believers. We no longer have to carry the spiritual weight of ancient political disputes, and we can look at the fractures in the Church with a much clearer, more honest gaze.
+
+[^1]: See the Niceno-Constantinopolitan Creed (381). For historical context and texts, see Norman P. Tanner, *Decrees of the Ecumenical Councils* (Georgetown University Press, 1990).
+[^2]: The Chalcedonian Definition (451) famously declared Christ to be "acknowledged in two natures, inconfusedly, unchangeably, indivisibly, inseparably."
+[^3]: The Council of Ephesus condemned the teachings of Nestorius regarding Mary as *Theotokos*.
+[^4]: For modern reconciliation affirming that the 5th-century split was largely terminological, see the *Agreed Statements between the Eastern Orthodox and Oriental Orthodox Churches* (Chambésy, 1989 and 1990).

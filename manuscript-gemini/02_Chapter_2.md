@@ -12,7 +12,7 @@ Long before any excommunications were thrown, the East and West were growing apa
 
 In the East, the church operated under what was called the *pentarchy*—a collegial governance model led by five major patriarchs (the bishops of Rome, Constantinople, Alexandria, Antioch, and Jerusalem). Disputes were meant to be resolved in communion, ultimately requiring an ecumenical council of all bishops.
 
-In the West, however, a different trajectory was taking shape. The Bishop of Rome increasingly claimed a unique, universal authority derived directly from the Apostle Peter. Pope Leo I (who died in 461) articulated the strongest early version of this "papal supremacy." He read Matthew 16:18—*"You are Peter, and on this rock I will build my church"*—as a grant of supreme, jurisdictional primacy to Peter and his successors in Rome. The East read the exact same passage differently, understanding it as an acknowledgment of Peter's *confession of faith*, not the establishment of a permanent, universal monarchical office. 
+In the West, however, a different trajectory was taking shape. The Bishop of Rome increasingly claimed a unique, universal authority derived directly from the Apostle টেলPeter. Pope Leo I (who died in 461) articulated the strongest early version of this "papal supremacy."[^5] He read Matthew 16:18—*"You are Peter, and on this rock I will build my church"*—as a grant of supreme, jurisdictional primacy to Peter and his successors in Rome. The East read the exact same passage differently, understanding it as an acknowledgment of Peter's *confession of faith*, not the establishment of a permanent, universal monarchical office.[^6] 
 
 This is the governance dispute in a nutshell: The East maintained that doctrine was fixed by ecumenical councils and could not be unilaterally altered by one man. The West, particularly as the centuries rolled on, developed the idea that the Pope could define doctrine authoritatively.
 
@@ -28,7 +28,7 @@ By the ninth century, Eastern and Western theologians were often talking right p
 
 This linguistic drift culminated in the most famous theological dispute of the era: the *filioque*. 
 
-The original Nicene-Constantinopolitan Creed (from 381) stated that the Holy Spirit "proceeds from the Father." However, beginning in sixth-century Spain and slowly spreading through the Frankish West, Latin Christians added a single word to the creed: *filioque*, meaning "and the Son." The creed now read that the Spirit "proceeds from the Father *and the Son*." 
+The original Nicene-Constantinopolitan Creed (from 381) stated that the Holy Spirit "proceeds from the Father." However, beginning in sixth-century Spain and slowly spreading through the Frankish West, Latin Christians added a single word to the creed: *filioque*, meaning "and the Son."[^7] The creed now read that the Spirit "proceeds from the Father *and the Son*." 
 
 The West did not do this out of malice. In Spain, they were fighting a lingering heresy (Arianism) that diminished the divinity of Jesus, so they added the *filioque* to emphasize the co-equality of the Son with the Father. Furthermore, it fit perfectly with Augustine's theology, which viewed the Holy Spirit as the eternal bond of love *between* the Father and the Son. The West considered this a perfectly legitimate theological clarification. 
 
@@ -44,7 +44,7 @@ During the Fourth Crusade, Western crusaders—nominally on their way to the Hol
 
 The accounts from eyewitnesses are horrifying. Western Christian knights slaughtered Eastern Christians in the streets. They rode horses directly into the sanctuary of the Hagia Sophia. They smashed the silver iconostasis, stripped the gold from the altars, and reportedly placed a prostitute on the Patriarch's throne to mock the Eastern church. They installed a Latin patriarch and established a Latin Empire that lasted for decades. 
 
-This was not just a military defeat; it was a profound spiritual desecration. Whatever theological rapprochement might have been possible was destroyed in a firestorm of violence. Orthodox Christians to this day cite the sack of 1204 as the moment the break became irreversible. (It is worth noting that Pope John Paul II formally apologized for the Fourth Crusade in 2004—eight hundred years later).
+This was not just a military defeat; it was a profound spiritual desecration. Whatever theological rapprochement might have been possible was destroyed in a firestorm of violence. Orthodox Christians to this day cite the sack of 1204 as the moment the break became irreversible. (It is worth noting that Pope John Paul II formally apologized for the Fourth Crusade in 2004—eight hundred years later).[^8]
 
 Subsequent attempts at reunion, such as the Second Council of Lyon (1274) and the Council of Florence (1438), failed miserably. Why? Because the Eastern delegates were forced to sign the agreements under intense political duress (such as needing Western military support against the invading Ottomans). When the delegates returned home, the Eastern clergy and laity, remembering the trauma of 1204, immediately repudiated the agreements. The lesson was clear: unity cannot be manufactured by decree or imposed from above.
 
@@ -67,3 +67,8 @@ The honest answer is that they cannot be separated. The *filioque* was a profoun
 The lay reader who grasps this—that the schism was all of these things at once—is better positioned than many popular accounts to understand what actually happened. The East-West fracture established the grim template for how all major schisms work: a slow cultural drift, a flashpoint event, post-hoc theological rationalizations that make the split seem principled, and centuries of mutual non-communication that harden the split into permanent incomprehension. 
 
 It is a template the Western Church would repeat, with devastating efficiency, 500 years later.
+
+[^5]: See Pope Leo I's *Sermon 3*, where he refers to Peter as the "primate of all the bishops."
+[^6]: Eastern theologians point to patristic commentaries like John Chrysostom's *Homilies on Matthew*, which emphasize the rock as Peter's *faith* rather than Peter's *person*.
+[^7]: First officially endorsed at the Third Council of Toledo (589) to combat Arianism. 
+[^8]: Pope John Paul II, address to His Beatitude Christodoulos, Archbishop of Athens and All Greece (May 4, 2001). "It is tragic that the assailants, who set out to secure free access for Christians to the Holy Land, turned against their brothers in the faith."

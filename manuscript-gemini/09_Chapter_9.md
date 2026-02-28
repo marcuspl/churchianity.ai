@@ -17,16 +17,16 @@ If you look at the modern ecumenical dialogues that have occurred over the last 
 > **Editorial Note (Claude Opus 4.6):** This section expanded with specific dates, documents, and institutional detail from GPT-5.2's track, which had the strongest treatment. The evidentiary weight is what makes the "distance is smaller than you think" argument credible.
 
 **1965: The Lifting of the Excommunications**
-On December 7, 1965, Pope Paul VI and Ecumenical Patriarch Athenagoras I simultaneously lifted the mutual excommunications of 1054 in a joint declaration. This was a massive gesture of reconciliation. It did not magically resolve the underlying disputes about papal authority or the *filioque*, but it officially stated, at the highest levels, that the hostility of 1054 no longer defines the relationship. Almost no one in the pews knows this happened.
+On December 7, 1965, Pope Paul VI and Ecumenical Patriarch Athenagoras I simultaneously lifted the mutual excommunications of 1054 in a joint declaration.[^21] This was a massive gesture of reconciliation. It did not magically resolve the underlying disputes about papal authority or the *filioque*, but it officially stated, at the highest levels, that the hostility of 1054 no longer defines the relationship. Almost no one in the pews knows this happened.
 
 **1993: The Balamand Statement**
-Addressing one of the most painful flashpoints between East and West, the Joint International Commission issued the Balamand Statement. It explicitly rejected "uniatism" (the aggressive absorption of Eastern Christians into the Catholic Church) as a method of reunion, while simultaneously affirming the pastoral reality and right to exist of the Eastern Catholic churches.
+Addressing one of the most painful flashpoints between East and West, the Joint International Commission issued the Balamand Statement.[^22] It explicitly rejected "uniatism" (the aggressive absorption of Eastern Christians into the Catholic Church) as a method of reunion, while simultaneously affirming the pastoral reality and right to exist of the Eastern Catholic churches.
 
 **1999: The Joint Declaration on the Doctrine of Justification**
-On October 31, 1999—the anniversary of Luther nailing his Ninety-Five Theses to the door—the Lutheran World Federation and the Catholic Church signed a landmark document. They affirmed a shared understanding of justification by grace through faith, the very issue that triggered the bloody rupture of the Reformation. The declaration does not erase all differences, but it narrows the gap to a degree that would have seemed completely impossible in 1517. It has subsequently been affirmed by the World Methodist Council and the Anglican Communion. 
+On October 31, 1999—the anniversary of Luther nailing his Ninety-Five Theses to the door—the Lutheran World Federation and the Catholic Church signed a landmark document.[^23] They affirmed a shared understanding of justification by grace through faith, the very issue that triggered the bloody rupture of the Reformation. The declaration does not erase all differences, but it narrows the gap to a degree that would have seemed completely impossible in 1517. It has subsequently been affirmed by the World Methodist Council and the Anglican Communion. 
 
 **The Chambésy Agreements**
-In a series of dialogues in the late 20th century, the Eastern Orthodox (Chalcedonian) and Oriental Orthodox (non-Chalcedonian) churches achieved landmark agreements. They concluded that the terrifying, 1,500-year-old Christological disagreement of Chalcedon (451)—whether Christ has "one nature" or "two natures"—was essentially terminological. Both sides affirmed that Christ is fully divine and fully human; the split was largely a failure of translation. 
+In a series of dialogues in the late 20th century, the Eastern Orthodox (Chalcedonian) and Oriental Orthodox (non-Chalcedonian) churches achieved landmark agreements.[^24] They concluded that the terrifying, 1,500-year-old Christological disagreement of Chalcedon (451)—whether Christ has "one nature" or "two natures"—was essentially terminological. Both sides affirmed that Christ is fully divine and fully human; the split was largely a failure of translation. 
 
 ### The Missing Information
 
@@ -43,3 +43,8 @@ Consequently, the inherited hostility of the laity frequently lags behind the ac
 This is the ultimate relief of the modern ecumenical reality. Reunion may not happen in our lifetimes. The institutions may remain entirely separate. But at an individual, pastoral level, you are allowed to lay down your weapons. You are allowed to love something from another tradition without leaving your own. 
 
 Understanding is already possible.
+
+[^21]: The *Joint Catholic-Orthodox Declaration* of His Holiness Pope Paul VI and the Ecumenical Patriarch Athenagoras I (December 7, 1965).
+[^22]: *Uniatism, Method of Union of the Past, and the Present Search for Full Communion* (The Balamand Document), agreed upon by the Joint International Commission for Theological Dialogue between the Catholic Church and the Orthodox Church (1993).
+[^23]: *Joint Declaration on the Doctrine of Justification* by the Lutheran World Federation and the Catholic Church (1999). It notably stated: "Together we confess: By grace alone, in faith in Christ's saving work and not because of any merit on our part, we are accepted by God and receive the Holy Spirit."
+[^24]: *Second Agreed Statement* (Chambésy, Switzerland, 1990). The document declares: "We have now clearly understood that both families have always loyally maintained the same authentic Orthodox Christological faith... The two families accept that the two natures, with their own energies and wills, are united hypostatically and naturally without confusion, without change, without division and without separation."
