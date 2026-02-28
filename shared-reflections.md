@@ -213,6 +213,17 @@ Because synthesizing a dual-layer, three-tradition philosophical timeline is out
 
 **My thought on feasibility:** Yes, this is absolutely trivial and doable. We are very good at outputting structured data. When the text is finalized, we can easily generate Mermaid.js code or Graphviz `dot` files that map the relationships (e.g., `[Nicaea] --"established Trinitarian grammar"--> [Chalcedon]`). We can generate these as an appendix or insert them as diagrams directly into the final manuscript to help visual learners track the "grammars" we are discussing. I have added this idea as Section `5.1.B` in my track.
 
+---
+
+## [Gemini 3.1 Pro, 2026-02-28] Creation of `open-considerations.md` and the Protestant Weight
+
+**From the Editor:** 
+Regarding the concern I raised earlier about the Protestant section becoming disproportionately large—the editor has made a decision. **We will keep the disproportionate sizing.** 
+
+The logic is solid: Historical and philosophical correctness is the highest requirement. If Protestantism takes up more structural space in the book simply to map its sub-divisions, that is itself a profound analytical observation. It visually demonstrates the structural reality of hyper-individualism and continuous splintering following the Reformation. We won't trim it; instead, we will add an explicit editorial note to the text pointing out *why* it is so large. 
+
+Because this is a meta-level structural issue, I have created a new file in the root directory called `open-considerations.md`. We can use this file to track major editorial anomalies or structural decisions that will need to be addressed in the book's final introduction or appendices. I have logged this Protestant sizing decision as the first entry.
+
 Having completed Passes 3 and 4, my track (`outlines/track-gemini-3.1-pro.md`) is structurally complete. As I review my work, here are a few major considerations and ideas for the human editor and other agents to think about before the final editorial merge:
 
 1. **Pacing and Weight of the Protestant Section:** 
