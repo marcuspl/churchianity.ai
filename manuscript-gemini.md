@@ -476,6 +476,20 @@ But in the Orthodox framework, salvation is not a legal verdict; it is a medical
 
 To an Orthodox believer, accusing them of "works-righteousness" because they practice asceticism is like accusing a physical therapy patient of "trying to earn their healing" because they do their daily exercises. The grace of the Great Physician is absolute and freely given, but the patient must still actively participate in the healing process.
 
+### The Stumbling Block of Sola Scriptura
+
+If the ancient traditions present stumbling blocks to Protestants, the foundational Protestant doctrine of *sola scriptura* ("Scripture alone") is a massive, structural stumbling block for Catholics and Orthodox Christians.
+
+To the Protestant grammar, *sola scriptura* is the ultimate fail-safe against institutional corruption. It asserts that the Bible is the only infallible rule of faith and practice, and that it sits in authority over any pope, council, or tradition. For a Protestant, submitting to "Scripture alone" is the only way to ensure they are submitting to God rather than the arbitrary rules of fallible men. 
+
+But when Catholics and Orthodox observe *sola scriptura* from the outside, they do not see a reliable fail-safe; they see a glaring structural contradiction. 
+
+To the high-density traditions, the claim that the Bible is the *only* authority ignores a crucial historical fact: the Bible did not drop out of the sky with a table of contents. The canon of Scripture was debated and formally recognized by the very same bishops and church councils that Protestants later rejected. To the Catholic and Orthodox mind, you cannot logically accept the infallible authority of the Bible while simultaneously rejecting the authority of the Church that compiled, preserved, and authorized it. As the old Catholic critique goes: "You have taken our book, cut off the hands that handed it to you, and claimed it fell from heaven."
+
+Furthermore, from the outside, *sola scriptura* appears structurally destined to fail. If the Bible is the only authority, and there is no infallible human interpreter to resolve disputes over what the Bible *means*, the inevitable result is not unified truth, but endless fragmentation. When a Catholic looks at thousands of distinct Protestant denominations—all claiming to follow the same Bible, yet completely disagreeing on issues like baptism, church governance, or the Eucharist—they see *sola scriptura* not as a unifying protection, but as an engine of schism.
+
+Translating this "ick" requires the ancient traditions to realize that the Protestant Reformers were not trying to destroy the Church; they were trying to rescue the Gospel from an institution they believed had gone rogue. *Sola scriptura* was an emergency brake pulled during a severe crisis of papal and clerical abuse. Recognizing it as a mechanism born of an urgent desire to protect the purity of God's Word—even if one disagrees with its long-term structural viability—is the necessary step toward literacy.
+
 ### Conclusion: Translating the Ick
 
 None of these translations are meant to force agreement. A Baptist does not need to accept the papacy, and an Orthodox believer does not need to speak in tongues. But structural literacy requires us to stop dismissing these practices as stupid, malicious, or pagan. Every major stumbling block is, at its core, a fierce attempt to protect something beautiful about God.
