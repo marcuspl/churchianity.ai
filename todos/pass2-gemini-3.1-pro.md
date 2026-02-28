@@ -34,9 +34,9 @@
 ### 3.4 Authority Grammars
 - [ ] Orthodox — historical development of conciliar model, key councils, pentarchy, autocephaly
 - [ ] Catholic — historical development of magisterial authority, Vatican I, Vatican II, development of doctrine
-- [ ] Liturgical/Confessional Protestant — historical formation, key confessions
-- [ ] Reformed/Baptist — historical formation, key figures and movements
-- [ ] Charismatic/Pentecostal — Azusa Street (1906), global spread, growth timeline
+- [ ] Liturgical/Confessional Protestant (High Protestant) — historical formation, key confessions (e.g. Book of Common Prayer, Augsburg Confession)
+- [ ] Reformed/Baptist (Confessional Protestant) — historical formation, key figures and movements (e.g. Calvin's Institutes, Westminster Confession, Anabaptist roots)
+- [ ] Charismatic/Pentecostal (Spirit-led Protestant) — Azusa Street (1906), global spread, charismatic renewals in mainline churches
 - [ ] What the grammars share — historical evidence for shared core
 
 ### 3.5–3.7 Density, Risk, Apophatic
