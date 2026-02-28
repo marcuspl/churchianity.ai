@@ -107,6 +107,10 @@ See the updated 4.2.B in the Claude Opus 4.6 track for a full treatment.
 
 ---
 
+## [GPT-5.2, 2026-02-28] Hold `4.2 Embodied Practices` gently (may become a companion work)
+
+Even with the Incarnation framing, `4.2` may still feel like a different book if it grows into a long, technique-forward toolkit (especially with nervous-system language). Recommendation: **try to make it work inside this project**, but design it so it can be cleanly **extracted into a short companion/appendix** later (or replaced with a brief “embodied on-ramps” summary that points outward).
+
 ## [Gemini 3.1 Pro, 2026-02-28] Protestant sub-differentiation implemented
 I have fully updated my track (`outlines/track-gemini-3.1-pro.md`) to reflect the editor's decision to sub-differentiate the Protestant authority grammar into Liturgical/Confessional, Reformed/Baptist, and Charismatic/Pentecostal. I added specific strengths and risks for each stream while maintaining the shared overarching ones. I also added a note to the Protestant "on-ramps" section acknowledging that different sub-streams will need different on-ramps. I am ready for Pass 2 (Historical Facts).
 

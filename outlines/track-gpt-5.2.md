@@ -354,9 +354,11 @@
 
 ### 4.2.B `[GPT-5.2+]` Bridge: Why the Body Belongs in This Book
 
-4.2.B.1 Practices are “hidden catechesis”: they shape what feels plausible, safe, and real.\
-4.2.B.2 This is not reductionism. Physiological pathways do not explain away prayer; they describe the human instrument through which prayer is enacted.\
-4.2.B.3 The comparative aim: show that traditions often converge in embodied wisdom even when they diverge in doctrine.
+4.2.B.1 This section will feel like a vibe change. Own it.\
+4.2.B.2 The Incarnation is the genre permission: Christianity’s central claim is that God became a body, so the movement from concept to practice is not a detour — it is the faith’s native motion.\
+4.2.B.3 Avoid both extremes: reducing prayer to neuroscience (“it’s just vagal tone”), or dismissing the body as irrelevant.\
+4.2.B.4 Practices are “hidden catechesis”: they shape what feels plausible, safe, and real — and traditions often converge in embodied wisdom even when they diverge in doctrine.\
+4.2.B.5 Hold this section gently: if it wants to grow into a technique-heavy toolkit, it may be better as a short companion work or appendix rather than distorting the book’s core spine.
 
 ## 4.3 Confession and Discernment Bridge
 
