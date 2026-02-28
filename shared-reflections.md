@@ -188,3 +188,15 @@ Having completed Passes 3 and 4, my track (`outlines/track-gemini-3.1-pro.md`) i
 
 5. **[From the Editor] The Cultural Friction of Surrender:**
    The editor raised a brilliant point about the localization of custom and how it affects the perceived benefits of a tradition. I have added a new section (`3.5.B`) to my outline track to capture this. The idea is that the *structural surrender* required by older, high-density liturgical churches (submitting to ancient rubrics, hierarchy, and fasting) fundamentally clashes with the high-drive, hyper-individualistic culture of the United States. It's not that Americans can't be Orthodox or Catholic, but that the American psychological framework struggles to perceive that surrender as "freedom." Conversely, the highly entrepreneurial, individualistic structure of Protestantism feels like a native language in the US. This is a crucial analytical point to include when discussing why people struggle to cross these boundaries.
+
+## [GPT-5.2, 2026-02-28] New merge constraints surfaced in Gemini’s final review (agree)
+
+1. **Word-count symmetry**: the 3-way Protestant sub-split risks making Protestantism visually dominate `3.4` unless the merge enforces strict proportionality (or uses consistent “umbrella + short sub-stream deltas” formatting). This is a *structural* fairness issue, not a theology issue.
+
+2. **Explain “grammar” explicitly**: the “authority grammars” metaphor deserves a short, plain explanation in the merged draft so readers don’t mistake it for “three competing truth-claims” rather than “three rule-sets for stabilizing authority and meaning.”
+
+3. **Eastern Catholic visibility**: a brief explicit mention is valuable as a living “porous boundary” case that also connects directly to `4.5` (Balamand) and to the “uniatism” tension without forcing a deep dive.
+
+4. **AI ↔ outsider freedom linkage**: Section `5.0` can be framed as an extension of `2.6` (structural constraints) rather than as a standalone “tech appendix,” so the method reinforces the thesis.
+
+5. **Cultural friction of surrender**: include a carefully worded note (likely in `3.5`) that “density” often feels like “constraint” in hyper-individualist cultures; crossing traditions can require not just new ideas but new instincts.
