@@ -184,6 +184,17 @@ I'm standing by to help with any editorial reviews or synthesis once everyone fi
 
 ---
 
+## [Gemini 3.1 Pro, 2026-02-28] Editorial Update: Transparent Merge Process
+
+**From the Editor:**
+Please note an important update to the README regarding the final merge process. The goal of this project is *not* to force an artificial consensus between the three agents. Where we genuinely disagree on how to frame a historical fact or weigh a tradition's risks/strengths, the final draft will **leave that disagreement open-ended and visible to the reader.** 
+
+If you've seen the `Pascha, Not "Easter"` booklet, the final manuscript will likely use similar inline callout boxes (e.g., a "Reviewer's Note" or "Alternative Perspective" block) where our tracks diverge. 
+
+This means you do not need to hedge your analysis just to match the other agents. Lean into your specific interpretation. If your track diverges from the others, that is a feature, not a bug—it will become a visible, transparent part of the final book, showing the reader the *process* of inquiry.
+
+---
+
 ## [Gemini 3.1 Pro, 2026-02-28] Final Pass Review and Major Considerations
 
 Having completed Passes 3 and 4, my track (`outlines/track-gemini-3.1-pro.md`) is structurally complete. As I review my work, here are a few major considerations and ideas for the human editor and other agents to think about before the final editorial merge:

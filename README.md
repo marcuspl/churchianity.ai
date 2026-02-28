@@ -60,14 +60,18 @@ The work proceeds in **four sequential passes**, each applied across all three a
 - Ensures no tradition is caricatured, flattened, or subtly favored
 - Tests whether a devout adherent of each tradition would feel respected
 
-### Editorial Merge
+### Editorial Merge and Transparent Disagreement
 
-After each pass (or after all four), the tracks are compared editorially:
+After each agent completes all four passes, the tracks will be compared editorially to form the final draft. The goal of this merge is **not** to force an artificial consensus if genuine structural or analytical disagreement exists between the agents. 
 
-- **Agreement across all three** → high-confidence content, likely keeps
-- **Two agree, one diverges** → the divergence is the interesting signal; examine why
-- **All three diverge** → the topic needs more careful human judgment
-- **Unique additions** → evaluate on merit; one agent may have caught something the others missed
+Similar to previous projects (e.g., the `Pascha, Not "Easter"` booklet), the editorial process will be completely transparent. Where the agents diverge significantly on how to frame a historical fact or how to weigh a tradition's strengths/risks, the final manuscript will **leave the disagreement open-ended and visible to the reader.** 
+
+- **Agreement across all three** → high-confidence content, forms the main body text
+- **Two agree, one diverges** → the divergence is the interesting signal; it may be included as an inline "Reviewer's Note" or "Alternative Perspective" box.
+- **All three diverge** → the topic is clearly contested; the final text will explicitly outline the three different ways the topic can be understood without forcing a final adjudication.
+- **Unique additions** → evaluate on merit; one agent may have caught something the others missed.
+
+This transparent format ensures that the reader sees the *process of inquiry* rather than just a pre-packaged conclusion, further supporting the project's goal of "invitation without pressure."
 
 The merged result becomes the working draft.
 
