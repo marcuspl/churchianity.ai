@@ -2,12 +2,12 @@
 
 ## Track: GPT-5.2 — Pass 1: Outline Development
 
-## Pass 2: Historical Facts (in progress)
+## Pass 2: Historical Facts (completed)
 
 **Labeling convention (Pass 2):** **Historically attested** / **Common scholarly view** / **[Tradition] claims** / **Contested** / **Editorial synthesis**
 
 **Agent:** GPT-5.2\
-**Pass:** 1 (Structural completeness, gaps, reorderings, asymmetries)\
+**Pass:** 1 (Outline) + 2 (Historical Facts)\
 **Base:** `raw-outline.md`
 
 **Legend:**
@@ -120,7 +120,7 @@
 3.1.1 The undivided Church.\
 - **Historically attested**: From the 1st–4th centuries, Christian communities spread through the Mediterranean world (and beyond) with local bishops, presbyters, and deacons as the ordinary structure; worship centered on Scripture readings, prayer, and the eucharistic meal.\
 - **Historically attested**: Periodic persecutions occurred under various emperors (not continuous, not uniform by region), culminating in the “Great Persecution” under Diocletian (303–311).\
-- **Historically attested**: Legal status shifted dramatically with Constantine (Edict of Milan, 313), followed by imperial patronage and later imperial enforcement of “orthodoxy” in different forms.\
+- **Historically attested**: Legal status shifted dramatically with Constantine (the 313 legalization/toleration settlement commonly called the “Edict of Milan”), followed by imperial patronage and later imperial enforcement of “orthodoxy” in different forms.\
 - **Editorial synthesis**: “Undivided” does not mean “uniform.” The unity was real, but it was a unity held across distance, language, and local practice; that makes later claims of “one obvious model” harder to sustain.
 3.1.2 Liturgy preceding polemics.\
 - **Historically attested**: Early Christian sources describe patterned worship before later medieval confessional boundary-making (e.g., the *Didache*; Justin Martyr’s description of Sunday worship in *First Apology*; early baptismal and eucharistic prayers in multiple traditions).\
@@ -563,7 +563,7 @@
 - **Historically attested**: In 1965, Pope Paul VI and Ecumenical Patriarch Athenagoras issued mutual declarations removing the 1054 excommunications from memory (a symbolic but meaningful act).\
 4.5.2 Major bilateral dialogues (Catholic–Orthodox; Catholic–Lutheran; etc.).\
 - **Historically attested**: Official dialogues and commissions have operated for decades across major traditions, producing agreed statements, clarifications, and narrowed disputes even without full communion.\
-- **Historically attested**: The Joint International Commission for Theological Dialogue between the Roman Catholic Church and the Orthodox Church was established in the late 20th century and has produced multiple agreed texts and impasses over time.\
+- **Historically attested**: The Joint International Commission for Theological Dialogue between the Roman Catholic Church and the Orthodox Church was established in 1979 (first plenary meeting 1980) and has produced multiple agreed texts and impasses over time.\
 - **Historically attested**: The Balamand Statement (1993) addresses Catholic–Orthodox relations and rejects “uniatism” as a method of reunion while affirming the pastoral reality of Eastern Catholic churches.\
 4.5.3 Key convergences (e.g., justification language, Christology with Oriental Orthodox).\
 - **Historically attested**: The Joint Declaration on the Doctrine of Justification (1999) represents a major Catholic–Lutheran convergence on a core Reformation dispute, while not erasing all differences.\
@@ -592,7 +592,7 @@
 ## 5.2 Non-Claims
 
 5.2.1 Models possess no spiritual authority.\
-- **Historically attested**: AI models are statistical pattern systems; they do not possess beliefs, intentions, or spiritual agency.\
+- **Common scholarly view**: Contemporary AI models are statistical pattern systems; they do not possess beliefs, intentions, or spiritual agency.\
 5.2.2 Models do not experience God.\
 5.2.3 Models do not pronounce doctrine.\
 5.2.4 Models do not replace discernment.
