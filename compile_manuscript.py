@@ -11,7 +11,8 @@ files = [
     "06_Chapter_6.md",
     "07_Chapter_7.md",
     "08_Chapter_8.md",
-    "09_Conclusion.md"
+    "09_Chapter_9.md",
+    "10_Conclusion.md"
 ]
 with open(output_file, "w") as out:
     out.write("# Continuity, Freedom, and the Places We Lost Each Other\n")

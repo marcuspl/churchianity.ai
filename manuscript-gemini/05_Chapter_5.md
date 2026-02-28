@@ -20,20 +20,6 @@ Conversely, Protestantism's entrepreneurial, individualistic, and highly adaptab
 
 This is not a moral judgment on either culture or tradition. It is simply a structural observation: formation has a cultural interface. Crossing between these traditions often requires a person to learn not only new theological ideas, but entirely new bodily and psychological instincts.
 
-### The Stumbling Block of Mary
-
-If structural surrender is the primary cultural friction, the primary theological friction for the Western Protestant looking toward the Catholic or Orthodox traditions is undeniably the veneration of the Virgin Mary (the *Theotokos*, or God-bearer).
-
-To the Protestant grammar—which is fiercely protective of the unmediated, direct relationship between the individual and Jesus Christ—the elaborate prayers, hymns, feast days, and dogmas surrounding Mary feel instinctively idolatrous. To a Protestant, it feels as though a human being is being illegally elevated to the status of the divine, stealing glory that belongs to Christ alone. It is the ultimate boundary line.
-
-To the Catholic and Orthodox grammars, however, Mary is not a competitor to Christ; she is the ultimate guarantor of his humanity. 
-
-The ancient liturgical traditions argue that you cannot protect the reality of the Incarnation (the belief that God actually became human) without fiercely protecting the woman who gave him his human flesh. When the Council of Ephesus (431) declared Mary the *Theotokos*, it was not primarily a statement about Mary; it was a Christological defense. The logic was simple: if she did not bear God in her womb, then the person she bore was merely a man, and the Incarnation is false. Her veneration is seen as the necessary protective shell around the humanity of Jesus.
-
-Furthermore, these high-density traditions view salvation corporately. The saints are not dead; they are alive in Christ. To ask Mary for her prayers is, within their grammar, structurally no different than asking a fellow church member to pray for you. It simply acknowledges that she holds a unique, maternal place of honor.
-
-Understanding this does not require a Protestant to begin praying the Rosary, assenting to the dogma of the Immaculate Conception, or kissing an icon of the *Theotokos*. But recognizing that Marian devotion is driven by an ancient desire to protect the Incarnation, rather than a malicious desire to practice pagan goddess-worship, is a crucial step in replacing inherited hostility with structural literacy.
-
 ### The Failure of Protection Systems
 
 If we are to map these traditions honestly, we must also face the most uncomfortable truth in this entire project: every single tradition’s protection system has failed catastrophically. 
