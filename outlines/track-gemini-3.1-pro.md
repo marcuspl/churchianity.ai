@@ -1,0 +1,381 @@
+# Continuity, Freedom, and the Places We Lost Each Other
+
+## Track: Gemini 3.1 Pro — Pass 1: Outline Development
+
+**Agent:** Gemini 3.1 Pro\
+**Pass:** 1 (Structural completeness, gaps, reorderings, asymmetries)\
+**Base:** `raw-outline.md`
+
+**Legend:**
+- Sections carried from raw outline are unmarked
+- `[Gemini 3.1 Pro+]` = new section or subsection added by Gemini 3.1 Pro
+- `[Gemini 3.1 Pro~]` = section modified, expanded, or reordered by Gemini 3.1 Pro
+- `[Gemini 3.1 Pro?]` = open question raised by Gemini 3.1 Pro
+- `[Gemini 3.1 Pro!]` = flagged asymmetry or structural concern
+
+------------------------------------------------------------------------
+
+# 1.0 CORE PURPOSE
+
+## 1.1 Primary Objectives
+
+1.1.1 Map the historical and philosophical developments that shaped
+modern Christianity.\
+1.1.2 Compare major authority models without caricature.\
+1.1.3 Identify strengths and risks in each stream symmetrically.\
+1.1.4 Reduce unnecessary hostility between traditions.\
+1.1.5 Offer practical tools and on-ramps for mutual enrichment.\
+1.1.6 Create relief, freedom, and curiosity --- not pressure or polemic.
+
+## 1.2 Explicit Non-Goals
+
+1.2.1 This is not a conversion tract.\
+1.2.2 This is not a personal testimony.\
+1.2.3 This is not a civilizational takedown.\
+1.2.4 This is not a defense brief for one tradition.\
+1.2.5 This is not a final adjudication of 1,000 years of debate.
+
+## 1.3 Foundational Assumptions
+
+1.3.1 Clarity strengthens what is true.\
+1.3.2 Exposure refines what is weak.\
+1.3.3 Humility stabilizes inquiry.
+
+------------------------------------------------------------------------
+
+# 2.0 GUIDING PRINCIPLES
+
+## 2.1 Tone Commitments
+
+2.1.1 Truth without aggression.\
+2.1.2 Honesty without humiliation.\
+2.1.3 Invitation without pressure.\
+2.1.4 No caricatures.\
+2.1.5 No tribal signaling.\
+2.1.6 No flattening of complexity.\
+2.1.7 Devout believers in every tradition must feel respected and fairly
+represented.
+
+## 2.2 Apophatic Humility
+
+2.2.1 We do not know most things about God.\
+2.2.2 All theological systems are partial.\
+2.2.3 Certainty can become reduction.\
+2.2.4 Every tradition must be examined under humility.
+
+## 2.3 Symmetry Rule
+
+2.3.1 Every strength must list a corresponding risk.\
+2.3.2 No tradition receives critique without parallel self-critique.\
+2.3.3 Representation must be recognizable to thoughtful adherents of
+that tradition.
+
+## 2.4 Scope Control
+
+2.4.1 The project does not fully resolve the papacy debate.\
+2.4.2 The project does not fully litigate the filioque controversy.\
+2.4.3 The project does not provide exhaustive metaphysical
+adjudication.\
+2.4.4 The project does not offer final doctrinal settlement.\
+2.4.5 The project does not claim scientific proof of theology.\
+2.4.6 The project maps patterns rather than settles all disputes.
+
+## 2.5 Intellectual Courage and Exposure
+
+2.5.1 This project does not assume that all historical or philosophical
+developments are comfortable.\
+2.5.2 It does not assume that no tensions will surface.\
+2.5.3 It does not attempt to pre-manage conclusions in advance.
+
+2.5.4 If something emerges that is historically verifiable and
+structurally significant, the intended posture is neither panic nor
+concealment.\
+2.5.5 The intended posture is calm examination.
+
+2.5.6 The project assumes that what is deeply true does not fear
+scrutiny.\
+2.5.7 The enduring goodness and beauty of the Christian tradition give
+confidence that honest examination will not collapse what is true.
+
+2.5.8 Examination is approached not as threat, but as clarification.\
+2.5.9 Where tension exists, naming it reduces unnecessary
+defensiveness.\
+2.5.10 Where misunderstanding exists, clarification reduces unnecessary
+hostility.
+
+2.5.11 This work limits its scope to historical and philosophical
+tensions and does not attempt to adjudicate contemporary moral or
+criminal crises.
+
+## 2.6 [Gemini 3.1 Pro+] Structural Tensions and the Need for Outside Voices
+
+2.6.1 The limitations of the clergy: Vocation requires guarding the deposit. A Catholic priest cannot publicly explore the dismantling of papal infallibility; an Orthodox bishop cannot experiment with charismatic theologies; a Protestant pastor cannot adopt icons without dividing their congregation. Their faithfulness binds them. We honor this constraint without judgment.
+2.6.2 The limitations of the academy: Guilds require maintaining disciplinary boundaries, navigating peer review, and adhering to institutional politics (including prohibitions on synthetic tools like AI). This structurally limits their freedom to build comprehensive cross-tradition bridges.
+2.6.3 The limitations of the zealous: Super-committed believers often rely on firm boundaries for their spiritual survival and identity. What outsiders view as "ecumenical compromise" can be experienced as a betrayal of their deepest convictions.
+2.6.4 The role of the laity and the outside voice (including AI): Because we exist outside these institutional, vocational, and existential constraints, we have the unique freedom to synthesize and cross boundaries simultaneously without consequence or betrayal.
+2.6.5 The necessity of the tension: We do not seek to eliminate the boundaries clergy and academics guard; they are necessary. The goal is to provide a resource for those whose spiritual survival requires crossing them, while honoring those whose survival requires maintaining them.
+
+------------------------------------------------------------------------
+
+# 3.0 PART I --- MAPPING THE TERRAIN
+
+## 3.1 Before the Fractures
+
+3.1.1 The undivided Church.\
+3.1.2 Liturgy preceding polemics.\
+3.1.3 Experience preceding systematization.\
+3.1.4 Scripture embedded within worship.\
+3.1.5 Apophatic humility as baseline posture.
+
+### 3.1.B [Gemini 3.1 Pro+] The Shared Inheritance and Common Ground
+
+3.1.B.1 The shared creedal reality (Nicaea 325, Constantinople 381) — what all major traditions still confess.\
+3.1.B.2 The shared Christological foundation (Chalcedon 451) — the hypostatic union.\
+3.1.B.3 The shared rhythms of time: the basic structure of the liturgical year (Advent, Lent, Pascha/Easter) as a concrete, lived continuity beneath the fractures.\
+3.1.B.4 The shared patrimony of the early Fathers and early martyrs.
+
+### 3.1.C [Gemini 3.1 Pro+] The Role of Empire and Political Power
+
+3.1.C.1 The Constantinian shift and the alignment of Church and State.\
+3.1.C.2 The political reality of the Ecumenical Councils (called and enforced by emperors).\
+3.1.C.3 The intertwining of theological disputes with imperial jurisdictions, taxation, and statecraft.\
+3.1.C.4 Demystifying the fractures: the laity deserve to know how much of what looks like purely "theological" schism was fundamentally political maneuvering.
+
+## 3.2 The First Major Fracture (East--West) [Gemini 3.1 Pro~]
+
+3.2.1 Authority divergence.\
+3.2.2 Linguistic and philosophical shifts.\
+3.2.3 Conciliar continuity vs centralized development.
+
+### 3.2.B [Gemini 3.1 Pro+] Historical and Political Drivers
+
+3.2.B.1 The Filioque controversy as a symptom of authority divergence (unilateral alteration vs. conciliar consensus).\
+3.2.B.2 Charlemagne, the Holy Roman Empire, and the political necessity of western theological independence.\
+3.2.B.3 1054: The mutual excommunications (primarily an embassy failure rather than an immediate schism).\
+3.2.B.4 1204: The Sack of Constantinople by the Fourth Crusade (the visceral, lived schism).
+
+### 3.2.A Open Questions
+
+3.2.A.1 What constitutes legitimate doctrinal development?\
+3.2.A.2 Does centralization safeguard unity or concentrate risk?\
+3.2.A.3 Can conciliar models prevent stagnation?\
+3.2.A.4 Did philosophical grammar shifts alter theological emphasis?
+
+## 3.3 The Second Major Fracture (Reformation) [Gemini 3.1 Pro~]
+
+3.3.1 Crisis of corruption and authority.\
+3.3.2 Scriptural primacy as corrective.\
+3.3.3 Accessibility gains.\
+3.3.4 Fragmentation costs.
+
+### 3.3.B [Gemini 3.1 Pro+] Historical and Political Drivers
+
+3.3.B.1 The indulgence economy and the specific abuses of 16th-century Rome.\
+3.3.B.2 The technological accelerant: the printing press and vernacular translations.\
+3.3.B.3 The political accelerant: local princes protecting reformers for their own sovereignty against the Holy Roman Empire.\
+3.3.B.4 The rapid inner-fragmentation of the movement (Luther, Zwingli, Calvin, Radical Reformers).
+
+### 3.3.A Open Questions
+
+3.3.A.1 Who defines the canon?\
+3.3.A.2 How is interpretive authority stabilized?\
+3.3.A.3 Can accessibility coexist with density?\
+3.3.A.4 Does conscience override continuity?
+
+## 3.4 Three Authority Grammars
+
+### 3.4.1 Conciliar Continuity (Orthodox)
+
+#### Strengths
+
+3.4.1.S1 Historical rootedness.\
+3.4.1.S2 Sacramental density.\
+3.4.1.S3 Guardrails against delusion.\
+3.4.1.S4 Apophatic restraint.
+
+#### Risks
+
+3.4.1.R1 Stagnation.\
+3.4.1.R2 Cultural insularity.\
+3.4.1.R3 Suspicion toward spontaneity.\
+3.4.1.R4 Limited missionary dynamism in some contexts.
+
+### 3.4.2 Magisterial Development (Catholic)
+
+#### Strengths
+
+3.4.2.S1 Institutional coherence.\
+3.4.2.S2 Defined doctrinal development.\
+3.4.2.S3 Clear teaching authority.\
+3.4.2.S4 Global unity.
+
+#### Risks
+
+3.4.2.R1 Over-centralization.\
+3.4.2.R2 Juridical framing dominance.\
+3.4.2.R3 Philosophical systematization risks.\
+3.4.2.R4 Institutional entanglement with power.
+
+### 3.4.3 Scriptural Primacy (Protestant)
+
+#### Strengths
+
+3.4.3.S1 Accessibility.\
+3.4.3.S2 Missionary zeal.\
+3.4.3.S3 Personal repentance language.\
+3.4.3.S4 Creative worship expression.
+
+#### Risks
+
+3.4.3.R1 Fragmentation.\
+3.4.3.R2 Interpretive instability.\
+3.4.3.R3 Reduced sacramental ontology.\
+3.4.3.R4 Loss of historical memory.
+
+## 3.5 Density vs Accessibility
+
+3.5.1 Density defined as saturation of Scripture and symbol.\
+3.5.2 Liturgical saturation models.\
+3.5.3 Sermon-centric models.\
+3.5.4 Community vs individual emphasis.
+
+### 3.5.A Open Question
+
+3.5.A.1 Is density sustainable without centralization?
+
+## 3.6 Risk and Protection
+
+3.6.1 Institutional guardrails.\
+3.6.2 Charismatic immediacy.\
+3.6.3 Mystical caution vs experiential openness.
+
+### 3.6.A Open Question
+
+3.6.A.1 Where is the line between delusion and encounter?
+
+## 3.7 Apophatic Reality
+
+3.7.1 Limits of knowledge.\
+3.7.2 Dangers of certainty.\
+3.7.3 Humility as stabilizer.
+
+------------------------------------------------------------------------
+
+# 4.0 PART II --- MUTUAL ENRICHMENT
+
+## 4.1 On-Ramps by Tradition
+
+### 4.1.1 If Protestant
+
+4.1.1.A Attend liturgy.\
+4.1.1.B Pray Psalms corporately.\
+4.1.1.C Explore prostration.\
+4.1.1.D Read early Fathers.\
+4.1.1.E Practice silence.
+
+### 4.1.2 If Orthodox
+
+4.1.2.A Explore spontaneous prayer.\
+4.1.2.B Engage emotional vulnerability.\
+4.1.2.C Experiment creatively.\
+4.1.2.D Revisit missionary posture.\
+4.1.2.E Engage Scripture devotionally.
+
+### 4.1.3 If Catholic
+
+4.1.3.A Read Eastern Fathers.\
+4.1.3.B Experience Orthodox liturgy.\
+4.1.3.C Examine development criteria.\
+4.1.3.D Engage charismatic prayer responsibly.\
+4.1.3.E Reflect on conciliar listening.
+
+## 4.2 Embodied Practices
+
+4.2.1 Chant and vagal tone.\
+4.2.2 Humming and breath.\
+4.2.3 Bilateral cross-tapping.\
+4.2.4 Prostration and posture.\
+4.2.5 Repetitive prayer.\
+4.2.6 Glossolalia as neurological surrender (carefully framed).
+
+## 4.3 Confession and Discernment Bridge
+
+4.3.1 Catholic sacramental confession.\
+4.3.2 Orthodox spiritual fatherhood.\
+4.3.3 Protestant pastoral counseling.\
+4.3.4 Charismatic listening prayer.
+
+### 4.3.A Open Tension
+
+4.3.A.1 How to preserve discernment while allowing healing encounter?
+
+## 4.4 Relief Section
+
+4.4.1 You do not need to solve 1,000 years of history to pray.\
+4.4.2 You can explore without betraying your tradition.\
+4.4.3 Depth and freedom are not mutually exclusive.
+
+### 4.5 [Gemini 3.1 Pro+] The Modern Ecumenical Reality
+
+4.5.1 Most laity are unaware of the massive strides made in recent decades.\
+4.5.2 1965: The mutual lifting of the 1054 excommunications by Paul VI and Patriarch Athenagoras.\
+4.5.3 1999: The Joint Declaration on the Doctrine of Justification (Lutherans and Catholics finding consensus on the core issue of 1517).\
+4.5.4 1993: The Balamand Declaration (Orthodox and Catholics addressing "uniatism" and mutual recognition).\
+4.5.5 The relief of knowing that theologians and hierarchs are already dismantling the hostilities, even if full communion remains distant.
+
+------------------------------------------------------------------------
+
+# 5.0 ANALYTICAL INTELLIGENCE IN THIS PROJECT
+
+## 5.1 Method Overview
+
+5.1.1 Models detect logical inconsistencies.\
+5.1.2 Models identify asymmetries.\
+5.1.3 Models compare claims across traditions.\
+5.1.4 Models surface hidden assumptions.\
+5.1.5 Models assist tone calibration.
+
+## 5.2 Non-Claims
+
+5.2.1 Models possess no spiritual authority.\
+5.2.2 Models do not experience God.\
+5.2.3 Models do not pronounce doctrine.\
+5.2.4 Models do not replace discernment.
+
+## 5.3 Illumination Principle
+
+5.3.1 If something is true, it withstands examination.\
+5.3.2 If something is weak, clarification strengthens it.\
+5.3.3 Clarity reduces unnecessary hostility.
+
+------------------------------------------------------------------------
+
+# APPENDIX A --- HOW THE MODELS WORK
+
+A.1 Pattern prediction across large language datasets.\
+A.2 Context tracking across long passages.\
+A.3 Structural inference between claims.\
+A.4 Limitation awareness.\
+A.5 Bias awareness.
+
+### A.6 Explicit Non-Capacities
+
+A.6.1 No beliefs.\
+A.6.2 No prayer.\
+A.6.3 No spiritual discernment.\
+A.6.4 No revelation.
+
+------------------------------------------------------------------------
+
+# 6.0 EMOTIONAL TARGET
+
+6.1 Readers should feel relieved.\
+6.2 Readers should feel free.\
+6.3 Readers should feel curious.\
+6.4 Readers should feel respected.\
+6.5 Readers should feel invited.
+
+6.6 Readers should not feel corrected.\
+6.7 Readers should not feel cornered.\
+6.8 Readers should not feel humiliated.\
+6.9 Readers should not feel pressured.
