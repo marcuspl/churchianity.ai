@@ -41,10 +41,10 @@ Goal: expand the analysis while maintaining the **symmetry rule** and representa
 
 ### Chunk A (3.1–3.2)
 - [x] 3.1 Before the Fractures — argue for “shared inheritance first” as reader formation; note what unity did/does *and does not* mean
-- [ ] 3.1.C Pre-1054 fractures — show how invisibility distorts lay mental maps; name what changes when these families are included
+- [x] 3.1.C Pre-1054 fractures — show how invisibility distorts lay mental maps; name what changes when these families are included
 - [x] 3.1.D Empire/politics — argue “substrate/accelerant” without reductionism
-- [ ] 3.2 East–West — develop the “authority grammar divergence” argument without caricature (procedural + theological + cultural)
-- [ ] 3.2 Open Questions — add balanced “what each tradition fears” and “what each tradition protects” framing
+- [x] 3.2 East–West — develop the “authority grammar divergence” argument without caricature (procedural + theological + cultural)
+- [x] 3.2 Open Questions — add balanced “what each tradition fears” and “what each tradition protects” framing
 
 ### Chunk B (3.3–3.7)
 - [ ] 3.3 Reformation — develop “necessary correction + fragmentation cost” as a both/and; avoid triumphal and cynical versions

@@ -176,6 +176,13 @@
 3.1.C.3 `[GPT-5.2!]` Naming: calling 1054 the “first” fracture without this preface trains a false mental map.
 - **Editorial synthesis**: This is less about pedantry and more about reader formation: an honest timeline reduces tribal storytelling.
 
+### 3.1.C.A `[GPT-5.2+]` Pass 3 argument: What changes when these families are visible
+
+- **Editorial synthesis**: Including Oriental Orthodox and the Church of the East breaks the “two-team” narrative (Catholic vs Orthodox, then Protestant vs Catholic). The actual map is older and wider, and that realism lowers tribal adrenaline.\
+- **Editorial synthesis**: It also changes what “continuity” means. The oldest continuous Christian communities include non-Chalcedonian and non-Roman/Byzantine trajectories; continuity cannot be reduced to “stayed aligned with the eventual winner of European church politics.”\
+- **Editorial synthesis**: For the laity, this is relieving: if Christianity has always contained multiple high-integrity lineages, then encountering difference is not necessarily betrayal — it may be contact with another branch of the same ancient tree.\
+- **Editorial synthesis**: This visibility also protects honesty: later debates (papacy, filioque, reform) look different when you remember that huge Christian populations were already living outside those disputes’ jurisdictional frame.
+
 ### 3.1.D `[GPT-5.2+]` Empire, Jurisdiction, and the Political Substrate
 
 ### 3.1.E `[GPT-5.2+]` Pass 3 argument: Why “common ground first” is not rhetorical padding
@@ -266,6 +273,12 @@
 
 - **Editorial synthesis**: The filioque controversy illustrates a recurring pattern: the fight is not only about a clause; it is about the legitimacy of the process by which the clause enters the Church’s confession.\
 - **Editorial synthesis**: Once process is disputed, even shared theology becomes fragile because each side suspects the other’s mechanisms of correction.
+
+### 3.2.F `[GPT-5.2+]` Pass 3 argument: The three-layer model (theology, governance, memory)
+
+- **Editorial synthesis**: The East–West fracture is best read as three intertwined layers: (1) theological disputes with real stakes; (2) governance/procedure disputes about how truth is authorized; (3) memory — the accumulation of humiliations and injuries that makes even good-faith debate feel unsafe.\
+- **Editorial synthesis**: This three-layer model helps the laity avoid two reductive errors: “it was all politics” (dismissal) and “it was all doctrine” (amnesia about coercion and trauma).\
+- **Editorial synthesis**: It also clarifies why technical theological convergence alone rarely produces reunion: governance and memory are not solved by better footnotes.
 
 ## 3.3 The Second Major Fracture (Reformation) `[GPT-5.2~]`
 
