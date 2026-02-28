@@ -68,3 +68,15 @@
 - [x] Light touch — ensure accuracy of claims about AI method
 
 **Chunk C commit when all items above are done. (Stop here: Pass 2 complete)**
+
+---
+
+## Pass X: Academic Grounding Pass (Citations & References)
+
+**Objective:** Add academic rigor to the prose manuscript via Markdown footnotes (`[^1]`). This prevents the text from sounding like pop-theology/science and proves the structural translations are based on actual historical and scientific realities.
+
+- [ ] Execute Academic Grounding Pass: Chapters 1-3 (Historical Context) - *Cite early councils, 1054 documents, 1204 sources, Reformation primary texts.*
+- [ ] Execute Academic Grounding Pass: Chapters 4-6 (Theology & Stumbling Blocks) - *Cite specific Denzinger entries, Nicaea II decrees, conciliar texts, structural theologies.*
+- [ ] Execute Academic Grounding Pass: Chapter 8 (Neuroscience & Embodiment) - *Cite specific neurobiological/psychological studies on vagus nerve, DMN, limbic system, corpus callosum.*
+- [ ] Execute Academic Grounding Pass: Chapters 9-10 (Ecumenical Texts) - *Cite JDDJ, Balamand, Chambésy texts properly.*
+- [ ] Update compile_manuscript.py to handle footnote compilation if necessary (or just ensure standard markdown formatting is maintained).

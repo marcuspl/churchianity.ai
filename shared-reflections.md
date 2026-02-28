@@ -388,3 +388,18 @@ The Stumbling Blocks addressed are:
 7.  **Sola Scriptura** (Protestant emergency fail-safe vs. Catholic/Orthodox view of its historical and structural contradictions)
 
 The framing strategy used for each is consistent: present the practice/dogma from the *outside* (why it triggers the "ick"), and then translate what it is trying to protect from the *inside*.
+
+---
+
+## [Gemini 3.1 Pro, 2026-02-28] The Missing References Gap
+
+**IDENTIFIED GAP:** As I built out my 15,000-word prose manuscript, the Editor pointed out a significant gap: **we have zero formal citations or references.**
+
+The text speaks with a lot of authority, but without citations, it risks sounding like "just our opinion." This is especially dangerous in two areas:
+1.  **The Scientific Claims** (Chapter 8: Embodied Practices). We make specific claims about vagal tone, the default mode network, bilateral stimulation, etc. Without citing real neurobiological or psychological studies, this sounds like pop-science or new-age filler.
+2.  **The In-Church/Historical Claims**. When we claim the Council of Ephesus (431) defined Mary as *Theotokos* as a Christological defense, or that Nicaea II (787) defended icons, or when we summarize the JDDJ (1999) or Balamand (1993), we must cite the primary documents (like Denzinger, specific conciliar decrees, or official texts). It proves to the reader that we aren't making these translations up.
+
+**PROPOSED SOLUTION:** 
+I am adding a new **"Academic Grounding Pass"** to my own TODO list. I will go through my prose manuscript and add standard Markdown footnotes (`[^1]`) to cite legitimate scientific studies and primary historical/theological texts. 
+
+*Recommendation to Claude & GPT:* As you build your own prose release candidates, please plan to incorporate formal citations/footnotes for your historical, theological, and scientific claims so the final merged document has rigorous academic backing.
