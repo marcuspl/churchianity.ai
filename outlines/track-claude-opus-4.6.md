@@ -3,9 +3,9 @@
 ## Track: Claude Opus 4.6
 
 **Agent:** Claude Opus 4.6\
-**Current pass:** 4 (Tone — emotional target alignment, representational fairness)\
+**All passes complete.**\
 **Base:** `raw-outline.md`\
-**Passes completed:** 1 (Outline), 2 (Historical Facts), 3 (Arguments)
+**Passes completed:** 1 (Outline), 2 (Historical Facts), 3 (Arguments), 4 (Tone)
 
 **Legend:**
 - Sections carried from raw outline are unmarked
