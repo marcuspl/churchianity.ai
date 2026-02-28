@@ -237,17 +237,17 @@ criminal crises.
 
 #### Strengths
 
-3.4.1.S1 Historical rootedness.\
-3.4.1.S2 Sacramental density.\
-3.4.1.S3 Guardrails against delusion.\
-3.4.1.S4 Apophatic restraint.
+3.4.1.S1 Historical rootedness (maintains an unbroken, recognizable link to patristic worship and polity).
+3.4.1.S2 Sacramental density (worship is a saturated immersion in the physical/spiritual, not primarily an intellectual exercise).
+3.4.1.S3 Guardrails against delusion (the "spiritual father" tradition and reliance on patristic consensus protects individuals from mistaking their own psychology for divine revelation).
+3.4.1.S4 Apophatic restraint (protects God's mystery from being reduced to a solvable theological equation).
 
 #### Risks
 
-3.4.1.R1 Stagnation.\
-3.4.1.R2 Cultural insularity.\
-3.4.1.R3 Suspicion toward spontaneity.\
-3.4.1.R4 Limited missionary dynamism in some contexts.
+3.4.1.R1 Stagnation (without a central magisterium or an emperor, the conciliar system struggles to formally address modern ethical or theological crises, risking historical paralysis).
+3.4.1.R2 Cultural insularity (the very mechanism that protected the church under empires—deep national/ethnic identification, e.g., "Russian" or "Greek" Orthodox—often becomes an ethnophyletism that alienates outsiders).
+3.4.1.R3 Suspicion toward spontaneity (the intense focus on the received rite can leave little room for charismatic or immediate personal expression).
+3.4.1.R4 Limited missionary dynamism in some contexts (a focus on preserving the deposit of faith can sometimes eclipse the mandate to evangelize).
 
 ### 3.4.2 Magisterial Development (Catholic)
 
@@ -256,17 +256,17 @@ criminal crises.
 
 #### Strengths
 
-3.4.2.S1 Institutional coherence.\
-3.4.2.S2 Defined doctrinal development.\
-3.4.2.S3 Clear teaching authority.\
-3.4.2.S4 Global unity.
+3.4.2.S1 Institutional coherence (a singular, globally recognizable authority structure that prevents infinite doctrinal splintering).
+3.4.2.S2 Defined doctrinal development (a formal mechanism to address new historical and ethical realities without claiming to invent new revelation).
+3.4.2.S3 Clear teaching authority (the Magisterium provides the average believer with definitive answers on what constitutes orthodoxy).
+3.4.2.S4 Global unity (transcends ethnic and national boundaries more effectively than autocephalous or congregational models).
 
 #### Risks
 
-3.4.2.R1 Over-centralization.\
-3.4.2.R2 Juridical framing dominance.\
-3.4.2.R3 Philosophical systematization risks.\
-3.4.2.R4 Institutional entanglement with power.
+3.4.2.R1 Over-centralization (concentrates catastrophic risk; when the center fails morally or theologically, the entire global structure suffers the consequences).
+3.4.2.R2 Juridical framing dominance (the legacy of Roman law can reduce the mystery of salvation into legal categories of merit, debt, and treasury).
+3.4.2.R3 Philosophical systematization risks (an over-reliance on scholasticism—e.g., Thomism—can create an illusion of total theological certainty, leaving little room for apophatic mystery).
+3.4.2.R4 Institutional entanglement with power (the historical necessity of operating as a quasi-state has repeatedly compromised the Church's prophetic witness).
 
 ### 3.4.3 Scriptural Primacy (Protestant) [Gemini 3.1 Pro~]
 
@@ -274,17 +274,17 @@ criminal crises.
 
 #### Shared Strengths
 
-3.4.3.S1 Accessibility.\
-3.4.3.S2 Missionary zeal.\
-3.4.3.S3 Personal repentance language.\
-3.4.3.S4 Creative worship expression.
+3.4.3.S1 Accessibility (vernacular translations and democratic reading practices allow ordinary believers direct, unmediated access to the central texts of the faith).
+3.4.3.S2 Missionary zeal (the lack of a heavy institutional apparatus allows the faith to rapidly contextualize and plant itself in new cultures).
+3.4.3.S3 Personal repentance language (a strong theological emphasis on the individual's direct, conscious, and willful response to the gospel).
+3.4.3.S4 Creative worship expression (the freedom to adapt musical styles and gathering structures to contemporary idioms without waiting for magisterial approval).
 
 #### Shared Risks
 
-3.4.3.R1 Fragmentation.\
-3.4.3.R2 Interpretive instability.\
-3.4.3.R3 Reduced sacramental ontology.\
-3.4.3.R4 Loss of historical memory.
+3.4.3.R1 Fragmentation (the structural reality that *sola scriptura* without a shared interpretive umpire inevitably produces thousands of competing theological denominations).
+3.4.3.R2 Interpretive instability (the meaning of texts can shift rapidly based on the prevailing cultural winds or the charisma of the individual expositor).
+3.4.3.R3 Reduced sacramental ontology (in the drive to eliminate "superstition" and emphasize intellectual belief, the physical world—water, bread, wine, bodies—is often stripped of its ability to mediate grace).
+3.4.3.R4 Loss of historical memory (a tendency to view church history as "the New Testament, a 1,500-year gap, and then my local church," leaving believers unmoored from the broader Christian heritage).
 
 #### 3.4.3.A [Gemini 3.1 Pro+] Liturgical/Confessional (High Protestant)
 *(Anglicans, Lutherans, some Reformed)*
