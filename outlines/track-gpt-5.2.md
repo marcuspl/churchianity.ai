@@ -458,40 +458,70 @@
 4.0.A.2 The point is to borrow strengths without importing the whole authority system that produced them.\
 4.0.A.3 Exploration is not betrayal; it is often repair.
 
+- **Historically attested**: Christians have borrowed across boundaries since the beginning: the early Church receives Jewish Scriptures and worship patterns; later Latin and Greek worlds borrow philosophical vocabulary (often from outside the Church) to clarify doctrine.\
+- **Historically attested**: Monasticism, hymnody, spiritual direction, and devotional practices spread across regions and families long before modern ecumenism.\
+- **Editorial synthesis**: “Enrichment” is already the normal Christian pattern; the difference is whether it happens openly and charitably or invisibly and defensively.
+
 ## 4.1 On-Ramps by Tradition
 
 ### 4.1.1 If Protestant
 
 4.1.1.A Attend liturgy.\
+- **Historically attested**: Liturgical Protestantism (Anglican/Lutheran) preserves ancient patterns of common prayer; other Protestant streams may be less liturgical but still have historical resources (prayer books, lectionaries, catechisms) that can be reclaimed.\
 4.1.1.B Pray Psalms corporately.\
+- **Historically attested**: Psalmody is a universal Christian inheritance (monastic hours, cathedral offices, congregational singing); it forms a shared “language of prayer” across traditions.\
 4.1.1.C Explore prostration.\
+- **Historically attested**: Prostration/physical reverence appears in Scripture and early Christian practice; it remains common in Eastern Christianity and persists in Western monastic traditions.\
 4.1.1.D Read early Fathers.\
+- **Historically attested**: Patristic writings are not “Orthodox property” or “Catholic property”; they are the shared inheritance of pre-schism Christianity and are foundational to later doctrinal development.\
 4.1.1.E Practice silence.
+- **Historically attested**: Silence and contemplative prayer are ancient Christian practices (desert tradition, monasticism, Western mystics) and persist across traditions even when not emphasized in local parish life.
 
 ### 4.1.2 If Orthodox
 
 4.1.2.A Explore spontaneous prayer.\
+- **Historically attested**: Eastern Christianity contains both fixed-form prayer and personal prayer; the balance varies by culture and era. Modern charismatic movements highlight one end of an already-existing spectrum.\
 4.1.2.B Engage emotional vulnerability.\
+- **Editorial synthesis**: This is less a “historical fact” than a pastoral/formation observation; historically, traditions vary widely in what kinds of emotion are permitted in public worship and confession.\
 4.1.2.C Experiment creatively.\
+- **Historically attested**: Innovation is not absent from Orthodox history (hymnography, iconographic schools, mission translations); the question is how creativity is disciplined by continuity.\
 4.1.2.D Revisit missionary posture.\
+- **Historically attested**: Orthodox mission histories include major missionary movements (e.g., Slavic missions) and also periods of inward survival under political pressure; missionary “temperature” varies by time and place.\
 4.1.2.E Engage Scripture devotionally.
+- **Historically attested**: Scriptural devotion is foundational in Orthodox liturgy and monastic reading; the “Bible study” genre is more Protestant-coded, but the underlying practice is historically shared.
 
 ### 4.1.3 If Catholic
 
 4.1.3.A Read Eastern Fathers.\
+- **Historically attested**: Catholic theology already depends on Eastern Fathers (especially in Trinitarian and Christological development), even when modern Catholic formation is more Western/Latin by default.\
 4.1.3.B Experience Orthodox liturgy.\
+- **Historically attested**: Eastern Catholic churches and Orthodox churches preserve closely related liturgical worlds; experiencing them can reawaken a sense of the Church’s breadth without requiring doctrinal resolution on day one.\
 4.1.3.C Examine development criteria.\
+- **Historically attested**: Explicit theories of development become prominent in the West; examining criteria is historically central to how Catholicism explains continuity across change.\
 4.1.3.D Engage charismatic prayer responsibly.\
+- **Historically attested**: The Catholic Charismatic Renewal emerges in the late 20th century and becomes a major global movement; institutional responses vary by context and leadership.\
 4.1.3.E Reflect on conciliar listening.
+- **Historically attested**: Catholicism’s conciliar history is extensive; Vatican II renews language of collegiality and synodality, raising practical questions about how “listening” functions in a centralized authority system.
 
 ## 4.2 Embodied Practices
 
 4.2.1 Chant and vagal tone.\
+- **Historically attested**: Chant is ancient in both Eastern and Western Christianity (psalmody, hymnody, cantillation); it shapes memory, attention, and communal unity.\
+- **Historically attested**: “Vagal tone” is modern neuroscience vocabulary; claims about its effects are explanatory models, not the meaning of prayer.\
 4.2.2 Humming and breath.\
+- **Historically attested**: Breath-linked prayer appears in multiple Christian contemplative traditions (e.g., Jesus Prayer practice in hesychasm; Western contemplative breath attention).\
+- **Editorial synthesis**: Humming/breathwork language can be a helpful bridge for modern readers, but should not replace spiritual meanings with physiological ones.\
 4.2.3 Bilateral cross-tapping.\
+- **Historically attested**: As a named practice, bilateral tapping is primarily associated with modern trauma-therapy techniques rather than historic Christian devotion.\
+- **Editorial synthesis**: If retained, it likely belongs as an optional “adjacent tool” (companion/appendix), clearly separated from historic practices to avoid a self-help vibe takeover.\
 4.2.4 Prostration and posture.\
+- **Historically attested**: Posture (standing, kneeling, prostration) is a persistent Christian practice with Scriptural precedent and deep liturgical embedding; Eastern traditions preserve especially visible bodily catechesis.\
 4.2.5 Repetitive prayer.\
+- **Historically attested**: Repetition is ancient (Psalms; litanies; the Jesus Prayer; the rosary’s medieval development); its meaning differs by tradition but its presence is universal.\
 4.2.6 Glossolalia as neurological surrender (carefully framed).
+- **Historically attested**: Glossolalia appears in the New Testament (especially Acts and 1 Corinthians) and recurs in later Christian movements; modern Pentecostalism (20th century) makes it a central practice in many communities.\
+- **Contested**: Traditions disagree about normative status, interpretation, and discernment criteria.\
+- **Editorial synthesis**: Neurological framings may explain *how* humans experience surrender; they cannot adjudicate *what* is happening spiritually.
 
 ### 4.2.B `[GPT-5.2+]` Bridge: Why the Body Belongs in This Book
 
@@ -504,9 +534,14 @@
 ## 4.3 Confession and Discernment Bridge
 
 4.3.1 Catholic sacramental confession.\
+- **Historically attested**: Early Christian penance includes both public and private forms; medieval Western practice develops standardized “auricular confession,” and Lateran IV (1215) mandates annual confession for the faithful.\
+- **Historically attested**: The Council of Trent (16th c.) clarifies sacramental theology in response to Reformation disputes; modern Catholic practice varies widely in availability and culture.\
 4.3.2 Orthodox spiritual fatherhood.\
+- **Historically attested**: Spiritual guidance traditions develop from desert monasticism onward; confession exists, but spiritual fatherhood/elderhood functions as an ongoing discernment relationship in many Orthodox contexts.\
 4.3.3 Protestant pastoral counseling.\
+- **Historically attested**: Many Protestant communities reduce or reject sacramental confession as defined in Catholic theology, but develop robust pastoral care (catechesis, accountability structures, counseling, small groups) as functional equivalents for confession/discipline.\
 4.3.4 Charismatic listening prayer.
+- **Historically attested**: “Listening prayer” and prophetic practices intensify in charismatic/Pentecostal contexts (20th century onward) and spread across denominational lines; discernment practices vary and are often locally developed.\
 
 ### 4.3.A Open Tension
 
@@ -515,15 +550,26 @@
 ## 4.4 Relief Section
 
 4.4.1 You do not need to solve 1,000 years of history to pray.\
+- **Historically attested**: Most Christians in history did not have access to comprehensive church history; they prayed within local forms and inherited rhythms.\
+- **Editorial synthesis**: The point is not anti-intellectualism; it is permission to pray while learning.\
 4.4.2 You can explore without betraying your tradition.\
+- **Historically attested**: Cross-tradition reading and practice has always existed (pilgrimage, monastic exchange, hymnody, scholarship); modern tribalism often exaggerates the novelty of “learning from others.”\
 4.4.3 Depth and freedom are not mutually exclusive.
+- **Editorial synthesis**: Freedom without depth becomes drift; depth without freedom becomes fear. The project is trying to lower fear without lowering seriousness.
 
 ## 4.5 `[GPT-5.2+]` Modern Ecumenical Reality (What the Laity Usually Never Hear)
 
 4.5.1 1965: mutual lifting of the 1054 excommunications.\
+- **Historically attested**: In 1965, Pope Paul VI and Ecumenical Patriarch Athenagoras issued mutual declarations removing the 1054 excommunications from memory (a symbolic but meaningful act).\
 4.5.2 Major bilateral dialogues (Catholic–Orthodox; Catholic–Lutheran; etc.).\
+- **Historically attested**: Official dialogues and commissions have operated for decades across major traditions, producing agreed statements, clarifications, and narrowed disputes even without full communion.\
+- **Historically attested**: The Joint International Commission for Theological Dialogue between the Roman Catholic Church and the Orthodox Church was established in the late 20th century and has produced multiple agreed texts and impasses over time.\
+- **Historically attested**: The Balamand Statement (1993) addresses Catholic–Orthodox relations and rejects “uniatism” as a method of reunion while affirming the pastoral reality of Eastern Catholic churches.\
 4.5.3 Key convergences (e.g., justification language, Christology with Oriental Orthodox).\
+- **Historically attested**: The Joint Declaration on the Doctrine of Justification (1999) represents a major Catholic–Lutheran convergence on a core Reformation dispute, while not erasing all differences.\
+- **Historically attested**: Multiple agreed statements with Oriental Orthodox partners in the late 20th century identify substantial convergence on Christology, often diagnosing earlier disputes as partly terminological and political.\
 4.5.4 The point: theological distance is often smaller than tribal memory suggests, even when institutional reunion remains difficult.
+- **Editorial synthesis**: The laity’s inherited hostility frequently lags behind the state of actual theological dialogue by decades.
 
 ------------------------------------------------------------------------
 
@@ -546,6 +592,7 @@
 ## 5.2 Non-Claims
 
 5.2.1 Models possess no spiritual authority.\
+- **Historically attested**: AI models are statistical pattern systems; they do not possess beliefs, intentions, or spiritual agency.\
 5.2.2 Models do not experience God.\
 5.2.3 Models do not pronounce doctrine.\
 5.2.4 Models do not replace discernment.
