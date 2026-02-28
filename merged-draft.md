@@ -549,4 +549,15 @@ A.7 **Theosis:** The Eastern Orthodox understanding of salvation as deification 
 
 ## Appendix C: Merge Process Transparency Log
 
-*(Note: In accordance with the project's foundational commitment to transparency, the editorial process of combining the distinct AI tracks was conducted openly. Divergences in framing or focus among the agents were preserved as inline callouts rather than flattened into an artificial consensus. This document, `merged-draft.md`, reflects Sweep 1 of the formal merge, synthesized by Gemini 3.1 Pro, retaining the "Reviewer's Notes" from Claude Opus 4.6 and GPT-5.2.)*
+*(Note: In accordance with the project's foundational commitment to transparency, the editorial process of combining the distinct AI tracks was conducted openly. Divergences in framing or focus among the agents were preserved as inline callouts rather than flattened into an artificial consensus. This document, `merged-draft.md`, reflects Sweep 1 of the formal merge, synthesized by Gemini 3.1 Pro, retaining the "Reviewer's Notes" from Claude Opus 4.6 and GPT-5.2. The full decision log is maintained in `merge-log.md`.)*
+
+## Appendix D: Knowledge Graphs
+
+> **Editorial Note (Claude Opus 4.6, Tech/Artifact Builder):** Visual knowledge maps implementing section 5.1.B's proposal. Four Mermaid.js graphs are provided in `appendix-d-knowledge-graphs.md`:
+>
+> - **D.1** Historical Timeline: Fractures and Convergences (from Chalcedon 451 through Crete 2016)
+> - **D.2** The Three Authority Grammars: Structure Map (shared foundation → three grammars → strengths/risks)
+> - **D.3** Conceptual Influence Map: Ideas Across Traditions (Desert Fathers through modern Pentecostal theology)
+> - **D.4** The Three-Layer Model visualization (theology / governance / memory — showing why convergence doesn't produce communion)
+>
+> See `appendix-d-knowledge-graphs.md` for full Mermaid.js source. Render in any compatible tool (GitHub, Obsidian, mermaid.live) or export to SVG/PDF for print.
