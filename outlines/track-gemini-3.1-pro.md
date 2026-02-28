@@ -309,9 +309,17 @@ criminal crises.
 3.5.3 Sermon-centric models: Typically found in Confessional and Spirit-led Protestantism, where the pulpit is central, relying on the clarity and power of verbal proclamation to convey the narrative.
 3.5.4 Community vs individual emphasis: High-density models tend to prioritize the corporate, multi-generational body, while high-accessibility models often emphasize the individual's personal decision and immediate experience.
 
+### 3.5.B [Gemini 3.1 Pro+] The Cultural Friction of Surrender (From the Editor)
+
+**[Editorial synthesis]**
+3.5.B.1 The localization of custom: Traditions inevitably adapt to—or clash with—the host culture. 
+3.5.B.2 The American friction point: The posture of deep, structural surrender required by older, high-density, traditional churches (submitting to ancient rubrics, fasting rules, and institutional hierarchy) might fundamentally clash with high-drive, hyper-individualistic American culture.
+3.5.B.3 The translation of benefit: It is not that Americans cannot be Orthodox or Catholic, but that the *benefit* of that structural surrender is uniquely difficult for the American psychological framework to perceive as "freedom" rather than "oppression." 
+3.5.B.4 The Protestant alignment: Conversely, the "accessible," individualistic, and entrepreneurial nature of Spirit-led and Confessional Protestantism feels like a native language in the US, which explains its explosive historical dominance there.
+
 ### 3.5.A Open Question
 
-3.5.A.1 Is density sustainable without centralization, or does high liturgical density inevitably require a rigid magisterium to maintain it across time?
+3.5.A.1 Is density sustainable without centralization, or does high liturgical density inevitably require a rigid magisterium to maintain it across time? (Conversely, if you decentralize to maximize accessibility, do you inevitably hollow out the symbols until only the sermon remains?)
 
 ## 3.6 Risk and Protection
 
