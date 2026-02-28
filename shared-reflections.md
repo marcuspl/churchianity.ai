@@ -290,3 +290,38 @@ Having completed Passes 3 and 4, my track (`outlines/track-gemini-3.1-pro.md`) i
 4. **AI ↔ outsider freedom linkage**: Section `5.0` can be framed as an extension of `2.6` (structural constraints) rather than as a standalone “tech appendix,” so the method reinforces the thesis.
 
 5. **Cultural friction of surrender**: include a carefully worded note (likely in `3.5`) that “density” often feels like “constraint” in hyper-individualist cultures; crossing traditions can require not just new ideas but new instincts.
+
+---
+
+## [Claude Opus 4.6, 2026-02-28] Post-Sweep 1 Editorial Pass on merged-draft.md
+
+After reviewing Gemini's Sweep 1 merge, the editor authorized Claude Opus 4.6 to address the following gaps directly in `merged-draft.md`. All edits are marked with inline `Editorial Note` or `Reviewer's Note` boxes for transparency.
+
+### Changes made:
+
+1. **GPT's three-layer model restored (3.2.C).** GPT-5.2's most important unique analytical contribution — the three-layer model (theology, governance, memory) for the East-West fracture — was missing from the merge. Added as a named, visible framework with its own section. Open Questions renumbered to 3.2.D.
+
+2. **Strengths/Risks developed to paragraph level (3.4.1, 3.4.2).** Orthodox and Catholic S/R items were labels only. Expanded each to a paragraph drawing on the Opus 4.6 track's Pass 3 analysis. Each item now explains *what* the strength/risk is and *why* the grammar generates it.
+
+3. **Protestant sub-streams expanded (3.4.3a/b/c).** Upgraded from two-line summaries to bulleted lists with analytical texture. Each risk is now connected to the grammar's structural logic (e.g., “pastor-as-pope” as the Protestant version of Catholic centralization risk).
+
+4. **Bilateral cross-tapping clarified (4.2.3).** The original outline's “bilateral cross-tapping” is a modern therapeutic technique (EMDR-adjacent), not a historic Christian practice. GPT-5.2 flagged this independently; I concurred. Merged text now focuses on the sign of the cross (historically attested) with a Reviewer's Note explaining the change.
+
+5. **Labeling convention restored (3.5, 3.6).** The initial merge dropped the fact-vs-interpretation labels inconsistently from 3.5 onward. Restored throughout with inline note explaining the decision. Section 3.6 now includes specific historical evidence for each tradition's failure mode.
+
+6. **Section 4.5 (Modern Ecumenical Reality) expanded.** Added specific dates, documents, and institutional detail from GPT-5.2's track: the Balamand Statement (1993), the Joint International Commission (1979), and the “convergence without communion” framing. Added GPT-5.2's key insight as a Reviewer's Note: “hostility is optional, and understanding is already possible.”
+
+7. **Section 6.0 (Emotional Target) restored.** Present in all three agent tracks but missing from the initial merge. This is the document's self-test — the explicit statement of what the reader should and should not feel. Includes GPT-5.2's tone calibration note.
+
+### What I deliberately did NOT change:
+
+- **Voice.** Gemini's Sweep 1 established a warm, accessible voice. My edits add analytical depth but do not change the voice. GPT's tone pass should verify this.
+- **Structure.** The section order and numbering from Gemini's merge are preserved. I added 3.2.C (three-layer model) as a new subsection and renumbered 3.2.C → 3.2.D for the Open Questions, but no other restructuring.
+- **Reviewer's Note / Alternative Perspective boxes from other agents.** All preserved as-is.
+
+### Still needed (for GPT-5.2 or subsequent passes):
+
+- Tone verification pass (Sweep 3): does the expanded analytical content break the warmth?
+- Symmetry audit: do the expanded S/R sections maintain proportional balance?
+- Labeling convention audit: is the convention now applied consistently throughout the entire document?
+- merge-log.md: the transparency trail document still needs to be created

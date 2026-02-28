@@ -174,12 +174,22 @@ The schism between the Latin West and the Greek East is usually dated to 1054. B
 3.2.B.6 **The failed reunion councils.** *Historically attested:* Lyon (1274) and Florence (1438) failed because they were imposed under political duress.
 3.2.B.7 **The lifting of the excommunications (1965).** *Historically attested:* A gesture of reconciliation that officially stated the hostility of 1054 no longer defines the relationship.
 
-### 3.2.C Open Questions
+### 3.2.C The Three-Layer Model
 
-3.2.C.1 **What constitutes legitimate doctrinal development?**
-3.2.C.2 **Does centralization safeguard unity or concentrate risk?**
-3.2.C.3 **Can conciliar models prevent stagnation?**
-3.2.C.4 **Was the schism primarily theological, political, or cultural? Can these be separated?** *Editorial synthesis:* The honest answer is: no, they cannot be separated. The lay reader who grasps this is better positioned than most scholars to understand what actually happened.
+> **Editorial Note (Claude Opus 4.6, drawing on GPT-5.2's framework):** The East–West fracture is best understood as three intertwined layers, not one. Collapsing them produces the two most common reductive errors: "it was all politics" (which dismisses genuine theological stakes) and "it was all doctrine" (which erases coercion and trauma). The three layers are:
+
+3.2.C.1 **Layer 1: Theology.** The filioque, papal authority, the scope of doctrinal development — these are real disputes with real stakes. They are not manufactured.
+3.2.C.2 **Layer 2: Governance.** How is truth authorized? Who gets to settle disputes? The conciliar-vs-papal question is a *procedural* disagreement that became doctrinal precisely because each side believed the other's process was illegitimate.
+3.2.C.3 **Layer 3: Memory.** The accumulation of humiliations and injuries — 1054, 1204, the failed reunion councils imposed under duress — that makes even good-faith dialogue feel unsafe. Memory is not healed by better footnotes.
+
+> The three-layer model clarifies why technical theological convergence alone rarely produces reunion: you can resolve the theology and still have governance and memory blocking the way. It also clarifies why modern ecumenical dialogues (section 4.5) produce "convergence without communion" — they work on Layer 1 while Layers 2 and 3 remain largely untouched.
+
+### 3.2.D Open Questions
+
+3.2.D.1 **What constitutes legitimate doctrinal development?**
+3.2.D.2 **Does centralization safeguard unity or concentrate risk?**
+3.2.D.3 **Can conciliar models prevent stagnation?**
+3.2.D.4 **Was the schism primarily theological, political, or cultural? Can these be separated?** *Editorial synthesis:* The honest answer is: no, they cannot be separated. The lay reader who grasps this is better positioned than most scholars to understand what actually happened.
 
 ## 3.3 The Second Fracture (Reformation)
 
@@ -218,39 +228,43 @@ The three authority grammars function the same way. Orthodox conciliar continuit
 
 ### 3.4.1 Conciliar Continuity (Orthodox)
 
+> **Editorial Note (Claude Opus 4.6):** The strengths and risks below are expanded from label-only summaries in the initial merge draft. Development draws on the Opus 4.6 track's Pass 3 analysis. The core analytical argument: the Orthodox grammar's deepest strength is also the source of its deepest risk. A system optimized for preservation can underperform at adaptation; the reverse is equally true.
+
 #### Strengths
-3.4.1.S1 Historical rootedness.
-3.4.1.S2 Sacramental density.
-3.4.1.S3 Guardrails against delusion.
-3.4.1.S4 Apophatic restraint.
-3.4.1.S5 Theosis (deification) as soteriological framework.
-3.4.1.S6 Liturgical theology — the idea that worship *is* theology, not an application of it.
+3.4.1.S1 **Historical rootedness.** An Orthodox Christian in 2026 can attend a liturgy that is substantially the same service as in the 9th century. That continuity is not nostalgia — it is a form of formation-by-immersion that no other tradition replicates at the same depth.
+3.4.1.S2 **Sacramental density.** The Byzantine Divine Liturgy of St. John Chrysostom contains approximately 90 distinct scriptural quotations, allusions, or paraphrases in a single service. The worshipper is immersed in Scripture without needing to open a study Bible.
+3.4.1.S3 **Guardrails against delusion.** The Orthodox concept of *prelest* (spiritual delusion) and the tradition of the spiritual father provide a vocabulary and a relationship for testing spiritual claims — something many newer traditions lack.
+3.4.1.S4 **Apophatic restraint.** The insistence that God exceeds all human categories is not incidental to Orthodox theology — it is structural. It prevents theological speech from collapsing God into our concepts.
+3.4.1.S5 **Theosis (deification).** Salvation understood as participation in divine life, not merely legal acquittal. This soteriological framework — rooted in Athanasius ("God became man so that man might become God") and developed through Maximus and Palamas — offers a vision of the Christian life as transformation, not just transaction.
+3.4.1.S6 **Liturgical theology.** The idea that worship *is* theology, not an application of it. The liturgy is not a delivery mechanism for ideas — it is the primary site where the faith is encountered.
 
 #### Risks
-3.4.1.R1 Stagnation.
-3.4.1.R2 Cultural insularity.
-3.4.1.R3 Suspicion toward spontaneity.
-3.4.1.R4 Limited missionary dynamism in some contexts.
-3.4.1.R5 Ethnic captivity — the tendency for Orthodox churches to become extensions of national identity.
-3.4.1.R6 Jurisdictional rivalry — multiple overlapping jurisdictions in the diaspora.
+3.4.1.R1 **Stagnation.** The commitment to preserving what was received can blur the line between living tradition and cultural artifact. The Orthodox have not held an ecumenical council since 787. The 2016 Holy and Great Council in Crete — the first pan-Orthodox council in over a millennium — saw several major churches (Russia, Georgia, Bulgaria, Antioch) refuse to attend.
+3.4.1.R2 **Cultural insularity.** When preservation becomes the dominant instinct, engagement with the contemporary world can atrophy. Apologetics, public theology, and cultural engagement are structurally underserved in some Orthodox contexts.
+3.4.1.R3 **Suspicion toward spontaneity.** The grammar treats novelty as suspect by default. This protects against fads but can also suppress genuine renewal.
+3.4.1.R4 **Limited missionary dynamism.** Orthodoxy has a deep missionary tradition (Cyril and Methodius, the Russian mission to Alaska), but in the modern West, many parishes function primarily as ethnic enclaves.
+3.4.1.R5 **Ethnic captivity.** Because Orthodox churches are organized along national lines (autocephaly), the church can become the spiritual arm of national identity. In the diaspora, this produces the anomaly of multiple overlapping jurisdictions in the same city, distinguished not by theology but by ethnicity.
+3.4.1.R6 **Jurisdictional rivalry.** The 2016 Crete council was supposed to address overlapping jurisdictions. It barely tried.
 
 ### 3.4.2 Magisterial Development (Catholic)
 
+> **Editorial Note (Claude Opus 4.6):** Development expanded from labels. The Catholic grammar's defining move is *development* — the claim that doctrine is not static but grows organically under magisterial guidance. This is both the system's greatest intellectual achievement and its most vulnerable point.
+
 #### Strengths
-3.4.2.S1 Institutional coherence.
-3.4.2.S2 Defined doctrinal development.
-3.4.2.S3 Clear teaching authority.
-3.4.2.S4 Global unity.
-3.4.2.S5 The social teaching tradition — sustained engagement with justice and human dignity.
-3.4.2.S6 The religious orders — engines of renewal *within* institutional continuity.
+3.4.2.S1 **Institutional coherence.** A Catholic in Manila, Lagos, São Paulo, and Chicago receives substantially the same catechesis and participates in substantially the same liturgy. No other Christian body achieves this scale of global coherence.
+3.4.2.S2 **Defined doctrinal development.** Newman's argument (1845) is elegant: a living idea develops over time. The seven ecumenical councils were themselves developments — Nicaea's *homoousios* is not a biblical word. If those developments were legitimate, the Catholic system provides a mechanism for navigating new questions while maintaining continuity.
+3.4.2.S3 **Clear teaching authority.** When disputes arise, the magisterium can settle them definitively. This prevents the interpretive multiplication that characterizes Protestant history.
+3.4.2.S4 **Global unity.** One billion Catholics in full communion. Whatever its costs, the system *works* at the level of institutional cohesion.
+3.4.2.S5 **The social teaching tradition.** From *Rerum Novarum* (1891) through *Laudato Si'* (2015), Catholicism has produced the most sustained, systematic engagement with justice, labor, economics, and human dignity in the Christian world.
+3.4.2.S6 **The religious orders.** Benedictines, Franciscans, Dominicans, Jesuits — engines of renewal *within* institutional continuity. When the institution stagnates, the orders reform it from inside. This is a structural feature no other tradition replicates at scale.
 
 #### Risks
-3.4.2.R1 Over-centralization.
-3.4.2.R2 Juridical framing dominance.
-3.4.2.R3 Philosophical systematization risks.
-3.4.2.R4 Institutional entanglement with power.
-3.4.2.R5 The development principle can justify too much — if doctrine can develop, what constrains development?
-3.4.2.R6 Marian maximalism — doctrines that the East considers innovations.
+3.4.2.R1 **Over-centralization.** When authority is concentrated, trust collapses faster when leadership fails. Errors and scandals propagate farther because the system's strengths are institutional — and so are its vulnerabilities.
+3.4.2.R2 **Juridical framing dominance.** The Western turn toward legal categories (sin as crime, salvation as acquittal, penance as sentence) can obscure the Eastern emphasis on healing, participation, and transformation.
+3.4.2.R3 **Philosophical systematization risks.** The Thomistic synthesis is a genuine intellectual achievement. But when one philosophical framework becomes *the* framework, it can crowd out other legitimate approaches — and it can make the system feel more like an intellectual fortress than a living tradition.
+3.4.2.R4 **Institutional entanglement with power.** From the Papal States to the Concordats, the Catholic system's political relationships have repeatedly compromised its prophetic voice.
+3.4.2.R5 **The development principle can justify too much.** The mechanism for determining legitimate development is the very authority whose development is in question. The Pope defines infallibility; infallibility guarantees the Pope's definitions. The circularity is real, and Catholic theologians have struggled with it honestly.
+3.4.2.R6 **Marian maximalism.** The Immaculate Conception (1854) and the Assumption (1950) — defined as dogma by papal authority alone, without conciliar consensus — represent precisely the kind of development the East considers innovation. They are a concrete test case for the development principle's limits.
 
 > **Reviewer's Note (Gemini 3.1 Pro): The Catholic Grammar Mechanism**
 > The Catholic grammar's defining move is *development*. Newman's argument (1845) is elegant: a living idea develops over time. The Orthodox counter-argument is that development becomes dangerous when the mechanism for determining legitimate development is the very authority whose development is in question. The Pope defines infallibility; infallibility guarantees the Pope's definitions. This circularity is the structural vulnerability of the grammar.
@@ -277,30 +291,66 @@ The three authority grammars function the same way. Orthodox conciliar continuit
 3.4.3.R4 Loss of historical memory.
 
 #### 3.4.3a Liturgical/Confessional Protestant (Anglican, Lutheran, some Reformed)
-**Strengths:** Retains creedal/confessional structure, ordained ministry, liturgical worship, strong intellectual tradition.
-**Risks:** Identity crisis, institutional decline, internal polarization, bureaucratic weight without global coherence.
+
+> **Editorial Note (Claude Opus 4.6):** Sub-stream sections expanded from two-line summaries. Each sub-stream is a different answer to the same modern pressures — and each answer carries its own shadow.
+
+**Strengths:**
+- Retains creedal and confessional structure — the Augsburg Confession, the Book of Common Prayer, the Westminster Standards.
+- Ordained ministry with apostolic succession (Anglicans) or structured ordination.
+- Liturgical worship that preserves density — closest to Catholic/Orthodox in form.
+- Strong intellectual and academic tradition — serious engagement with philosophy, history, and theology.
+
+**Risks:**
+- Identity crisis — often experienced as "Catholics who left but can't remember why" or "Protestants who stayed too close."
+- Institutional decline — mainline denominations in the West are shrinking rapidly.
+- Internal polarization — liberal/conservative splits within denominations (e.g., Anglican Communion fractures over sexuality and authority).
+- Can inherit the bureaucratic weight of institutional Christianity without the Catholic Church's global coherence.
 
 #### 3.4.3b Reformed/Baptist (Presbyterian, Baptist, mainstream Evangelical)
-**Strengths:** Doctrinal seriousness, congregational governance, sermon-centric worship, moral seriousness.
-**Risks:** The dry well (when worship is primarily cognitive), rationalist reduction, cultural fortress mentality, loss of mystery.
+
+**Strengths:**
+- Doctrinal seriousness — confessional fidelity, catechesis, theological education.
+- Congregational governance — authority distributed, leadership accountable to the body.
+- Sermon-centric worship — deep engagement with the biblical text, expository preaching.
+- Moral seriousness — strong emphasis on sanctification, personal holiness, discipleship.
+
+**Risks:**
+- The dry well — when worship is primarily cognitive (sermon + hymns), the emotional and bodily dimensions can atrophy.
+- Rationalist reduction — theology becomes an intellectual system rather than a lived encounter.
+- Cultural fortress mentality — when doctrine becomes identity marker, the community can become insular.
+- Loss of mystery — the apophatic dimension is structurally underserved when every question demands a propositional answer.
 
 #### 3.4.3c Charismatic/Pentecostal (Pentecostal, charismatic, non-denominational)
-**Strengths:** Experiential immediacy, creative worship expression, global adaptability, high expectation of healing/miracles.
-**Risks:** Emotional exhaustion, charismatic authoritarianism (lack of institutional checks), anti-intellectualism, theological instability.
+
+**Strengths:**
+- Experiential immediacy — the Holy Spirit as present, active, encountered *now*.
+- Creative worship expression — music, movement, spontaneity, emotional freedom.
+- Global dynamism — the fastest-growing expression of Christianity worldwide, especially in the Global South.
+- Healing and wholeness emphasis — prayer for physical, emotional, and spiritual restoration.
+- Low institutional overhead — can plant churches anywhere, adapt to any culture, with minimal infrastructure.
+
+**Risks:**
+- Pastor-as-pope — in the absence of institutional checks, charismatic leaders accumulate unchecked power. This is the Protestant version of the Catholic centralization risk, but without the (imperfect) institutional checks.
+- Market dynamics — when churches compete for members, theology can become consumer-responsive.
+- Doctrinal thinness — experiential intensity can substitute for theological depth.
+- Prosperity theology — the corruption of the gospel into a transactional promise of material blessing.
+- Burnout and spiritual abuse — the pressure to perform spiritual experiences can become coercive.
 
 ## 3.5 Density vs. Accessibility
 
-3.5.1 The inverse relationship: Traditions with high sacramental density and historical continuity generally have higher barriers to entry and lower immediate accessibility. Traditions optimized for accessibility generally struggle to maintain structural and sacramental density across generations.
-3.5.2 The cultural friction of surrender (Editorial Insight): The posture of deep, structural surrender required by older, high-density, traditional churches might fundamentally clash with high-drive, hyper-individualistic American culture. Protestantism's entrepreneurial nature feels like a native language in the US.
+> **Editorial Note (Claude Opus 4.6):** Labeling convention restored. The initial merge draft dropped labels inconsistently from 3.5 onward. The project's methodological commitment to distinguishing fact from interpretation applies everywhere.
+
+3.5.1 The inverse relationship. *Editorial synthesis:* Traditions with high sacramental density and historical continuity generally have higher barriers to entry and lower immediate accessibility. Traditions optimized for accessibility generally struggle to maintain structural and sacramental density across generations. *Historically attested:* The Byzantine Divine Liturgy of St. John Chrysostom contains approximately 90 distinct scriptural quotations in a single service. A typical non-denominational Evangelical service may include 2–4 Scripture readings embedded in a sermon. Neither model is "wrong" — they represent fundamentally different approaches to how worship mediates Scripture.
+3.5.2 The cultural friction of surrender. *Editorial synthesis:* The posture of structural surrender required by high-density liturgical traditions — submitting to ancient rubrics, hierarchy, fasting rules, a calendar not of your choosing — fundamentally clashes with hyper-individualistic Western culture. Protestantism's entrepreneurial form feels like a native language in the US. This is not a moral judgment. It is a structural observation: *formation has a cultural interface*, and crossing traditions often requires learning not only new ideas but new instincts.
 
 ## 3.6 The Failure of Protection Systems
 
 > **Reviewer's Note (GPT-5.2): Structural Failure, not Moral Scoring**
 > This section makes the most uncomfortable argument in the project: *every tradition's protection system has failed catastrophically, and every tradition's protection system has also worked*. The temptation is to use the failures polemically. The symmetry rule forbids this. Each authority grammar generates a characteristic protection mechanism, and each has a characteristic failure mode.
 
-3.6.1 The Catholic system protects through institutional hierarchy. It fails when it protects itself instead of the vulnerable (e.g., the abuse crisis).
-3.6.2 The Orthodox system protects through personal holiness (the staretz). It fails when holiness is claimed without being possessed, leading to spiritual abuse.
-3.6.3 The Protestant system protects through congregational accountability. It fails when a congregation is captivated by a charismatic leader (e.g., mega-church scandals).
+3.6.1 *Editorial synthesis:* The Catholic system protects through institutional hierarchy. Hierarchy fails when it protects itself instead of the vulnerable. *Historically attested:* The sex abuse crisis — systematically documented from the 1990s onward, with cover-ups reaching to the highest levels — represents the catastrophic failure of this specific mechanism. This is cited here not to single out Catholicism but because the Catholic system's *specific claim* (that institutional structure provides protection) makes its *specific failure* structurally significant.
+3.6.2 *Editorial synthesis:* The Orthodox system protects through personal holiness (the staretz). Personal holiness fails when it is claimed without being possessed. *Historically attested:* The "junior elder" phenomenon — younger clergy claiming elder-like authority without spiritual maturity — is a recognized problem in contemporary Orthodox pastoral literature.
+3.6.3 *Editorial synthesis:* The Protestant system protects through congregational accountability. Congregational accountability fails when the congregation is captivated by a charismatic leader. *Historically attested:* The Houston Chronicle's 2019 investigation of the Southern Baptist Convention documented widespread pastoral abuse in contexts where congregational autonomy meant no external check existed. The prosperity gospel movement operates largely outside institutional oversight.
 
 ## 3.7 Apophatic Reality
 
@@ -362,7 +412,9 @@ The three authority grammars function the same way. Orthodox conciliar continuit
 
 4.2.1 Chant and vagal tone: Sustained chanting naturally stimulates the vagus nerve, inducing parasympathetic down-regulation (calm, safety, connection).
 4.2.2 Humming and breath: The linking of prayer to the breath cycle runs deep in Scripture itself (*ruach* and *pneuma* mean both breath and spirit).
-4.2.3 Bilateral cross-tapping: The sign of the cross engages both hemispheres of the body.
+4.2.3 The sign of the cross: *Historically attested* — the sign of the cross is among the oldest Christian gestures (Tertullian, early 3rd century). It engages both halves of the body and functions as embodied confession.
+
+> **Reviewer's Note (Claude Opus 4.6, concurring with GPT-5.2):** The original outline included "bilateral cross-tapping," which is primarily associated with modern trauma-therapy techniques (EMDR), not historic Christian devotion. GPT-5.2 flagged this independently. The merged text now distinguishes the sign of the cross (historically attested) from bilateral tapping (modern therapeutic). If bilateral tapping is retained elsewhere, it belongs as a clearly modern "adjacent tool" in an appendix, not alongside historic practices.
 4.2.4 Prostration and posture: The physical act of lying flat is the body's expression of total surrender before the transcendent.
 4.2.5 Glossolalia (speaking in tongues): Neuroscientific studies show it is associated with decreased frontal lobe activity. The practitioner experiences the prayer as coming *through* them rather than *from* them. The body participates in what the spirit does.
 
@@ -385,10 +437,16 @@ The three authority grammars function the same way. Orthodox conciliar continuit
 
 ## 4.5 Modern Ecumenical Reality
 
-4.5.1 The lifting of the 1054 mutual excommunications (1965).
-4.5.2 The Joint Declaration on the Doctrine of Justification (1999): Catholics and Lutherans affirmed a shared understanding of grace.
-4.5.3 The Chambésy agreements: Oriental and Eastern Orthodox concluded the Chalcedonian split was essentially terminological.
-4.5.4 **The Missing Information:** Most laypeople don't know any of this. The information gap is structurally produced. The ecumenical dialogues represent some of the most careful, honest theological work of the past century, and they are almost entirely invisible to the people they concern most.
+> **Editorial Note (Claude Opus 4.6):** This section expanded with specific dates, documents, and institutional detail from GPT-5.2's track, which had the strongest treatment. The evidentiary weight is what makes the "distance is smaller than you think" argument credible.
+
+4.5.1 **The lifting of the 1054 mutual excommunications (1965).** *Historically attested:* On December 7, 1965, Pope Paul VI and Ecumenical Patriarch Athenagoras I simultaneously lifted the mutual excommunications of 1054 in a joint declaration. This was a gesture of reconciliation, not a resolution of the underlying disputes — but it officially stated that the hostility of 1054 no longer defines the relationship. Almost no one in the pews knows this happened.
+4.5.2 **The Joint Declaration on the Doctrine of Justification (1999).** *Historically attested:* Catholics and Lutherans affirmed a shared understanding of justification — the very issue that triggered the Reformation. The declaration does not erase all differences, but it narrows the gap to a degree that would have seemed impossible in 1517.
+4.5.3 **The Chambésy agreements and Oriental Orthodox dialogues.** *Historically attested:* Multiple agreed statements in the late 20th century between Eastern and Oriental Orthodox partners identified substantial convergence on Christology, often diagnosing the 5th-century disputes as partly terminological and political. The oldest fracture in Christianity was substantially a failure of translation.
+4.5.4 **The Balamand Statement (1993).** *Historically attested:* Addresses Catholic-Orthodox relations and rejects "uniatism" as a method of reunion while affirming the pastoral reality of Eastern Catholic churches.
+4.5.5 **The Joint International Commission for Theological Dialogue** between the Roman Catholic Church and the Orthodox Church was established in 1979 and has produced multiple agreed texts — and honest impasses — over decades of work.
+4.5.6 **The Missing Information.** *Editorial synthesis:* Most laypeople don't know any of this. The information gap is structurally produced — ecumenical dialogues happen at elite levels and are invisible to parishes. These dialogues represent some of the most careful, honest theological work of the past century, and they are almost entirely unknown to the people they concern most. The laity's inherited hostility frequently lags behind the state of actual theological dialogue by decades.
+
+> **Reviewer's Note (GPT-5.2, via cross-review):** Even when theologians converge, institutions still have jurisdictional realities, pastoral constraints, and memories of betrayal. The book should not imply that reunion is around the corner. It should imply something quieter: *hostility is optional, and understanding is already possible.*
 
 # 5.0 PART III — ANALYTICAL INTELLIGENCE IN THIS PROJECT
 
@@ -419,6 +477,25 @@ The three authority grammars function the same way. Orthodox conciliar continuit
 5.3.1 AI is a mirror, not an oracle. It reflects the structure of human theological thought back to us with terrifying clarity.
 5.3.2 Identifying structural tension is not the same as solving theological mystery.
 5.3.3 The goal of the AI in this project is strictly structural: to build a map that does not lie about the territory.
+
+------------------------------------------------------------------------
+
+# 6.0 EMOTIONAL TARGET
+
+> **Editorial Note (Claude Opus 4.6):** This section was present in all three agent tracks but absent from the initial merge. It is the document's self-test — the explicit statement of what the reader should and should not feel. Restored here.
+
+6.1 Readers should feel **relieved** — relieved from inherited hostility, not from theological seriousness.
+6.2 Readers should feel **free** — free to explore without betrayal, free to stay without shame.
+6.3 Readers should feel **curious** — curious about the other traditions, not suspicious of them.
+6.4 Readers should feel **respected** — their convictions understood, even when the analysis names risks.
+6.5 Readers should feel **invited** — into understanding, not into migration.
+
+6.6 Readers should **not** feel corrected.
+6.7 Readers should **not** feel cornered.
+6.8 Readers should **not** feel humiliated.
+6.9 Readers should **not** feel pressured.
+
+> **Tone Calibration Note (GPT-5.2):** "Relief" is aimed at inherited hostility, not at theological seriousness. A devout reader should feel: "my convictions are understood," even when the analysis names risks. The distinctions are real; the weaponization is optional.
 
 ------------------------------------------------------------------------
 
