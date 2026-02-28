@@ -313,6 +313,12 @@ criminal crises.
 
 ## 4.2 Embodied Practices
 
+### 4.2.B [Gemini 3.1 Pro+] Framing the Genre Shift: The Incarnation
+
+4.2.B.1 Acknowledging the pivot: Moving from historical analysis to neurophysiology and bodies is a deliberate and abrupt shift.\
+4.2.B.2 The Incarnational bridge: Christianity's central claim is that God became a body. To map the faith entirely in the mind—avoiding the physical—is less honest to the tradition, not more.\
+4.2.B.3 Avoiding extremes: This does not reduce prayer merely to vagal tone, nor does it dismiss the nervous system as irrelevant to spiritual encounter. The traditions have always engaged the body because the body matters.
+
 4.2.1 Chant and vagal tone.\
 4.2.2 Humming and breath.\
 4.2.3 Bilateral cross-tapping.\
