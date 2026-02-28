@@ -216,21 +216,41 @@ criminal crises.
 3.4.2.R3 Philosophical systematization risks.\
 3.4.2.R4 Institutional entanglement with power.
 
-### 3.4.3 Scriptural Primacy (Protestant)
+### 3.4.3 Scriptural Primacy (Protestant) [Gemini 3.1 Pro~]
 
-#### Strengths
+*(Note: The Protestant grammar is vast. The shared strengths and risks below apply generally, but we sub-differentiate into three major streams to maintain symmetry and accuracy.)*
+
+#### Shared Strengths
 
 3.4.3.S1 Accessibility.\
 3.4.3.S2 Missionary zeal.\
 3.4.3.S3 Personal repentance language.\
 3.4.3.S4 Creative worship expression.
 
-#### Risks
+#### Shared Risks
 
 3.4.3.R1 Fragmentation.\
 3.4.3.R2 Interpretive instability.\
 3.4.3.R3 Reduced sacramental ontology.\
 3.4.3.R4 Loss of historical memory.
+
+#### 3.4.3.A [Gemini 3.1 Pro+] Liturgical/Confessional (High Protestant)
+*(Anglicans, Lutherans, some Reformed)*
+- **Authority:** Creeds + confessions + ordained ministry.
+- **Strengths:** Retains historical rootedness and sacramental density while embracing vernacular and scriptural accessibility.
+- **Risks:** Can suffer the institutional stagnation of Catholicism without the unifying mechanism of a central magisterium.
+
+#### 3.4.3.B [Gemini 3.1 Pro+] Reformed/Baptist (Confessional Protestant)
+*(Presbyterians, Baptists, mainstream Evangelicals)*
+- **Authority:** Confessions + congregational governance + sermon-centric worship.
+- **Strengths:** Deeply intellectual, rigorous textual exegesis, high view of God's sovereignty and individual conscience.
+- **Risks:** Prone to rationalism ("dry" sola scriptura) and endless theological splintering over doctrinal minutiae.
+
+#### 3.4.3.C [Gemini 3.1 Pro+] Charismatic/Pentecostal (Spirit-led Protestant)
+*(Pentecostals, charismatics, non-denominational megachurches)*
+- **Authority:** Spirit-led immediacy + pastoral authority + experiential worship.
+- **Strengths:** Immense missionary dynamism, embodied/emotional engagement, expectation of divine presence.
+- **Risks:** "Pastor-as-pope" dynamics (unchecked local leadership), anti-intellectualism, and the "wet" sola scriptura where personal revelation overrides textual or historical bounds.
 
 ## 3.5 Density vs Accessibility
 
@@ -265,7 +285,9 @@ criminal crises.
 
 ## 4.1 On-Ramps by Tradition
 
-### 4.1.1 If Protestant
+### 4.1.1 If Protestant [Gemini 3.1 Pro~]
+
+*(Note: On-ramps will differ based on the sub-stream you belong to. A High Protestant may already attend liturgy, whereas a Spirit-led Protestant may not.)*
 
 4.1.1.A Attend liturgy.\
 4.1.1.B Pray Psalms corporately.\
