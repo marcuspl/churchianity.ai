@@ -1,6 +1,6 @@
 # Manuscript TOC — Claude Opus 4.6 (v1)
 
-*This folder is a chapter-per-file manuscript draft, split from `release-candidate.claude-opus-4.6.v1.md` (13,651 words total).*
+*This folder is a chapter-per-file manuscript draft. Current total: ~32,000 words.*
 
 ## Structure
 
@@ -14,7 +14,9 @@
 ### Part Three: The Fractures
 - **Chapter 4** — East and West
 - **Chapter 5** — The Reformation
-- **Chapter 6** — Three Authority Grammars (including The Fracture Pattern)
+- **Chapter 6** — Three Authority Grammars
+- **The Fracture Pattern** — (standalone interlude)
+- **The Great Stumbling Blocks** — Mary, the Eucharist, Theosis, Sola Scriptura
 - **Chapter 7** — Density, Accessibility, and the Space Between
 
 ### Part Four: Mutual Enrichment
@@ -28,5 +30,5 @@
 - **Chapter 13** — AI as Mirror
 
 ### Back Matter
-- Emotional Target (Self-Test)
+- Afterword: What This Book Hoped to Do
 - Appendices (Glossary, Reading List, Transparency, Knowledge Graphs)

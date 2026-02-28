@@ -67,3 +67,38 @@ Goal: expand the analysis while maintaining the **symmetry rule** and representa
 - [x] Chunk A tone calibration
 - [x] Chunk B tone calibration
 - [x] Chunk C tone calibration
+
+---
+
+## Release Candidate phase (Manuscript) — GPT-5.2
+
+### Academic Grounding Pass (Option A: per-chapter Markdown footnotes)
+
+- [x] Establish footnote convention per chapter: add `## Notes` at end; restart numbering per chapter (`[^1]`...) and keep notes short (URLs or standard bibliographic entries, no invented page numbers)
+- [x] Chapter 7 (`07_Chapter_7.md`): add citations/softenings for neuro-language + glossolalia/brain-activity claims; ensure “adjacent tools” are clearly labeled modern
+- [x] Chapter 8 (`08_Chapter_8.md`): add citations for 1965 lifting, 1979 Joint Commission, JDDJ (1999), Balamand (1993), and “translation failure” dialogues (as appropriate)
+- [x] Chapter 2 (`02_Chapter_2.md`): add citations for key anchors (1054, 1204, 800, 1274, 1438–39, 1870, 1965) and any non-obvious claims
+- [x] Chapter 4 (`04_Chapter_4.md`): add citations/qualifiers for high-specificity claims (e.g., liturgy quotation count; council statements like “no ecumenical council since 787”)
+- [x] Chapter 5 (`05_Chapter_5.md`): add citations or softenings for named investigations/examples; ensure symmetry language stays descriptive
+- [x] Chapter 1 (`01_Chapter_1.md`): add citations for council anchors + canon stabilization claims where needed
+- [x] Chapter 3 (`03_Chapter_3.md`): add citations for timeline anchors + Augsburg/Westphalia framing; avoid oversimplifications
+- [x] Chapter 6 (`06_Chapter_6.md`): citations light; focus on historical “borrowing has always existed” examples if kept as claims
+- [x] Chapter 9 (`09_Chapter_9.md`): citations not required, but add one short note clarifying that guardrails are methodological, not proof
+- [x] Add a simple “sources quality rule”: prefer primary documents for councils/dialogues; prefer peer-reviewed or major academic press for science/history; avoid uncited pop-neuro phrasing (soften if uncited)
+- [x] Save cited web sources locally in `library/library.md`, and download key PDFs into `library/` (e.g., John Jay 2004 report)
+
+### Stumbling Blocks integration
+
+- [x] Add a dedicated “Stumbling Blocks” chapter (or a clustered section) using the shared framing: outside “ick” → inside “what it protects” (Mary; icons/relics; tongues; papacy; Eucharist; theosis/works; sola scriptura)
+- [x] In that chapter, explicitly cite: Ephesus (431) + Theotokos as Christological; Nicaea II (787) on icons; at least one primary Eucharist witness (e.g., early Fathers) + one Reformation-era confessional anchor; and a caution note that these are “stumbling blocks,” not conversion levers
+- [x] Update `00_TOC.md` after insertion (keep chapter-per-file navigation accurate)
+
+### Visual appendix (optional, from shared-reflections)
+
+- [x] Consider adding `appendix-d-knowledge-graphs.md` with Mermaid diagrams: (a) timeline of fractures/councils; (b) “grammar” concept map; only after citations pass stabilizes headings
+
+### Continuity / constraint checks (from shared-reflections)
+
+- [x] Preserve all callout boxes (`Reviewer's Note` / `Editorial Note` / `Alternative Perspective`)—verify none were silently dropped during prose edits
+- [x] Ensure “grammar” metaphor remains explicitly explained (shared-reflections: easy reader stumble)
+- [x] Ensure Eastern Catholic “porous boundary” visibility remains present (shared-reflections: missing bridge risk)
