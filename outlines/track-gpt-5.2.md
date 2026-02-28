@@ -296,6 +296,17 @@
 - **Historically attested**: The 16th century quickly produces multiple Protestant confessions; religious identity becomes entangled with state formation; Europe experiences prolonged confessional conflict.\
 - **Editorial synthesis**: The same impulse that lowers access barriers can also lower the friction that previously kept divergence within a shared institutional container.
 
+### 3.3.D `[GPT-5.2+]` Pass 3 argument: Necessary correction + structural costs (a both/and)
+
+- **Editorial synthesis**: The Reformation reads best as a both/and: (1) a necessary protest against real dysfunction and doctrinal confusion in late medieval Western Christianity; (2) a structural fracture that alters the mechanics of unity and therefore multiplies downstream differences.\
+- **Editorial synthesis**: The core analytic move is to separate *motive* from *mechanism*. A reformer’s motive can be holy and still trigger a mechanism (plural interpretive courts) that produces fragmentation. Likewise, an institution’s motive can be to protect unity and still trigger mechanisms (over-centralization, coercion) that produce corruption and backlash.\
+- **Editorial synthesis**: This is why “who was right?” arguments rarely heal the laity. The laity need to see what each side was protecting and what each side unintentionally unleashed.
+
+### 3.3.E `[GPT-5.2+]` Pass 3 argument: Accessibility is not automatically shallowness
+
+- **Editorial synthesis**: “Accessibility” is often caricatured as “simplicity.” Historically, vernacular access can increase depth when it is paired with disciplined formation (catechisms, common prayer, communal study).\
+- **Editorial synthesis**: The real tension is not “accessible vs deep,” but “accessible without shared formation vs accessible with shared formation.” This anticipates the `3.5` discussion of density.
+
 ### 3.3.B `[GPT-5.2+]` Historical Drivers (Non-Exhaustive, High-Signal)
 
 3.3.B.1 Indulgence economy and institutional distrust as immediate trigger.\
@@ -363,6 +374,12 @@
 - **Historically attested**: Autocephaly develops historically with empire, nation, and diaspora; overlapping jurisdictions in modern diaspora contexts are a concrete governance challenge.\
 - **Common scholarly view**: “Conciliarity” is an ideal with uneven historical expression; political pressures (Ottoman millet system, modern nationalism, communist persecution) significantly shape actual ecclesial life.\
 
+#### 3.4.1.A `[GPT-5.2+]` Pass 3 argument: What conciliar continuity makes possible (and difficult)
+
+- **Editorial synthesis**: Conciliar authority makes *slow truth* possible: deep continuity, high resistance to fads, a lived sense that faith is received rather than invented.\
+- **Editorial synthesis**: It also makes *fast correction* harder: when novelty is suspect by default, some genuine reforms arrive late or only under crisis.\
+- **Editorial synthesis**: The risk is not “Orthodoxy is stagnant” as an insult. The risk is structural: a system optimized for preservation can underperform at adaptation; a system optimized for adaptation can underperform at preservation.
+
 ### 3.4.2 Magisterial Development (Catholic)
 
 #### Strengths
@@ -384,6 +401,12 @@
 - **[Catholic] claims**: The magisterium functions as a charism of service that preserves unity and guards the deposit across time.\
 - **Contested**: Orthodox and many Protestants dispute the scope and historical legitimacy of Vatican I claims; Catholics dispute among themselves how Vatican I and Vatican II are harmonized in practice.\
 
+#### 3.4.2.A `[GPT-5.2+]` Pass 3 argument: Centralized teaching as coherence engine (and single point of failure)
+
+- **Editorial synthesis**: A magisterium can function as a coherence engine: it can unify catechesis, adjudicate disputes, and keep global communion from becoming a loose federation.\
+- **Editorial synthesis**: The paired risk is concentrated failure: when authority is centralized, trust collapses faster when leadership fails, and errors (or scandals) propagate farther.\
+- **Editorial synthesis**: This is why Catholic critiques often feel like “institution vs faith” fights: the system’s strengths are institutional, and so are its vulnerabilities.
+
 ### 3.4.3 Scriptural Primacy (Protestant)
 
 #### Strengths
@@ -404,6 +427,12 @@
 - **[Protestant] claims**: Scripture’s primacy protects the Church from identifying the institution with the truth; it preserves reformability and conscience.\
 - **Common scholarly view**: Protestant unity tends to be “confessional/associational” rather than “jurisdictional,” which changes the mechanics of disagreement and repair.\
 
+#### 3.4.3.B `[GPT-5.2+]` Pass 3 argument: Reformability as a gift with a price tag
+
+- **Editorial synthesis**: Scriptural primacy makes reformability possible: the Church can be corrected because no institution is identified with the truth itself.\
+- **Editorial synthesis**: The paired cost is interpretive multiplication: without a final shared court, disputes tend to resolve by division or by loose federation rather than by binding adjudication.\
+- **Editorial synthesis**: This is not a slur. It is a structural consequence that becomes visible historically as denominational proliferation.
+
 #### 3.4.3.A `[GPT-5.2+]` Internal Differentiation (So “Protestant” Isn’t a Straw Category)
 
 `[GPT-5.2~]` Updated to match the shared decision in `shared-reflections.md` (3-way sub-split).
@@ -417,6 +446,13 @@
 - **Historically attested (Liturgical/Confessional)**: Lutheran identity stabilizes around documents like the Augsburg Confession (1530) and Book of Concord (1580). Anglican identity stabilizes via the English Reformation (Act of Supremacy, 1534), the Book of Common Prayer (1549/1552), and the Elizabethan settlement (1559) with later doctrinal boundary markers (e.g., Thirty-Nine Articles, 1563/1571).\
 - **Historically attested (Reformed/Baptist)**: Reformed identity stabilizes through figures like Calvin (Institutes, 1536) and confessions/catechisms (e.g., Heidelberg 1563; Belgic 1561; Westminster 1646). Baptist movements emerge in the 17th century with confessional expressions (e.g., 1689 London Baptist Confession) and later evangelical awakenings shape practice.\
 - **Historically attested (Charismatic/Pentecostal)**: Early Pentecostal revivals include Topeka (1901) and Azusa Street (1906); “charismatic renewal” spreads in the mid-20th century across Protestant and Catholic contexts; Pentecostal/charismatic Christianity becomes a major global growth engine in the 20th–21st centuries.\
+
+#### 3.4.3.C `[GPT-5.2+]` Pass 3 argument: The sub-streams are different answers to the same modern pressures
+
+- **Editorial synthesis**: Liturgical/Confessional Protestantism often answers modernity with *continuity and form*: keep common prayer and doctrinal stabilizers so freedom does not become drift.\
+- **Editorial synthesis**: Reformed/Baptist/evangelical streams often answer modernity with *clarity and preaching*: make the message legible, center conversion and discipleship, and scale mission rapidly.\
+- **Editorial synthesis**: Charismatic/Pentecostal streams often answer modernity with *immediacy and encounter*: faith must be felt as power, not only assented to as proposition.\
+- **Editorial synthesis**: Each answer carries its own risks (formalism, rationalism, emotionalism/leaderism) — and each risk is the shadow of the strength.
 
 ### 3.4.D `[GPT-5.2+]` What the Three Grammars Share (So the Reader Doesn’t Confuse “Difference” with “Otherness”)
 
@@ -444,6 +480,12 @@
 3.5.B.1 “Dense vs accessible” is a continuum; hybrids exist everywhere.\
 3.5.B.2 The analytical aim: what each posture *makes possible* and what it *makes difficult*.
 
+### 3.5.D `[GPT-5.2+]` Pass 3 argument: Cultural friction of surrender (especially in hyper-individualist contexts)
+
+- **Editorial synthesis**: In hyper-individualist cultures, high-density liturgical life can be misread as “constraint” rather than “freedom,” because it requires submitting to inherited rubrics, calendars, fasting, and hierarchy.\
+- **Editorial synthesis**: In that same culture, entrepreneurial Protestant forms can feel like a native language: choose, build, adapt, iterate. The felt “freedom” aligns with the cultural default.\
+- **Editorial synthesis**: This is not a claim that one culture is superior or that one tradition is “more American.” It is a claim that *formation has a cultural interface*, and crossing traditions often requires learning not only new ideas but new instincts.
+
 ### 3.5.A Open Question
 
 3.5.A.1 Is density sustainable without centralization?
@@ -470,6 +512,12 @@
 3.6.B.3 Protestant: ranges from robust accountability structures to highly individual models.\
 3.6.B.4 The symmetry point: each structure prevents certain harms and enables others.
 
+### 3.6.C `[GPT-5.2+]` Pass 3 argument: Guardrails are love, not control
+
+- **Editorial synthesis**: Every tradition builds guardrails because humans are suggestible and power is seductive. Guardrails exist to protect the vulnerable, not only to preserve doctrine.\
+- **Editorial synthesis**: The paired risk is that guardrails can become mechanisms of denial, control, or concealment — especially when institutions confuse self-preservation with truth-preservation.\
+- **Editorial synthesis**: The book’s symmetry rule matters here: “no guardrails” is dangerous; “guardrails as absolute” is also dangerous. Different traditions land differently because they fear different harms.
+
 ### 3.6.A Open Question
 
 3.6.A.1 Where is the line between delusion and encounter?
@@ -484,6 +532,12 @@
 - **Historically attested**: Polemical periods correlate with hardened certainty and reduced charity; the Reformation and confessional conflicts provide clear historical cases of certainty becoming political weapon.\
 3.7.3 Humility as stabilizer.
 - **Historically attested**: Major spiritual writers across traditions emphasize humility as prerequisite for truth-telling (monastic sayings; medieval mystics; Reformers’ insistence on creaturely limits).\
+
+### 3.7.C `[GPT-5.2+]` Pass 3 argument: Humility as the ecumenical stabilizer (without erasing difference)
+
+- **Editorial synthesis**: Apophatic humility is not “we can’t know anything,” and it is not “all doctrines are the same.” It is the discipline of remembering that our descriptions do not exhaust God.\
+- **Editorial synthesis**: This humility lowers hostility by lowering the felt need to win. It makes curiosity safe: if my system is partial, I can learn without panic.\
+- **Editorial synthesis**: The paradox is that humility can *increase* seriousness. When you stop treating doctrine as a tribal badge, you can treat it as what it is: a careful attempt to speak truthfully about the mystery we worship.
 
 ### 3.7.B `[GPT-5.2+]` The Apophatic Across Traditions
 

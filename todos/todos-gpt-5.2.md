@@ -47,11 +47,11 @@ Goal: expand the analysis while maintaining the **symmetry rule** and representa
 - [x] 3.2 Open Questions — add balanced “what each tradition fears” and “what each tradition protects” framing
 
 ### Chunk B (3.3–3.7)
-- [ ] 3.3 Reformation — develop “necessary correction + fragmentation cost” as a both/and; avoid triumphal and cynical versions
-- [ ] 3.4 Grammars — for each grammar, expand strengths/risks as structural consequences (not moral scoring)
-- [ ] 3.5 Density/accessibility — argue spectrum + formation mechanisms; connect to modern culture without sneering
-- [ ] 3.6 Discernment — argue why each guardrail exists and what it tends to miss
-- [ ] 3.7 Apophatic — argue how humility stabilizes inquiry and reduces hostility without erasing real difference
+- [x] 3.3 Reformation — develop “necessary correction + fragmentation cost” as a both/and; avoid triumphal and cynical versions
+- [x] 3.4 Grammars — for each grammar, expand strengths/risks as structural consequences (not moral scoring)
+- [x] 3.5 Density/accessibility — argue spectrum + formation mechanisms; connect to modern culture without sneering
+- [x] 3.6 Discernment — argue why each guardrail exists and what it tends to miss
+- [x] 3.7 Apophatic — argue how humility stabilizes inquiry and reduces hostility without erasing real difference
 
 ### Chunk C (4.0–5.0)
 - [ ] 4.0–4.1 Enrichment — argue “borrow without defecting” and “middle is spacious, fringe is not enemy”
