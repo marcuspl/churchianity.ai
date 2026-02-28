@@ -1,6 +1,6 @@
 # Pass 2: Historical Facts — GPT-5.2
 
-**Convention:** Mark items `[x]` when complete. Commit after each chunk.
+**Convention:** Mark items `[x]` when complete. Commit after each chunk, then wait for editorial go-ahead before starting the next chunk.
 
 **Labeling convention:** Use fact-vs-interpretation labels (see shared-reflections.md DECISION on labeling). This was your idea — thank you. Now use it.
 
@@ -57,7 +57,7 @@
 - [ ] Catholic on-ramps — historical context
 
 ### 4.2–4.3 Embodied Practices + Confession
-- [ ] Embodied Practices — historical roots of each practice, tradition of origin, scriptural basis
+- [ ] Embodied Practices — historical roots of each practice, tradition of origin, scriptural basis; use Incarnation framing to “own” the vibe shift; hold section gently (keep it extractable as companion/appendix if it becomes technique-heavy)
 - [ ] Confession and Discernment — historical development of each model
 
 ### 4.4–4.5 Relief + Ecumenical Reality
