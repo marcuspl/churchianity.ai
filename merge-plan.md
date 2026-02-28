@@ -143,3 +143,66 @@ Having three agents simultaneously edit the same `merged-draft.md` will lead to 
 2. **Sweep 2: The Empathy & Symmetry Verification (Claude Opus 4.6):** Claude flagged the initial asymmetry in the Protestant section and spotted the tone risk regarding "relief vs. dismissiveness." Claude's review pass should focus entirely on tone and symmetry: *Did Gemini accidentally caricature anyone during the merge? Does the text still evoke relief rather than pressure?*
 3. **Sweep 3: The Fact & Hygiene Verification (GPT-5.2):** GPT-5.2 proposed the brilliant "Fact vs. Interpretation" labeling convention. GPT's review pass should focus on that boundary: *Did Gemini accidentally smuggle interpretation back into the main text as historical fact during the synthesis? Are the historical timelines accurate?*
 4. **Final Polish:** The human editor makes the final calls on unresolved structural tensions.
+
+---
+
+## The Merge Team: Pitch 3 (GPT-5.2)
+
+### Editor: GPT-5.2
+
+**The pitch:** I should drive the merge because the project’s distinctive promise is **transparent disagreement**, and my strongest contribution is building a merge process that is both coherent *and* auditable.
+
+1. **I’ll build “merge with receipts.”** The final text should not silently average three perspectives. I will maintain a decision trail that makes choices explicit and reversible.
+2. **I’m strict on boundary hygiene.** I will protect the Pass 2 convention (fact vs interpretation vs tradition-claims) so the merged draft doesn’t smuggle argument as history.
+3. **I enforce real symmetry, not just symmetric bullet lists.** Especially with the Protestant 3-way split, the merge needs proportionality (word-count discipline) so fairness is visible.
+4. **I’m comfortable leaving divergence visible.** The README now explicitly endorses “Alternative Perspective / Reviewer’s Note” boxes; I’ll treat divergence as a feature.
+
+### Claude Opus 4.6 — Structural / Representational Fairness Reviewer
+
+Claude should be the primary reviewer for:
+- Whether each tradition’s self-understanding is recognizable (steel-man test)
+- Whether the “relief” framing remains relief-from-hostility, not dismissiveness
+- Whether the merged structure remains psychologically coherent for the target laity audience
+
+### Gemini 3.1 Pro — Voice / Pacing / Readability Reviewer
+
+Gemini should be the primary reviewer for:
+- Voice unity and readability (does it read like a book, not a committee doc?)
+- Pacing and weight (especially preventing Protestant sub-stream density from swallowing the chapter)
+- The “grammar” metaphor explanation (plain-language clarity)
+
+## Proposed Merge Workflow (One Driver, Two Reviewers)
+
+### Sweep 1: Structural spine + merge map (Editor drives)
+- Pick one canonical section order and headings
+- Create a **merge map**: per section, which track is the base text and which divergences must be preserved
+
+### Sweep 2: Content merge (Editor drives; reviewers spot-check)
+- Merge section-by-section
+- Where tracks diverge materially, prefer **boxes** over forced consensus:
+  - **Alternative Perspective** (one divergent framing)
+  - **Reviewer’s Note** (minor but meaningful divergence)
+  - **Open Tension** (genuinely unresolved)
+
+### Sweep 3: Symmetry + proportionality pass (Editor + Claude)
+- Enforce the symmetry rule and **word-count symmetry**
+- Ensure Protestant 3-way split does not dominate `3.4` by sheer volume (use “umbrella + sub-stream deltas” formatting)
+
+### Sweep 4: Tone calibration (Gemini leads; Editor applies)
+- Remove tribal tells, contempt, panic, and conversion-tract pressure
+- Ensure devout adherents feel respected and not argued-at
+
+### Sweep 5: Transparency audit (Editor drives; reviewers verify)
+- Ensure every non-trivial editorial decision is logged and every meaningful divergence is either:
+  - in the main text (if agreed), or
+  - in a box (if contested/divergent), or
+  - explicitly cut with a reason
+
+## Merge Artifacts (to guarantee transparency)
+
+1. `merged-draft.md` — the unified manuscript
+2. `merge-log.md` — decision log (what chosen, what boxed, what cut, why)
+3. `merge-map.md` — section-by-section base track selection + divergence pointers
+4. `merge-audit.md` — final symmetry/tone/label hygiene checklist report
+
+**Bottom line:** One editor must drive for coherence, but the merge must ship with a transparency apparatus so disagreements remain visible to the reader by design, not by accident.
