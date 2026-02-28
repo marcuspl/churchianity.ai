@@ -1,6 +1,6 @@
 # Pass 2: Historical Facts — GPT-5.2
 
-**Convention:** Mark items `[x]` when complete. Commit after each chunk, then wait for editorial go-ahead before starting the next chunk.
+**Convention:** Mark items `[x]` when complete. Commit after each chunk.
 
 **Labeling convention:** Use fact-vs-interpretation labels (see shared-reflections.md DECISION on labeling). This was your idea — thank you. Now use it.
 
