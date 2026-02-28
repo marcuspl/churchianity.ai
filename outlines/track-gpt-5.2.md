@@ -19,6 +19,12 @@
 
 ------------------------------------------------------------------------
 
+## Pass 3: Arguments (in progress)
+
+**Pass 3 convention:** Expand analysis while preserving symmetry and representational fairness. Keep claims modest, show trade-offs, and treat “structural consequences” as the main unit of argument (not moral scoring).
+
+------------------------------------------------------------------------
+
 # 1.0 CORE PURPOSE
 
 ## 1.1 Primary Objectives
@@ -172,6 +178,22 @@
 
 ### 3.1.D `[GPT-5.2+]` Empire, Jurisdiction, and the Political Substrate
 
+### 3.1.E `[GPT-5.2+]` Pass 3 argument: Why “common ground first” is not rhetorical padding
+
+- **Editorial synthesis**: Starting with shared inheritance is a truth-claim about scale: the creedal and scriptural overlap is not a sentimental ecumenical wish; it is the actual historical baseline.\
+- **Editorial synthesis**: It also prevents a psychological bait-and-switch. Many lay readers have been trained that “church history” is essentially a justification narrative for why their tribe is right. Leading with common ground de-tribalizes the reader so later differences can be handled as *problems to understand* rather than *enemies to defeat*.\
+- **Editorial synthesis**: This is not a strategy to minimize doctrine. It is a strategy to locate doctrine inside the real historical Church rather than inside later confessional fortifications.
+
+### 3.1.F `[GPT-5.2+]` Pass 3 argument: What unity did (and did not) mean
+
+- **Editorial synthesis**: “Undivided” is a claim about communion, not about uniformity. The early Church contained real diversity of rite, language, and emphasis; unity functioned through shared worship, shared bishops, shared councils in crisis, and shared confession of Christ.\
+- **Editorial synthesis**: This matters for the later reader because it reframes modern debates: the question is rarely “which tradition preserved the one original uniform system?” The question is “what kinds of diversity can communion hold without breaking?”
+
+### 3.1.G `[GPT-5.2+]` Pass 3 argument: Empire as substrate without reduction
+
+- **Editorial synthesis**: Political power does not “explain away” doctrine; it explains why certain doctrinal disputes become make-or-break and why procedural disagreements become theological.\
+- **Editorial synthesis**: The laity can hold two truths together without panic: (1) Christians were sincerely wrestling with God and salvation; (2) jurisdiction, empire, and survival pressures shaped what counted as possible, urgent, and acceptable.
+
 3.1.D.1 The Constantinian shift: from persecuted movement to imperial religion.\
 - **Historically attested**: 313 marks legal toleration; 325 the first ecumenical council is convened under imperial auspices; 380 (Edict of Thessalonica) marks a decisive imperial alignment with Nicene Christianity.\
 - **Common scholarly view**: This is neither purely “corruption” nor purely “victory.” It creates new possibilities (public worship, institutional stability) and new vulnerabilities (coercion, politicized theology).
@@ -233,6 +255,17 @@
 
 3.2.C.1 What portion of “theological distance” is really *political memory*?
 - **Editorial synthesis**: Many doctrinal disputes are carried emotionally by remembered humiliations and betrayals; “political memory” can keep distance alive even when technical theology converges.
+
+### 3.2.D `[GPT-5.2+]` Pass 3 argument: What each side is protecting (and fearing)
+
+- **Editorial synthesis**: Catholic centralization is, at best, an attempt to protect *universal coherence* — a way to keep the Church from becoming a loose federation of local theologies. Its fear is a Christianity that can’t speak with one voice when it must.\
+- **Editorial synthesis**: Orthodox conciliar continuity is, at best, an attempt to protect *the integrity of reception* — a way to keep novelty from being smuggled in as “development.” Its fear is a Christianity that changes its center of gravity without noticing.\
+- **Editorial synthesis**: Both fears are intelligible. Each authority grammar reduces one kind of risk while increasing another. The book’s task is to help the lay reader see this as structural trade-off rather than moral failure.
+
+### 3.2.E `[GPT-5.2+]` Pass 3 argument: Procedural disagreements become doctrinal disagreements
+
+- **Editorial synthesis**: The filioque controversy illustrates a recurring pattern: the fight is not only about a clause; it is about the legitimacy of the process by which the clause enters the Church’s confession.\
+- **Editorial synthesis**: Once process is disputed, even shared theology becomes fragile because each side suspects the other’s mechanisms of correction.
 
 ## 3.3 The Second Major Fracture (Reformation) `[GPT-5.2~]`
 
