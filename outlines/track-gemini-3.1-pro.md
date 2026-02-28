@@ -121,45 +121,80 @@ criminal crises.
 
 ## 3.1 Before the Fractures
 
-3.1.1 The undivided Church.\
-3.1.2 Liturgy preceding polemics.\
-3.1.3 Experience preceding systematization.\
-3.1.4 Scripture embedded within worship.\
-3.1.5 Apophatic humility as baseline posture.
+*(Note: The following sections utilize a labeling convention to distinguish verifiable history from tradition-specific interpretation.)*
+
+**[Historically attested]**
+3.1.1 The undivided Church existed primarily as a localized, bishop-led network of communities, bound by shared letters, creeds, and councils rather than a single administrative bureaucracy.\
+3.1.2 Liturgy preceding polemics: Worship practices (like the Eucharist and baptism) were established long before the theological mechanics of those practices were rigidly defined.\
+3.1.3 Experience preceding systematization: Early Christians were martyred for their devotion to Christ centuries before the precise language of the hypostatic union was formalized.\
+3.1.4 Scripture embedded within worship: The biblical canon was developed and finalized largely based on which texts were consistently read aloud in the liturgy across different regions.
+
+**[Editorial synthesis]**
+3.1.5 Apophatic humility as baseline posture: The early Church generally approached the divine mystery with an emphasis on what could *not* be comprehended about God, leaving room for mystery rather than demanding exhaustive definition.
 
 ### 3.1.B [Gemini 3.1 Pro+] The Shared Inheritance and Common Ground
 
-3.1.B.1 The shared creedal reality (Nicaea 325, Constantinople 381) — what all major traditions still confess.\
-3.1.B.2 The shared Christological foundation (Chalcedon 451) — the hypostatic union.\
-3.1.B.3 The shared rhythms of time: the basic structure of the liturgical year (Advent, Lent, Pascha/Easter) as a concrete, lived continuity beneath the fractures.\
-3.1.B.4 The shared patrimony of the early Fathers and early martyrs.
+**[Historically attested]**
+3.1.B.1 The shared creedal reality: The Councils of Nicaea (325) and Constantinople (381) established the Trinitarian framework that all major surviving traditions (Orthodox, Catholic, Protestant) still confess.
+3.1.B.2 The shared Christological foundation: The Council of Chalcedon (451) established the hypostatic union (Christ as fully God and fully man, in two natures, without confusion or division).
+3.1.B.3 The shared rhythms of time: The basic structure of the liturgical year (Advent, Lent, Pascha/Easter) emerged early and provides a concrete, lived continuity beneath the fractures.
+3.1.B.4 The shared patrimony of the early Fathers (e.g., Athanasius, the Cappadocians, Augustine) and the early martyrs.
 
-### 3.1.C [Gemini 3.1 Pro+] The Role of Empire and Political Power
+**[Common scholarly view]**
+3.1.B.5 The shared scriptural canon: While there are accepted variations in the deuterocanonicals, the core New Testament canon was functionally agreed upon by the late 4th century.
 
-3.1.C.1 The Constantinian shift and the alignment of Church and State.\
-3.1.C.2 The political reality of the Ecumenical Councils (called and enforced by emperors).\
-3.1.C.3 The intertwining of theological disputes with imperial jurisdictions, taxation, and statecraft.\
-3.1.C.4 Demystifying the fractures: the laity deserve to know how much of what looks like purely "theological" schism was fundamentally political maneuvering.
+### 3.1.C [Gemini 3.1 Pro+] The Pre-Chalcedonian Split
+
+*(Note: The narrative of a single "first" fracture in 1054 ignores older, enduring communities.)*
+
+**[Historically attested]**
+3.1.C.1 The Oriental Orthodox churches (Coptic, Armenian, Syriac, Ethiopian) split from the imperial Church following the Council of Chalcedon (451) over the language used to describe Christ's natures.
+3.1.C.2 The Church of the East (Assyrian) split even earlier, following the Council of Ephesus (431).
+
+**[Common scholarly view]**
+3.1.C.3 The Christological disputes of the 5th century were arguably as much about linguistics (translating Greek philosophical terms into Syriac or Coptic) and regional politics as they were about substantive theological disagreement.
+
+**[Editorial synthesis]**
+3.1.C.4 Why this matters: The oldest continuous Christian communities in the world are often invisible in Western accounts. Acknowledging them prevents a Western-centric flattening of history.
+
+### 3.1.D [Gemini 3.1 Pro+] The Role of Empire and Political Power
+
+**[Historically attested]**
+3.1.D.1 The Constantinian shift (313 Edict of Milan, 325 Nicaea) transformed Christianity from a persecuted minority into an imperial religion. 
+3.1.D.2 Every major Ecumenical Council (from Nicaea to Nicaea II in 787) was convened by a Roman/Byzantine emperor, not solely by bishops. The emperor enforced the conciliar outcomes with state power.
+3.1.D.3 Theological disputes were inextricably intertwined with imperial jurisdictions, taxation, and statecraft.
+
+**[Editorial synthesis]**
+3.1.D.4 Demystifying the fractures: The laity deserve to know how much of what looks like purely "theological" schism was fundamentally political maneuvering. Acknowledging this liberates everyday believers from carrying the weight of ancient geopolitical disputes.
 
 ## 3.2 The First Major Fracture (East--West) [Gemini 3.1 Pro~]
 
-3.2.1 Authority divergence.\
-3.2.2 Linguistic and philosophical shifts.\
-3.2.3 Conciliar continuity vs centralized development.
+**[Common scholarly view]**
+3.2.1 Authority divergence: Over centuries, the Western church increasingly coalesced around the singular authority of the Bishop of Rome (due in part to the collapse of western imperial infrastructure), while the Eastern church maintained a conciliar model integrated with the Byzantine imperial court.
+3.2.2 Linguistic and philosophical shifts: As the West lost Greek and the East lost Latin, they developed different theological vocabularies (e.g., Latin legal/juridical framing vs. Greek philosophical/mystical framing).
+
+**[Contested]**
+3.2.3 Conciliar continuity vs centralized development: Orthodox tradition claims that Roman centralization represents an uncanonical innovation breaking from the early Church. Catholic tradition claims that papal primacy is the legitimate, divinely ordained development of the Petrine office.
 
 ### 3.2.B [Gemini 3.1 Pro+] Historical and Political Drivers
 
-3.2.B.1 The Filioque controversy as a symptom of authority divergence (unilateral alteration vs. conciliar consensus).\
-3.2.B.2 Charlemagne, the Holy Roman Empire, and the political necessity of western theological independence.\
-3.2.B.3 1054: The mutual excommunications (primarily an embassy failure rather than an immediate schism).\
-3.2.B.4 1204: The Sack of Constantinople by the Fourth Crusade (the visceral, lived schism).
+**[Historically attested]**
+3.2.B.1 The Filioque controversy: The unilateral addition of the phrase "and the Son" to the Nicene Creed by Western synods (initially in Spain, 6th century, later adopted by Rome).
+3.2.B.2 The coronation of Charlemagne (800 AD) by Pope Leo III created a rival "Holy Roman Empire" in the West, politically severing Rome from Byzantine reliance.
+3.2.B.3 1054: The mutual excommunications between Cardinal Humbert (acting for a deceased Pope) and Patriarch Michael Cerularius.
+3.2.B.4 1204: The Sack of Constantinople by the Western Fourth Crusade, resulting in the massacre of Eastern Christians and the desecration of Orthodox sanctuaries.
+
+**[Common scholarly view]**
+3.2.B.5 While 1054 is the symbolic date, 1204 was the visceral, lived schism. Prior to 1204, many average Christians were unaware a formal schism existed.
 
 ### 3.2.A Open Questions
 
-3.2.A.1 What constitutes legitimate doctrinal development?\
-3.2.A.2 Does centralization safeguard unity or concentrate risk?\
-3.2.A.3 Can conciliar models prevent stagnation?\
-3.2.A.4 Did philosophical grammar shifts alter theological emphasis?
+*(Note: These questions highlight the tensions without forcing an adjudication.)*
+
+3.2.A.1 What constitutes legitimate doctrinal development versus uncanonical innovation?
+3.2.A.2 Does centralization safeguard unity, or does it concentrate risk and precipitate rebellion?
+3.2.A.3 Can conciliar models prevent stagnation when an empire is no longer present to enforce unity?
+3.2.A.4 Did shifts in philosophical grammar inevitably alter theological emphasis, or just the vocabulary used to describe the same mysteries?
 
 ## 3.3 The Second Major Fracture (Reformation) [Gemini 3.1 Pro~]
 
