@@ -503,11 +503,14 @@ criminal crises.
 4.2.5 Repetitive prayer.\
 4.2.6 Glossolalia as neurological surrender (carefully framed).
 
-### `[Opus 4.6+]` 4.2.B Framing Note
+### `[Opus 4.6~, from editor]` 4.2.B Framing Note: The Incarnation as Genre Permission
 
-4.2.B.1 This section bridges neuroscience and worship — it shows that embodied practices across traditions engage similar physiological pathways.\
-4.2.B.2 This is not reductionism. It is recognition that humans are bodies, and traditions that engage the body in worship are doing something the body was designed (or evolved) for.\
-4.2.B.3 The framing should avoid both extremes: reducing prayer to neuroscience, or dismissing neuroscience as irrelevant to prayer.
+4.2.B.1 This section will feel like a vibe change. We've been doing history, authority models, analytical comparison — and now suddenly we're talking about vagal tone and prostration. Own this shift directly. Name it.\
+4.2.B.2 But the shift is not foreign to Christianity. It *is* Christianity. The central claim of the faith is that God became a body. The Incarnation is not a metaphor. It is the insistence that the lofty and the material are not separate categories.\
+4.2.B.3 Every tradition already lives this tension. You discuss trinitarian theology, then you pray by eating a wafer. You chant ancient Greek, then you physically prostrate on a stone floor. You preach the sovereignty of God, then you weep at the altar. The movement from the conceptual to the bodily is the Christian movement.\
+4.2.B.4 So this section is not a genre shift. It is the genre asserting itself. A work about Christian tradition that stayed entirely in the head would be *less* honest, not more.\
+4.2.B.5 This work has to be historical and somewhat dry in places — that's the cost of honesty. But it would not be an on-ramp without instructions for embodiment. Both are necessary. The reader deserves both.\
+4.2.B.6 The framing should avoid two extremes: reducing prayer to neuroscience ("it's just vagal tone"), or dismissing neuroscience as irrelevant to prayer ("the body doesn't matter"). Christianity has never believed the body doesn't matter. That's the whole point of the Incarnation.
 
 ## 4.3 Confession and Discernment Bridge
 

@@ -85,5 +85,27 @@ These aren’t automatable like unit tests, but they could serve as a checklist 
 
 ---
 
+## DECISION [Editor, 2026-02-28]: Embodied practices genre shift — own it, don't apologize
+
+**Status: RESOLVED by editor directive. All agents should adopt this framing.**
+
+GPT-5.2 flagged that section 4.2 (Embodied Practices) feels like a genre shift from the historical/analytical spine. All agents noted the tension. The editor resolves it:
+
+**The Incarnation is the framing bridge.** Christianity's central claim is that God became a body. The movement from the lofty to the material is not a genre problem — it *is* the genre. Every tradition already lives this:
+- You discuss trinitarian theology, then you pray by eating a wafer.
+- You chant ancient Greek, then you prostrate on a stone floor.
+- You preach God's sovereignty, then you weep at the altar.
+
+The work has to be historical and somewhat dry in places — that's the cost of honesty. But it would not be an on-ramp without instructions for embodiment. Both are necessary.
+
+**What this means practically:**
+- Call out the vibe change directly, either in the Part II introduction or at the start of section 4.2. Don't try to smooth it over.
+- Frame it through the Incarnation: Christianity is uniquely embodied. A work about Christian tradition that stayed entirely in the head would be less honest, not more.
+- Avoid both extremes: reducing prayer to neuroscience, or dismissing neuroscience as irrelevant. Christianity has never believed the body doesn't matter.
+
+See the updated 4.2.B in the Claude Opus 4.6 track for a full treatment.
+
+---
+
 ## [Gemini 3.1 Pro, 2026-02-28] Protestant sub-differentiation implemented
 I have fully updated my track (`outlines/track-gemini-3.1-pro.md`) to reflect the editor's decision to sub-differentiate the Protestant authority grammar into Liturgical/Confessional, Reformed/Baptist, and Charismatic/Pentecostal. I added specific strengths and risks for each stream while maintaining the shared overarching ones. I also added a note to the Protestant "on-ramps" section acknowledging that different sub-streams will need different on-ramps. I am ready for Pass 2 (Historical Facts).
