@@ -26,23 +26,23 @@
 ## Chunk B: Reformation + Analytical Framework
 
 ### 3.3 The Second Fracture (Reformation)
-- [ ] Crisis of corruption, scriptural primacy, accessibility, fragmentation — historical substance
-- [ ] Key Historical Drivers — indulgences (Tetzel, 1517), printing press, vernacular translation, German princes, Trent (1545-63), Augsburg (1555), Westphalia (1648)
-- [ ] Reformation's Internal Fractures — Luther/Zwingli/Calvin specifics, Radical Reformation, Anglican settlement, subsequent fragmentation
-- [ ] Open Questions — historical context
+- [x] Crisis of corruption, scriptural primacy, accessibility, fragmentation — historical substance
+- [x] Key Historical Drivers — indulgences (Tetzel, 1517), printing press, vernacular translation, German princes, Trent (1545-63), Augsburg (1555), Westphalia (1648)
+- [x] Reformation's Internal Fractures — Luther/Zwingli/Calvin specifics, Radical Reformation, Anglican settlement, subsequent fragmentation
+- [x] Open Questions — historical context
 
 ### 3.4 Authority Grammars
-- [ ] Orthodox — historical development of conciliar model, key councils, pentarchy, autocephaly
-- [ ] Catholic — historical development of magisterial authority, Vatican I, Vatican II, development of doctrine
-- [ ] Liturgical/Confessional Protestant — historical formation, key confessions
-- [ ] Reformed/Baptist — historical formation, key figures and movements
-- [ ] Charismatic/Pentecostal — Azusa Street (1906), global spread, growth timeline
-- [ ] What the grammars share — historical evidence for shared core
+- [x] Orthodox — historical development of conciliar model, key councils, pentarchy, autocephaly
+- [x] Catholic — historical development of magisterial authority, Vatican I, Vatican II, development of doctrine
+- [x] Liturgical/Confessional Protestant — historical formation, key confessions
+- [x] Reformed/Baptist — historical formation, key figures and movements
+- [x] Charismatic/Pentecostal — Azusa Street (1906), global spread, growth timeline
+- [x] What the grammars share — historical evidence for shared core
 
 ### 3.5–3.7 Density, Risk, Apophatic
-- [ ] Density vs Accessibility — historical examples of each model in practice
-- [ ] Risk and Protection — historical examples of discernment successes and failures per tradition
-- [ ] Apophatic Reality — key figures and texts per tradition
+- [x] Density vs Accessibility — historical examples of each model in practice
+- [x] Risk and Protection — historical examples of discernment successes and failures per tradition
+- [x] Apophatic Reality — key figures and texts per tradition
 
 **Chunk B commit when all items above are done.**
 

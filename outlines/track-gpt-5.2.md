@@ -237,28 +237,61 @@
 ## 3.3 The Second Major Fracture (Reformation) `[GPT-5.2~]`
 
 3.3.1 Crisis of corruption and authority.\
+- **Historically attested**: Late medieval Western Christianity faced widely documented institutional abuses and credibility crises (simony, pluralism/non-residence, financial extraction, contested moral authority), alongside genuine reform movements within the Church.\
+- **Common scholarly view**: The Reformation is not explained by “corruption alone”; it is a convergence of institutional distrust, theological dispute, political sovereignty, and communication technology.\
 3.3.2 Scriptural primacy as corrective.\
+- **Historically attested**: Reformers argued that Scripture is the supreme norm for doctrine and that certain late medieval teachings/practices lacked sufficient warrant or had become distorted in application.\
+- **[Catholic] claims**: Scripture is inseparable from apostolic Tradition and the Church’s teaching office; reform must remain continuous with ecclesial authority.\
+- **[Protestant] claims**: Scripture’s primacy is necessary precisely because ecclesial authorities can err; Scripture must be able to correct the Church’s corruptions.\
 3.3.3 Accessibility gains.\
+- **Historically attested**: Vernacular preaching, catechesis, hymnody, and Bible translation/printing expand lay access to Scripture and theological discourse.\
+- **Common scholarly view**: “Accessibility” includes both language access and institutional access (education, literacy, church governance participation).\
 3.3.4 Fragmentation costs.
+- **Historically attested**: The 16th century quickly produces multiple Protestant confessions; religious identity becomes entangled with state formation; Europe experiences prolonged confessional conflict.\
+- **Editorial synthesis**: The same impulse that lowers access barriers can also lower the friction that previously kept divergence within a shared institutional container.
 
 ### 3.3.B `[GPT-5.2+]` Historical Drivers (Non-Exhaustive, High-Signal)
 
 3.3.B.1 Indulgence economy and institutional distrust as immediate trigger.\
+- **Historically attested**: Martin Luther’s *Ninety-Five Theses* (1517) respond to the preaching/sale of indulgences (often associated with Johann Tetzel) in a context of fundraising and popular religious anxiety.\
+- **Contested**: The nature of indulgences in official doctrine versus in popular practice is debated; both “abuse” and “theory” become targets depending on the actor and moment.\
 3.3.B.2 Printing press + vernacular translation as accelerant.\
+- **Historically attested**: Printing enables rapid dissemination of pamphlets and vernacular texts; Luther’s German Bible (New Testament 1522; complete Bible 1534) becomes culturally formative.\
+- **Common scholarly view**: Without print, the Reformation likely remains a localized reform dispute; with print, it becomes a mass movement.\
 3.3.B.3 Political protection (princes/cities) as survival mechanism for reform.\
+- **Historically attested**: Luther’s condemnation and protection after the Diet of Worms (1521) illustrates that territorial rulers and city councils often determine whether reform survives.\
+- **Common scholarly view**: Confessionalization and sovereignty are entangled; princes’ motives range from conviction to political autonomy to financial incentives.\
+- **Historically attested**: Political settlements shape religious geography, including the Peace of Augsburg (1555) and the Peace of Westphalia (1648), which entrench confessional identity as a political category in Europe.\
 3.3.B.4 Early internal disagreement (especially Eucharist) as “fracture-in-the-fracture.”\
+- **Historically attested**: Reformers diverge early on sacramental theology; the Marburg Colloquy (1529) dramatizes disagreement between Luther and Zwingli over the Lord’s Supper.\
+- **Historically attested**: The Augsburg Confession (1530) and later confessional documents (e.g., the Book of Concord, 1580) stabilize Lutheran identity; Reformed confessions stabilize other streams.\
+- **Historically attested**: The Radical Reformation (often dated from the 1520s; e.g., early Anabaptist movements) is opposed by both magisterial Protestants and Catholics, showing that the “Reformation” is plural from the beginning.\
+- **Historically attested**: The English Reformation and Anglican settlement emerge through a distinct political-ecclesial path (Act of Supremacy, 1534; Prayer Book tradition; Elizabethan settlement, 1559), producing a Protestant stream with Catholic-leaning liturgical form.\
 3.3.B.5 Trent as both reform and boundary-setting.
+- **Historically attested**: The Council of Trent (1545–1563) addresses doctrine and discipline, reforms clerical training and practice, and sharply delineates boundaries in response to Protestant claims.\
+- **Editorial synthesis**: Trent is both “renewal” and “hardening”: it reforms real abuses while also making reconciliation structurally harder by formalizing disputed points.
 
 ### 3.3.A Open Questions
 
 3.3.A.1 Who defines the canon?\
+- **Historically attested**: Canon boundaries crystallize over centuries; the Reformation era re-activates debate over the deuterocanonical books’ status and use.\
+- **[Catholic] claims**: The Church’s magisterial authority can definitively settle the canon (e.g., in the Tridentine context).\
+- **[Protestant] claims**: The Church recognizes the canon by reception and the Spirit’s witness; ecclesial declarations respond to (rather than create) canonical reality.\
 3.3.A.2 How is interpretive authority stabilized?\
+- **Historically attested**: Protestant traditions develop stabilizers (confessions, catechisms, synods, episcopal structures in some cases), but not a single universal interpretive court.\
+- **Editorial synthesis**: “Sola scriptura” in practice often becomes “scripture + my community’s hermeneutic,” which can be stabilizing locally but divergent globally.\
 3.3.A.3 Can accessibility coexist with density?\
+- **Historically attested**: Some Protestant streams retain high liturgical density (Anglican/Lutheran) while others move toward sermon-centered minimalism; the Catholic and Orthodox worlds also vary widely in actual parish depth.\
+- **Common scholarly view**: Density is not strictly correlated with centralized authority; it is correlated with formation practices (calendar, catechesis, sacramental rhythm).\
 3.3.A.4 Does conscience override continuity?
+- **Historically attested**: “Conscience” language becomes central in reform narratives (e.g., Luther’s Worms posture as popularly remembered), and later Protestant identity often valorizes individual conviction.\
+- **Contested**: Traditions differ on whether conscience is a last-resort against corruption or a standing license to depart from inherited consensus.
 
 ### 3.3.C `[GPT-5.2+]` Open Question
 
 3.3.C.1 When does “necessary correction” become “unbounded multiplication,” and what mechanisms slow that drift?
+- **Historically attested**: The Reformation produces multiple confessions within decades; later Protestant history includes repeated splits and new movements (Pietism, Methodism, revivalism, Pentecostalism, non-denominationalism).\
+- **Editorial synthesis**: Stabilizers exist (confessions, episcopacy, councils, associations), but the authority grammar changes what kind of unity is achievable and at what cost.
 
 ## 3.4 Three Authority Grammars
 
@@ -278,6 +311,12 @@
 3.4.1.R3 Suspicion toward spontaneity.\
 3.4.1.R4 Limited missionary dynamism in some contexts.
 
+- **Historically attested**: The Orthodox Church locates its identity in continuity with the early ecumenical councils (commonly counted through Nicaea II, 787) and the patristic consensus; authority is distributed through synods of bishops within autocephalous churches.\
+- **Historically attested**: The ecumenical councils central to this identity include Nicaea (325), Constantinople (381), Ephesus (431), Chalcedon (451), Constantinople II (553), Constantinople III (680–681), and Nicaea II (787).\
+- **Historically attested**: The “pentarchy” model (Rome, Constantinople, Alexandria, Antioch, Jerusalem) becomes a major late antique/Byzantine framework, though its interpretation and historical reality are complex.\
+- **Historically attested**: Autocephaly develops historically with empire, nation, and diaspora; overlapping jurisdictions in modern diaspora contexts are a concrete governance challenge.\
+- **Common scholarly view**: “Conciliarity” is an ideal with uneven historical expression; political pressures (Ottoman millet system, modern nationalism, communist persecution) significantly shape actual ecclesial life.\
+
 ### 3.4.2 Magisterial Development (Catholic)
 
 #### Strengths
@@ -293,6 +332,11 @@
 3.4.2.R2 Juridical framing dominance.\
 3.4.2.R3 Philosophical systematization risks.\
 3.4.2.R4 Institutional entanglement with power.
+
+- **Historically attested**: Western medieval reforms (e.g., Gregorian reform era) strengthen papal jurisdictional claims and clerical discipline; later medieval scholasticism intensifies systematization.\
+- **Historically attested**: Vatican I (1870) defines papal primacy and infallibility in specific conditions; Vatican II (1962–1965) emphasizes episcopal collegiality and renewed engagement with Scripture, liturgy, and the modern world.\
+- **[Catholic] claims**: The magisterium functions as a charism of service that preserves unity and guards the deposit across time.\
+- **Contested**: Orthodox and many Protestants dispute the scope and historical legitimacy of Vatican I claims; Catholics dispute among themselves how Vatican I and Vatican II are harmonized in practice.\
 
 ### 3.4.3 Scriptural Primacy (Protestant)
 
@@ -310,6 +354,10 @@
 3.4.3.R3 Reduced sacramental ontology.\
 3.4.3.R4 Loss of historical memory.
 
+- **Historically attested**: Protestantism emerges as a family of movements, not a single institutional body; it develops multiple authority stabilizers (confessions, synods, episcopacy in some cases, congregational governance in others).\
+- **[Protestant] claims**: Scripture’s primacy protects the Church from identifying the institution with the truth; it preserves reformability and conscience.\
+- **Common scholarly view**: Protestant unity tends to be “confessional/associational” rather than “jurisdictional,” which changes the mechanics of disagreement and repair.\
+
 #### 3.4.3.A `[GPT-5.2+]` Internal Differentiation (So “Protestant” Isn’t a Straw Category)
 
 `[GPT-5.2~]` Updated to match the shared decision in `shared-reflections.md` (3-way sub-split).
@@ -320,6 +368,10 @@
 
 `[GPT-5.2!]` This does not create “five grammars.” It preserves the 3-grammar spine while preventing “Protestant” from functioning as an accidental caricature-by-compression. Free-church/Anabaptist cases typically live as a variant within 3.4.3.A.2 in this simplified map.
 
+- **Historically attested (Liturgical/Confessional)**: Lutheran identity stabilizes around documents like the Augsburg Confession (1530) and Book of Concord (1580). Anglican identity stabilizes via the English Reformation (Act of Supremacy, 1534), the Book of Common Prayer (1549/1552), and the Elizabethan settlement (1559) with later doctrinal boundary markers (e.g., Thirty-Nine Articles, 1563/1571).\
+- **Historically attested (Reformed/Baptist)**: Reformed identity stabilizes through figures like Calvin (Institutes, 1536) and confessions/catechisms (e.g., Heidelberg 1563; Belgic 1561; Westminster 1646). Baptist movements emerge in the 17th century with confessional expressions (e.g., 1689 London Baptist Confession) and later evangelical awakenings shape practice.\
+- **Historically attested (Charismatic/Pentecostal)**: Early Pentecostal revivals include Topeka (1901) and Azusa Street (1906); “charismatic renewal” spreads in the mid-20th century across Protestant and Catholic contexts; Pentecostal/charismatic Christianity becomes a major global growth engine in the 20th–21st centuries.\
+
 ### 3.4.D `[GPT-5.2+]` What the Three Grammars Share (So the Reader Doesn’t Confuse “Difference” with “Otherness”)
 
 3.4.D.1 Shared confession: Trinity, Incarnation, Resurrection.\
@@ -327,12 +379,19 @@
 3.4.D.3 Shared practices: baptism, prayer, some form of eucharistic meal, discipleship.\
 3.4.D.4 Shared fruit: saints, scholars, martyrs, mystics in every stream.
 
+- **Historically attested**: Across all three families, the Nicene-Constantinopolitan creed, the centrality of baptism, and the confession of Christ’s resurrection function as shared identity markers, even when sacramental theology and ecclesial structure differ.\
+- **Editorial synthesis**: The reader’s posture shifts when “shared ground” is treated as a historical fact rather than an ecumenical wish.
+
 ## 3.5 Density vs Accessibility
 
 3.5.1 Density defined as saturation of Scripture and symbol.\
+- **Historically attested**: Liturgical traditions embed Scripture in lectionaries, cycles, psalmody, hymnody, and sacramental action; “density” is carried in repeated forms as much as in intellectual instruction.\
 3.5.2 Liturgical saturation models.\
+- **Historically attested**: Byzantine and Latin liturgical traditions develop stable rites and calendars; Anglican/Lutheran liturgical Protestantism preserves many of these patterns in reformed forms.\
 3.5.3 Sermon-centric models.\
+- **Historically attested**: Many post-Reformation movements emphasize preaching/teaching as the primary weekly formative event; revivalism and later evangelicalism intensify this pattern.\
 3.5.4 Community vs individual emphasis.
+- **Common scholarly view**: Modernity tends to individualize religion across traditions; communal-liturgy models resist this to varying degrees; voluntary-association models intensify it to varying degrees.
 
 ### 3.5.B `[GPT-5.2+]` The Spectrum (Not a Binary)
 
@@ -342,6 +401,8 @@
 ### 3.5.A Open Question
 
 3.5.A.1 Is density sustainable without centralization?
+- **Historically attested**: Some decentralized Protestant bodies retain high density through confessional catechesis and common prayer; some centralized bodies experience thin formation in practice.\
+- **Editorial synthesis**: The key variable may be formation discipline (calendar, catechesis, shared texts) more than governance alone.
 
 ### 3.5.C `[GPT-5.2+]` Open Question
 
@@ -350,8 +411,11 @@
 ## 3.6 Risk and Protection
 
 3.6.1 Institutional guardrails.\
+- **Historically attested**: Canon law, episcopal oversight, and formal processes for teaching/discipline develop over centuries in Catholic and Orthodox contexts, with different mechanisms and degrees of centralization.\
 3.6.2 Charismatic immediacy.\
+- **Historically attested**: Charismatic movements appear throughout Christian history (from early prophetic movements to later revivalisms); discernment frameworks vary widely by tradition and era.\
 3.6.3 Mystical caution vs experiential openness.
+- **Historically attested**: Traditions develop both “yes” (mysticism, revival) and “no” (caution, testing, spiritual direction) instincts, often in response to excess, delusion, or abuse.
 
 ### 3.6.B `[GPT-5.2+]` Discernment Structures Compared
 
@@ -363,18 +427,26 @@
 ### 3.6.A Open Question
 
 3.6.A.1 Where is the line between delusion and encounter?
+- **Common scholarly view**: Discernment criteria historically include doctrinal coherence, moral fruit, communal testing, and submission to some form of authority; the weighting of these differs across traditions.\
+- **Editorial synthesis**: This is not a “charismatic vs non-charismatic” question; it’s a human question: all traditions have to distinguish genuine encounter from self-deception and coercion.
 
 ## 3.7 Apophatic Reality
 
 3.7.1 Limits of knowledge.\
+- **Historically attested**: Apophatic language appears in multiple streams; Pseudo-Dionysius becomes a major transmitter of apophatic method East and West.\
 3.7.2 Dangers of certainty.\
+- **Historically attested**: Polemical periods correlate with hardened certainty and reduced charity; the Reformation and confessional conflicts provide clear historical cases of certainty becoming political weapon.\
 3.7.3 Humility as stabilizer.
+- **Historically attested**: Major spiritual writers across traditions emphasize humility as prerequisite for truth-telling (monastic sayings; medieval mystics; Reformers’ insistence on creaturely limits).\
 
 ### 3.7.B `[GPT-5.2+]` The Apophatic Across Traditions
 
 3.7.B.1 Orthodox: explicit apophatic theology and hesychast caution.\
+- **Historically attested**: Orthodox apophatic lineage includes Gregory of Nyssa and Pseudo-Dionysius; hesychast theology is classically associated with Gregory Palamas (14th century) and later Orthodox spirituality.\
 3.7.B.2 Catholic: strong apophatic strains (mystics) often coexisting with systematic confidence.\
+- **Historically attested**: Catholic apophatic/mystical streams include figures like John of the Cross and Teresa of Ávila; scholastic synthesis (e.g., Aquinas) coexists with strong insistence on divine incomprehensibility.\
 3.7.B.3 Protestant: less formal apophatic language but real functional humility in many streams (and real over-certainty in others).
+- **Historically attested**: Reformed traditions strongly emphasize God’s incomprehensibility and creaturely limits (e.g., classical Reformed scholasticism; later Protestant dogmatics); practical piety movements often express apophatic humility without technical vocabulary.\
 
 ------------------------------------------------------------------------
 
