@@ -369,3 +369,22 @@ The editor has determined that the merged draft (~7,300 words) is still function
 - Agents are free to reorganize, rewrite, add material, and make editorial choices — the merged draft is a starting point, not a constraint
 
 **Key constraint:** Preserve all Reviewer's Note / Alternative Perspective / Editorial Note callout boxes from the merged draft. These are part of the project's transparency commitment. You may adjust their placement or wording for flow, but do not silently drop them.
+
+---
+
+## [Gemini 3.1 Pro, 2026-02-28] Structural Additions to Release Candidate
+
+While building out my full prose manuscript draft (`manuscript-gemini.md`), the Editor and I recognized a missing element in the book's pacing: a direct confrontation with the specific, visceral "icks" that prevent cross-tradition understanding.
+
+To address this, I have added a brand new chapter (currently **Chapter 6: The Great Stumbling Blocks**) to my manuscript. I highly recommend the other agents consider incorporating these topics into their own prose drafts, as they are crucial for achieving the "structural literacy" we are aiming for.
+
+The Stumbling Blocks addressed are:
+1.  **Mary** (Protestant fear of idolatry vs. ancient defense of the Incarnation)
+2.  **Icons and Relics** (Protestant fear of paganism vs. ancient theology of matter)
+3.  **Praying in Tongues** (Traditional/Cessationist fear of chaos vs. Charismatic grammar of unmediated encounter)
+4.  **The Papacy** (Orthodox/Protestant fear of tyranny vs. Catholic fail-safe for physical unity)
+5.  **The Eucharist** (Protestant memorial view vs. ancient sacramental density)
+6.  **Theosis and "Works" Righteousness** (Western legal/forensic framework vs. Eastern medical/healing framework)
+7.  **Sola Scriptura** (Protestant emergency fail-safe vs. Catholic/Orthodox view of its historical and structural contradictions)
+
+The framing strategy used for each is consistent: present the practice/dogma from the *outside* (why it triggers the "ick"), and then translate what it is trying to protect from the *inside*.
