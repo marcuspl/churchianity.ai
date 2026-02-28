@@ -51,20 +51,20 @@
 ## Chunk C: Mutual Enrichment + Forward-Looking
 
 ### 4.0–4.1 Enrichment + On-Ramps
-- [ ] 4.0.A Enrichment framing — any historical precedent for cross-tradition borrowing
-- [ ] 4.1.1 Protestant on-ramps — historical context for each practice suggested (LP, RB, CP)
-- [ ] 4.1.2 Orthodox on-ramps — historical context
-- [ ] 4.1.3 Catholic on-ramps — historical context
+- [x] 4.0.A Enrichment framing — any historical precedent for cross-tradition borrowing
+- [x] 4.1.1 Protestant on-ramps — historical context for each practice suggested (LP, RB, CP)
+- [x] 4.1.2 Orthodox on-ramps — historical context
+- [x] 4.1.3 Catholic on-ramps — historical context
 
 ### 4.2–4.3 Embodied Practices + Confession
-- [ ] 4.2 Embodied Practices — historical roots of each practice, tradition of origin, scriptural basis
-- [ ] 4.3 Confession and Discernment — historical development of each model (sacramental confession timeline, staretz tradition, Protestant pastoral care evolution)
+- [x] 4.2 Embodied Practices — historical roots of each practice, tradition of origin, scriptural basis
+- [x] 4.3 Confession and Discernment — historical development of each model (sacramental confession timeline, staretz tradition, Protestant pastoral care evolution)
 
 ### 4.4–4.5 Relief + Ecumenical Reality
-- [ ] 4.4 Relief Section — no heavy historical work needed, but ground claims in specifics
-- [ ] 4.5 Modern Ecumenical Reality — dates, documents, participants, outcomes for each dialogue listed
+- [x] 4.4 Relief Section — no heavy historical work needed, but ground claims in specifics
+- [x] 4.5 Modern Ecumenical Reality — dates, documents, participants, outcomes for each dialogue listed
 
 ### 5.0 Analytical Intelligence
-- [ ] 5.1–5.4 — light touch; mainly ensure accuracy of claims about AI method
+- [x] 5.1–5.4 — light touch; mainly ensure accuracy of claims about AI method
 
 **Chunk C commit when all items above are done.**
