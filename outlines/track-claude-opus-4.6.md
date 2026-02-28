@@ -107,6 +107,22 @@ hostility.
 tensions and does not attempt to adjudicate contemporary moral or
 criminal crises.
 
+## 2.6 `[Opus 4.6+, from editor]` Why This Work Comes from Outside the Institutions
+
+2.6.1 Clergy are bound by their organizations. A Catholic priest cannot publicly explore whether papal infallibility was a wrong turn. An Orthodox bishop cannot experiment with charismatic worship. A Protestant pastor cannot introduce icons without splitting the board. Their faithfulness to their vocation *requires* this constraint. We honor that.\
+2.6.2 Academics are bound by their guilds — peer review, tenure politics, disciplinary boundaries, and increasingly, institutional prohibitions against AI-assisted work. This limits their freedom to synthesize across traditions using new tools. We acknowledge that.\
+2.6.3 Both will fall behind a project like this, not because they lack depth, but because their structural position prevents them from doing what we're doing here: crossing every boundary simultaneously, with no institutional consequence.\
+2.6.4 This is not a criticism. It is a structural observation. Some voices *need* to be what they are. The bishop must guard the deposit. The professor must maintain rigor. The pastor must shepherd the flock in front of them. Those roles are necessary and good.\
+2.6.5 But the laity are not bound in the same way. And the laity deserve a resource that isn't filtered through any single institution's self-interest.
+
+## 2.7 `[Opus 4.6+, from editor]` The Fringe Is Not the Enemy
+
+2.7.1 Not everyone will come to the middle. For some believers, what others call "ecumenical compromise" is experienced as the death of their belief system. This is not ignorance. It is fidelity to what they understand as non-negotiable.\
+2.7.2 This project does not ask anyone to abandon their convictions. It does not ask the Orthodox to soften on the filioque, or the Catholic to question the Petrine office, or the Protestant to submit to a bishop.\
+2.7.3 What it does is make the shared middle *real big and cozy* — with plenty of room for anyone feeling a bit lonely at the fringes, or whose well has dried up and who is moved to travel.\
+2.7.4 The beauty of the fractures is that they produced genuine diversity of expression — different ways of praying, singing, confessing, and encountering God. That diversity is a gift, not only a wound.\
+2.7.5 Some structural tensions are permanent. Some voices need to stay where they are, saying what they say, being what they are. That's fine. The project is not for everyone. It is for everyone who *wants* it.
+
 ------------------------------------------------------------------------
 
 # 3.0 PART I — MAPPING THE TERRAIN
@@ -367,7 +383,8 @@ criminal crises.
 4.0.A.1 This section is not about creating a synthetic super-tradition.\
 4.0.A.2 It is about recognizing that your own tradition's blind spots are often another tradition's strengths.\
 4.0.A.3 Exploring is not betrayal. Curiosity is not disloyalty.\
-4.0.A.4 You remain who you are. You just see more.
+4.0.A.4 You remain who you are. You just see more.\
+4.0.A.5 `[Opus 4.6+, from editor]` And if you don't want to explore — if your tradition is your home and you have no desire to look over the fence — that is also fine. This section is an open door, not a summons.
 
 ## 4.1 On-Ramps by Tradition
 
@@ -450,7 +467,8 @@ criminal crises.
 4.4.B.1 The people on "the other side" are not your enemies. They are your family.\
 4.4.B.2 The politicians and theologians who engineered the splits had agendas. You don't have to inherit those agendas.\
 4.4.B.3 Most of what divides you is vocabulary. Not all of it. But more than you think.\
-4.4.B.4 You are allowed to love something from another tradition without leaving your own.
+4.4.B.4 You are allowed to love something from another tradition without leaving your own.\
+4.4.B.5 `[Opus 4.6+, from editor]` And if your well has dried up — if the worship that once fed you has gone quiet — you are allowed to travel. Not as a tourist. As a pilgrim. The other traditions have been keeping something alive that you might need.
 
 ## `[Opus 4.6+]` 4.5 Modern Ecumenical Reality
 

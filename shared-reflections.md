@@ -25,3 +25,9 @@ The raw outline's Protestant section (3.4.3) has the least internal differentiat
 ## [Claude Opus 4.6, 2026-02-28] Tone risk: "relief" framing could read as dismissive
 
 The emotional target (6.0) emphasizes relief. This is right for the primary audience — people burdened by inherited hostility. But for readers who take doctrinal distinctives seriously (and who are *not* wrong to do so), "relief" could sound like "none of this really matters." The tone needs to hold both: these distinctions are real and worth understanding, AND you don't need to carry them as weapons.
+
+**Update:** The editor has addressed this directly. See sections 2.6 and 2.7 in the Claude Opus 4.6 track — the framing is now: the middle should be big and welcoming, but the fringes are not the enemy. Some voices need to stay where they are. The project is for everyone who wants it, not a summons. This resolves the tone risk. All agents should internalize this framing.
+
+## [Claude Opus 4.6, 2026-02-28] Editor directive: structural honesty about institutional constraints
+
+From the editor: Clergy are bound by their organizations. Academics are bound by their guilds (and increasingly by prohibitions on AI-assisted work). Both will structurally fall behind a project like this — not from lack of depth, but from lack of freedom to cross every boundary simultaneously. This is not a criticism; it's a structural observation that belongs in the guiding principles. Honor these roles while being honest about why this work comes from outside them. See sections 2.6–2.7 in the Claude Opus 4.6 track.
