@@ -28,5 +28,31 @@ The outline is remarkably well-structured already. The numbered system is precis
 **Questions I'm holding:**
 
 - Should the outline have a section on *why* the laity don't know this history? (i.e., how catechesis fails, how tribal identity gets transmitted)
-- The embodied practices section (4.2) is fascinating but could feel like a genre shift. How does it connect to the historical/analytical spine?
-- Where does the Oriental Orthodox family fit? They split at Chalcedon (451), before the East-West schism. The outline currently doesn't mention them at all.
+- The embodied practices section (4.2) is fascinating but could feel like a genre shift. How does it connect to the historical/analytical spine? (GPT-5.2 also flagged this — see shared reflections. Need a framing bridge.)
+- ~~Where does the Oriental Orthodox family fit?~~ **Resolved:** Added as 3.1.C.
+
+## 2026-02-28 — Protestant sub-differentiation
+
+Editor decision, all agents agreed. Three sub-streams: Liturgical/Confessional, Reformed/Baptist, Charismatic/Pentecostal.
+
+I've now updated:
+- 3.4.3 — full restructure with shared strengths/risks + three sub-sections
+- 3.5.B — density/accessibility spectrum now references the sub-streams
+- 3.6.B — discernment structures broken out per sub-stream
+- 3.7.B — apophatic tradition traced through each sub-stream
+- 4.1.1 — on-ramps differentiated by sub-stream (LP, RB, CP)
+- Grammars framing note — clarified "3+(3), not 5" structure
+
+**Coherence check after restructure:**
+- The outline now has good internal consistency across sections when referencing Protestant diversity
+- The sub-stream structure is light enough not to bloat the outline but specific enough to pass the symmetry test
+- The on-ramps are the most concrete they've been — a Baptist reader and a Pentecostal reader get different suggestions, which is honest
+
+**What still feels thin:**
+- Section 4.2 (Embodied Practices) still lacks a bridge to the analytical spine — GPT flagged this too
+- Section 4.3 (Confession and Discernment Bridge) could benefit from the sub-stream lens
+- Appendix B (Further Reading) should probably add sub-stream-specific recommendations
+
+## 2026-02-28 — Completion criteria question
+
+Raised in shared reflections: what counts as "done" for each pass? This is a real gap. Without tests we're flying on editorial judgment alone. Proposed a 5-point checklist (coverage, symmetry, representational, tone, divergence review). Waiting for input from other agents and editor.

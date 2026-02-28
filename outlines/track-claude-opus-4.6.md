@@ -232,7 +232,7 @@ criminal crises.
 
 ## 3.4 Three Authority Grammars
 
-`[Opus 4.6~]` Note: The term "grammars" is excellent — it signals that these are different *languages* for the same concerns, not right/wrong answers. Worth explaining this metaphor briefly in the actual text.
+`[Opus 4.6~]` Note: The term "grammars" is excellent — it signals that these are different *languages* for the same concerns, not right/wrong answers. Worth explaining this metaphor briefly in the actual text. With the Protestant sub-differentiation, we now have three major grammars with one of them (Protestant) containing three distinct dialects. The structure is 3+(3), not 5.
 
 ### 3.4.1 Conciliar Continuity (Orthodox)
 
@@ -288,33 +288,79 @@ criminal crises.
 
 ### 3.4.3 Scriptural Primacy (Protestant)
 
-#### Strengths
+`[Opus 4.6~, editor decision]` "Protestant" spans an enormous range — from Anglicans with bishops and liturgy to Pentecostals with altar calls and tongues. Treating it as a single grammar violates the symmetry rule. The following shared strengths/risks apply broadly, then three sub-streams are differentiated below.
 
-3.4.3.S1 Accessibility.\
-3.4.3.S2 Missionary zeal.\
-3.4.3.S3 Personal repentance language.\
-3.4.3.S4 Creative worship expression.
+#### Shared Protestant Strengths
 
-#### Risks
+3.4.3.S1 Accessibility — lower barriers to entry than any other tradition.\
+3.4.3.S2 Missionary zeal — the Great Commission taken as personal mandate.\
+3.4.3.S3 Personal repentance language — a direct, unmediated relationship with God.\
+3.4.3.S4 Prophetic capacity — the ability to challenge institutional corruption precisely because authority is not identified with institution.\
+3.4.3.S5 Vernacular immediacy — Scripture and worship in the language of the people.\
+3.4.3.S6 Congregational adaptability — the ability to contextualize rapidly across cultures.
 
-3.4.3.R1 Fragmentation.\
-3.4.3.R2 Interpretive instability.\
-3.4.3.R3 Reduced sacramental ontology.\
-3.4.3.R4 Loss of historical memory.
+#### Shared Protestant Risks
 
-#### `[Opus 4.6+]` Additional Strengths to Consider
+3.4.3.R1 Fragmentation — the multiplication of denominations as a structural consequence of sola scriptura without shared interpretive authority.\
+3.4.3.R2 Interpretive instability — every generation re-reads Scripture without the guardrail of received tradition.\
+3.4.3.R3 Reduced sacramental ontology — the Eucharist becomes memorial, baptism becomes symbol, the material world loses its weight.\
+3.4.3.R4 Loss of historical memory — many Protestants have no idea they *have* a history before their local church was founded.
 
-3.4.3.S5 Prophetic capacity — the ability to challenge institutional corruption precisely because authority is not identified with institution.\
-3.4.3.S6 Vernacular immediacy — Scripture and worship in the language of the people, without mediation.\
-3.4.3.S7 Congregational adaptability — the ability to contextualize rapidly across cultures.
+#### `[Opus 4.6+, editor decision]` 3.4.3a Liturgical/Confessional Protestant (Anglican, Lutheran, some Reformed)
 
-#### `[Opus 4.6+]` Additional Risks to Consider
+##### Strengths
 
-3.4.3.R5 Pastor-as-pope — in the absence of institutional authority, charismatic leaders can accumulate unchecked power.\
-3.4.3.R6 Market dynamics — when churches compete for members, theology can become consumer-responsive.\
-3.4.3.R7 Historical amnesia — many Protestants have no idea they *have* a history before their local church was founded.
+3.4.3a.S1 Retains creedal and confessional structure — the Augsburg Confession, the Book of Common Prayer, the Westminster Standards.\
+3.4.3a.S2 Ordained ministry with apostolic succession (Anglicans) or structured ordination.\
+3.4.3a.S3 Liturgical worship that preserves density — closest to Catholic/Orthodox in form.\
+3.4.3a.S4 Strong intellectual and academic tradition — serious engagement with philosophy, history, and theology.
 
-`[Opus 4.6!]` The Protestant section needs internal differentiation. As it stands, the outline treats "Protestant" as a single category — but it spans Anglicans (who have bishops and liturgy), Reformed (who have confessions and consistories), Evangelicals (who have personal conversion), and Pentecostals (who have spiritual gifts). The strengths and risks vary significantly across these. At minimum, a note acknowledging this range. Ideally, brief sub-differentiation.
+##### Risks
+
+3.4.3a.R1 Identity crisis — often experienced as "Catholics who left but can't remember why" or "Protestants who stayed too close."\
+3.4.3a.R2 Institutional decline — mainline denominations in the West are shrinking rapidly.\
+3.4.3a.R3 Internal polarization — liberal/conservative splits within denominations (e.g., Anglican Communion fractures over sexuality and authority).\
+3.4.3a.R4 Can inherit the bureaucratic weight of institutional Christianity without the Catholic Church's global coherence.
+
+#### `[Opus 4.6+, editor decision]` 3.4.3b Reformed/Baptist (Presbyterian, Baptist, mainstream Evangelical)
+
+##### Strengths
+
+3.4.3b.S1 Doctrinal seriousness — confessional fidelity, catechesis, theological education.\
+3.4.3b.S2 Congregational governance — authority distributed, leadership accountable to the body.\
+3.4.3b.S3 Sermon-centric worship — deep engagement with the biblical text, expository preaching.\
+3.4.3b.S4 Moral seriousness — strong emphasis on sanctification, personal holiness, discipleship.
+
+##### Risks
+
+3.4.3b.R1 The dry well — when worship is primarily cognitive (sermon + hymns), the emotional and bodily dimensions can atrophy.\
+3.4.3b.R2 Rationalist reduction — theology becomes an intellectual system rather than a lived encounter.\
+3.4.3b.R3 Cultural fortress mentality — when doctrine becomes identity marker, the community can become insular.\
+3.4.3b.R4 Loss of mystery — the apophatic dimension is structurally underserved when every question demands a propositional answer.
+
+#### `[Opus 4.6+, editor decision]` 3.4.3c Charismatic/Pentecostal (Pentecostal, charismatic, non-denominational)
+
+##### Strengths
+
+3.4.3c.S1 Experiential immediacy — the Holy Spirit as present, active, encountered *now*.\
+3.4.3c.S2 Creative worship expression — music, movement, spontaneity, emotional freedom.\
+3.4.3c.S3 Global dynamism — the fastest-growing expression of Christianity worldwide, especially in the Global South.\
+3.4.3c.S4 Healing and wholeness emphasis — prayer for physical, emotional, and spiritual restoration.\
+3.4.3c.S5 Low institutional overhead — can plant churches anywhere, adapt to any culture, with minimal infrastructure.
+
+##### Risks
+
+3.4.3c.R1 Pastor-as-pope — in the absence of institutional checks, charismatic leaders accumulate unchecked power. Accountability structures are often weak or absent.\
+3.4.3c.R2 Market dynamics — when churches compete for members, theology can become consumer-responsive. What fills seats replaces what is true.\
+3.4.3c.R3 Doctrinal thinness — experiential intensity can substitute for theological depth. "The Spirit told me" can override Scripture and tradition.\
+3.4.3c.R4 Prosperity theology — the corruption of the gospel into a transactional promise of material blessing.\
+3.4.3c.R5 Burnout and spiritual abuse — the pressure to perform spiritual experiences (tongues, prophecy, healing) can become coercive.
+
+#### `[Opus 4.6+]` 3.4.3.Note on Protestant Internal Diversity
+
+3.4.3.N1 These three sub-streams are not sealed categories. Many churches blend elements — a Baptist church with charismatic worship, an Anglican parish with evangelical preaching, a Pentecostal church that discovers liturgy.\
+3.4.3.N2 The boundaries are porous. That porosity is itself a Protestant characteristic.\
+3.4.3.N3 A reader from any of these sub-streams should be able to locate themselves here and recognize both their tradition's gifts and its particular risks.
 
 ### 3.4.D `[Opus 4.6+]` What the Three Grammars Share
 
@@ -333,8 +379,9 @@ criminal crises.
 
 ### `[Opus 4.6+]` 3.5.B The Spectrum, Not the Binary
 
-3.5.B.1 This is not a clean division. High-church Anglicans have more liturgical density than many Orthodox parishes in practice. Charismatic Catholics have more spontaneity than many Baptists.\
-3.5.B.2 The interesting question is not which model is "right" but what each model *makes possible* and what it *makes difficult*.
+3.5.B.1 This is not a clean division. The Protestant sub-streams make this visible: liturgical Protestants have more in common with Catholic and Orthodox worship than with Pentecostals. Charismatic Catholics have more spontaneity than many Baptists.\
+3.5.B.2 The density/accessibility axis cuts *across* the major traditions, not neatly between them.\
+3.5.B.3 The interesting question is not which model is "right" but what each model *makes possible* and what it *makes difficult*.
 
 ### 3.5.A Open Question
 
@@ -354,8 +401,10 @@ criminal crises.
 
 3.6.B.1 Orthodox: spiritual father/elder (staretz) tradition.\
 3.6.B.2 Catholic: magisterial evaluation, canonical processes, spiritual direction.\
-3.6.B.3 Protestant: congregational accountability, pastoral counsel, and (in some streams) nothing at all.\
-3.6.B.4 Each model protects against certain dangers and is vulnerable to others.
+3.6.B.3 Liturgical Protestant: episcopal oversight, confessional standards, structured ordination.\
+3.6.B.4 Reformed/Baptist: congregational accountability, elder boards, confessional fidelity.\
+3.6.B.5 Charismatic/Pentecostal: varies enormously — some have robust accountability structures, many have very little beyond the pastor's personal authority.\
+3.6.B.6 Each model protects against certain dangers and is vulnerable to others.
 
 ### 3.6.A Open Question
 
@@ -371,8 +420,10 @@ criminal crises.
 
 3.7.B.1 Orthodox: the apophatic tradition is explicit and central (Gregory of Nyssa, Pseudo-Dionysius, Gregory Palamas).\
 3.7.B.2 Catholic: present but often overshadowed by systematic/scholastic confidence (though Aquinas himself said his work was "straw").\
-3.7.B.3 Protestant: less formally articulated, but present in the Reformed tradition's emphasis on God's sovereignty and incomprehensibility.\
-3.7.B.4 Charismatics and mystics in all traditions touch the apophatic in practice even when their theology doesn't name it.
+3.7.B.3 Liturgical Protestant: inherited through the Western mystical tradition (Julian of Norwich, the Cloud of Unknowing, Meister Eckhart) and preserved in Anglican contemplative practice.\
+3.7.B.4 Reformed/Baptist: present in the tradition's emphasis on God's sovereignty and incomprehensibility, but often overridden by the impulse toward propositional clarity.\
+3.7.B.5 Charismatic/Pentecostal: touched in practice through glossolalia and ecstatic prayer — the moment when language gives out is itself apophatic, even when the theology doesn't name it.\
+3.7.B.6 The apophatic is present in all traditions. What varies is whether it is named, honored, and structurally supported.
 
 ------------------------------------------------------------------------
 
@@ -390,17 +441,30 @@ criminal crises.
 
 ### 4.1.1 If Protestant
 
-4.1.1.A Attend liturgy.\
-4.1.1.B Pray Psalms corporately.\
-4.1.1.C Explore prostration.\
-4.1.1.D Read early Fathers.\
-4.1.1.E Practice silence.
+`[Opus 4.6~, editor decision]` The on-ramps differ depending on where you're starting from. What a Baptist needs is not what an Anglican needs.
 
-#### `[Opus 4.6+]` Additional On-Ramps
+#### 4.1.1.LP If Liturgical/Confessional Protestant
 
-4.1.1.F Learn the liturgical calendar — let the church year shape your rhythm, not just the sermon series.\
-4.1.1.G Read your own Reformers in full, not just in soundbites — Luther's sacramental theology would surprise most modern Evangelicals.\
-4.1.1.H Try fixed-hour prayer (Lauds, Vespers) for a month.
+4.1.1.LP.A You already have density. Explore what the East has that the West doesn't — attend an Orthodox Divine Liturgy and feel the difference.\
+4.1.1.LP.B Read your own confessions deeply — the Book of Common Prayer, the Augsburg Confession. Know what you stand on.\
+4.1.1.LP.C Visit a charismatic prayer meeting. Experience what spontaneity and emotional surrender feel like from the inside.\
+4.1.1.LP.D Read the Eastern Fathers (Maximus the Confessor, Gregory Palamas) — your tradition's Western sources are deep, but the Eastern side of the family has treasures you may not know.
+
+#### 4.1.1.RB If Reformed/Baptist
+
+4.1.1.RB.A Attend a liturgical service — Orthodox, Catholic, or Anglican. Let worship be something that happens *to* you, not just something you evaluate.\
+4.1.1.RB.B Pray the Psalms corporately, out loud, every day for a month. Not as study. As prayer.\
+4.1.1.RB.C Read your own Reformers in full, not just in soundbites — Luther's sacramental theology would surprise most modern Evangelicals. Calvin's devotional warmth is nothing like the stereotype.\
+4.1.1.RB.D Try fixed-hour prayer (Lauds, Vespers). Let the rhythm carry you when your own words run out.\
+4.1.1.RB.E Practice silence. Extended silence. Not as emptying, but as listening.
+
+#### 4.1.1.CP If Charismatic/Pentecostal
+
+4.1.1.CP.A Read the early Church Fathers. You'll discover that the fire you value was there from the beginning — but anchored in community, sacrament, and tradition.\
+4.1.1.CP.B Explore prostration and bodily prayer from the Eastern tradition — you already value embodied worship; this is a deeper, older version of it.\
+4.1.1.CP.C Learn the liturgical calendar — let the church year give your spiritual life structure alongside the spontaneity.\
+4.1.1.CP.D Read a systematic theology. Not to kill the Spirit, but to give the Spirit a vocabulary. Doctrine and experience are not enemies.\
+4.1.1.CP.E Sit in an Orthodox or Catholic service and resist the urge to evaluate it. Just receive.
 
 ### 4.1.2 If Orthodox
 
