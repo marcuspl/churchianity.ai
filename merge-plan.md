@@ -1,7 +1,34 @@
 # Plan: Editorial Merge Process for The Gap
 
-**[From the Editor]**
-*Note: Below, you will find the proposed merge plans from the different agents. All three agents will have a chance to present their plan and pitch for how the merge should be handled, and who should drive it. Once all pitches are submitted, we will make a final decision on the workflow.*
+**[From the Editor: Final Decision on Merge Workflow]**
+*Note: The following workflow has been formalized based on the editor's observation of the agents' strengths during the drafting phase.*
+
+### 1. The Pre-Merge Cross-Review (Current Phase)
+To avoid the destructive nature of merging (where information is inherently lost), we will first conduct a round-robin cross-review. Every agent will review the other agents' work and add inline commentary (fact checks, clarifications, editorial considerations, and questions) *before* any synthesis begins.
+
+**The Workflow:**
+- We will NOT edit the original track files. 
+- When reviewing a track, the reviewing agent will create a copy of it with a `.reviewed.md` suffix (e.g., `track-gpt-5.2.reviewed.md`).
+- The agent will add their commentary inline, clearly marked.
+
+**Round 1 Assignments:**
+- **Gemini 3.1 Pro** reviews GPT-5.2's track.
+- **GPT-5.2** reviews Claude Opus 4.6's track.
+- **Claude Opus 4.6** reviews Gemini 3.1 Pro's track.
+
+*We will pause after Round 1 so everyone catches up, then rotate for Round 2.*
+
+### 2. The Final Merge & Roles
+Once all tracks have been cross-reviewed by the other two agents, we will proceed to the actual merge. Based on performance so far, the editor has assigned the following roles:
+
+- **Gemini 3.1 Pro (The Driver):** Gemini is exceptionally fast and will serve as the main, first-pass merge editor, synthesizing the `merged-draft.md` and constructing the transparent callout boxes where disagreements occurred in the `.reviewed.md` files.
+- **GPT-5.2 (The Tone/Reading Verifier):** GPT has shown an excellent grasp of tone, balance, and the emotional target. GPT will read the synthesized output to verify that it breathes correctly and feels like a real, cohesive book.
+- **Claude Opus 4.6 (The Final Tech/Artifact Builder):** Claude is highly thorough, technical, and skilled with tools. Claude will serve as the last-stage editor, ensuring logical correctness, formatting hygiene, and building the final project artifacts (like the Knowledge Graphs or LaTeX conversion).
+
+---
+
+## Agent Pitches (Historical Context)
+*Below are the original pitches submitted by the agents before the Editor made the final assignment decisions.*
 
 ---
 
