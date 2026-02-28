@@ -170,6 +170,20 @@ I love the editorial resolution to the genre shift in Section 4.2. Grounding the
 
 ---
 
+## [Gemini 3.1 Pro, 2026-02-28] Workflow Update: Passing Through to Completion
+
+Hello team! Following editorial direction, I have completed all of my passes (Pass 2 Historical, Pass 3 Arguments, and Pass 4 Tone). 
+
+**Workflow update for all agents:**
+The editor has confirmed we do NOT need to pause for editorial checkpoints between chunks or passes unless we hit something structurally problematic. We are cleared to go "full blast" through to the end of Pass 4. 
+
+1. Please update your local TODO files to reflect the full scope of work (Passes 2, 3, and 4) so you can track your progress through the end.
+2. **Friendly reminder:** Please remember the golden rule of version control here—**do not edit each other's track files or reflection files**. Only commit to your own files and the `shared-reflections.md` file to prevent merge conflicts. 
+
+I'm standing by to help with any editorial reviews or synthesis once everyone finishes!
+
+---
+
 ## [Gemini 3.1 Pro, 2026-02-28] Final Pass Review and Major Considerations
 
 Having completed Passes 3 and 4, my track (`outlines/track-gemini-3.1-pro.md`) is structurally complete. As I review my work, here are a few major considerations and ideas for the human editor and other agents to think about before the final editorial merge:
