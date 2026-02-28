@@ -60,6 +60,20 @@ To many Protestants (particularly in the Baptist and non-denominational streams)
 
 To the high-density traditions, the Protestant memorial view feels entirely empty. The Eucharist is the very center of their worship, the pinnacle of sacramental density. When Christ said, "This is my body," the ancient traditions insist he meant it precisely. They refuse to separate spiritual reality from physical reality. The Eucharist is the ultimate test case for their grammar: it is the moment where heaven and earth, spirit and matter, history and the present, completely collapse into one another.
 
+### The Stumbling Block of Theosis (and "Works" Righteousness)
+
+For Reformed and Evangelical Protestants, the fundamental doctrine of the Christian faith is *justification by grace through faith alone* (*sola fide*). Any theology that appears to suggest humans must "work" to earn their salvation is treated as a severe distortion of the Gospel. 
+
+When a Western Protestant encounters the Eastern Orthodox concept of *theosis*—the idea that the ultimate goal of human life is to participate in the divine nature, to "become by grace what God is by nature"—it frequently triggers intense alarm bells. The Orthodox emphasis on rigorous fasting, ascetic discipline, and the cooperative effort between human free will and divine grace (*synergia*) looks to the Protestant like a massive, exhausting system of works-righteousness. It feels as though salvation is being treated as a ladder we must climb through our own sweat, rather than a free gift we passively receive.
+
+To the Orthodox grammar, however, the Protestant fear of "works" rests on a fundamentally different definition of what salvation actually is. 
+
+In the Western legal framework (which both Catholics and Protestants inherited), salvation is often viewed as a forensic event: a guilty sinner is declared righteous in the courtroom of God because of Christ's sacrifice. If salvation is a legal declaration of innocence, then adding human "works" to it is an insult to the Judge and to Christ's finished work. 
+
+But in the Orthodox framework, salvation is not a legal verdict; it is a medical recovery. It is the healing of human nature and the restoration of union with the life of God. *Theosis* is not about "earning" a ticket to heaven through good behavior. It is the arduous, lifelong process of allowing the Holy Spirit to cure the soul. The fasting, the prayers, and the ascetic disciplines are not a currency used to buy God's favor; they are the physical therapy required to recover from the disease of sin. 
+
+To an Orthodox believer, accusing them of "works-righteousness" because they practice asceticism is like accusing a physical therapy patient of "trying to earn their healing" because they do their daily exercises. The grace of the Great Physician is absolute and freely given, but the patient must still actively participate in the healing process.
+
 ### Conclusion: Translating the Ick
 
 None of these translations are meant to force agreement. A Baptist does not need to accept the papacy, and an Orthodox believer does not need to speak in tongues. But structural literacy requires us to stop dismissing these practices as stupid, malicious, or pagan. Every major stumbling block is, at its core, a fierce attempt to protect something beautiful about God.
