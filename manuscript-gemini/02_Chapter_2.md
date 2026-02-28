@@ -20,7 +20,7 @@ This is the governance dispute in a nutshell: The East maintained that doctrine 
 
 Governance was not the only thing drifting. When the Western Roman Empire collapsed in 476, the Latin-speaking West and the Greek-speaking East were largely cut off from one another. They grew increasingly unable to communicate, both literally and conceptually. 
 
-Latin theology, heavily influenced by the towering figure of St. Augustine, developed its own distinct vocabulary focusing on original sin, grace, and predestination. Greek theology continued in the framework of the Eastern Fathers, focusing on participation, the divine energies, and *theosis* (deification). 
+Latin theology, heavily influenced by the towering figure of St. Augustine, developed its own distinct vocabulary focusing on original sin, grace, and predestination. Augustine's brilliant legal mind infused the West with a desire for precise definitions. Greek theology, meanwhile, continued in the framework of the Eastern Fathers, focusing on participation, the divine energies, and *theosis* (deification). 
 
 By the ninth century, Eastern and Western theologians were often talking right past each other. They were using entirely different philosophical grammars to describe the exact same divine mysteries. Much of what felt like fierce theological disagreement was actually a profound problem of translation.
 
@@ -30,7 +30,9 @@ This linguistic drift culminated in the most famous theological dispute of the e
 
 The original Nicene-Constantinopolitan Creed (from 381) stated that the Holy Spirit "proceeds from the Father." However, beginning in sixth-century Spain and slowly spreading through the Frankish West, Latin Christians added a single word to the creed: *filioque*, meaning "and the Son." The creed now read that the Spirit "proceeds from the Father *and the Son*." 
 
-The West considered this a perfectly legitimate theological clarification. The East considered it an outrage—a unilateral, illicit alteration of a shared creed that belonged to the whole church and could only be changed by an ecumenical council. The theological substance of the *filioque* is genuinely complex, involving deep questions about the inner life of the Trinity. But the *procedural* issue—who actually has the right to alter a shared creed?—was the real dynamite. 
+The West did not do this out of malice. In Spain, they were fighting a lingering heresy (Arianism) that diminished the divinity of Jesus, so they added the *filioque* to emphasize the co-equality of the Son with the Father. Furthermore, it fit perfectly with Augustine's theology, which viewed the Holy Spirit as the eternal bond of love *between* the Father and the Son. The West considered this a perfectly legitimate theological clarification. 
+
+The East considered it an outrage. Theologically, the East argued that saying the Spirit proceeds from both Father and Son destroys the delicate monarchy of the Father as the sole source of the Trinity. But even more than the theology, the *procedural* issue was the real dynamite. To the East, the West had unilaterally, illicitly altered a shared, sacred creed that belonged to the whole church and could only be changed by an ecumenical council.
 
 At the same time, the political axis of the world was shifting. On Christmas Day in the year 800, Pope Leo III crowned the Frankish king Charlemagne as the "Emperor of the Romans" in Rome. This was a direct, calculated challenge to the Byzantine emperor sitting in Constantinople, who considered himself the sole legitimate Roman emperor. The Church was now embedded in two competing empires with two competing visions of Christian civilization.
 
@@ -38,11 +40,13 @@ At the same time, the political axis of the world was shifting. On Christmas Day
 
 If 1054 was the symbolic break, 1204 was the wound that made the schism permanent. 
 
-During the Fourth Crusade, Western crusaders—nominally on their way to the Holy Land to fight for Christendom—diverted their army to Constantinople. In an act of stunning betrayal, they sacked the city. They slaughtered their fellow Christians, desecrated the high altar of the Hagia Sophia, installed a Latin patriarch, and established a Latin Empire that lasted for decades. 
+During the Fourth Crusade, Western crusaders—nominally on their way to the Holy Land to fight for Christendom—diverted their army to Constantinople. In an act of stunning betrayal, they sacked the city. 
 
-Whatever theological rapprochement might have been possible was destroyed in a firestorm of violence. Orthodox Christians to this day cite the sack of 1204 as the moment the break became irreversible. (It is worth noting that Pope John Paul II formally apologized for the Fourth Crusade in 2004—eight hundred years later).
+The accounts from eyewitnesses are horrifying. Western Christian knights slaughtered Eastern Christians in the streets. They rode horses directly into the sanctuary of the Hagia Sophia. They smashed the silver iconostasis, stripped the gold from the altars, and reportedly placed a prostitute on the Patriarch's throne to mock the Eastern church. They installed a Latin patriarch and established a Latin Empire that lasted for decades. 
 
-Subsequent attempts at reunion, such as the Second Council of Lyon (1274) and the Council of Florence (1438), failed miserably. Why? Because the Eastern delegates were forced to sign the agreements under intense political duress (such as needing Western military support against the invading Ottomans). When the delegates returned home, the Eastern clergy and laity immediately repudiated the agreements. The lesson was clear: unity cannot be manufactured by decree or imposed from above.
+This was not just a military defeat; it was a profound spiritual desecration. Whatever theological rapprochement might have been possible was destroyed in a firestorm of violence. Orthodox Christians to this day cite the sack of 1204 as the moment the break became irreversible. (It is worth noting that Pope John Paul II formally apologized for the Fourth Crusade in 2004—eight hundred years later).
+
+Subsequent attempts at reunion, such as the Second Council of Lyon (1274) and the Council of Florence (1438), failed miserably. Why? Because the Eastern delegates were forced to sign the agreements under intense political duress (such as needing Western military support against the invading Ottomans). When the delegates returned home, the Eastern clergy and laity, remembering the trauma of 1204, immediately repudiated the agreements. The lesson was clear: unity cannot be manufactured by decree or imposed from above.
 
 > **Editorial Note (Claude Opus 4.6, drawing on GPT-5.2's framework): The Three-Layer Model** 
 > The East–West fracture is best understood as three intertwined layers, not one. Collapsing them produces the two most common reductive errors: "it was all politics" (which dismisses genuine theological stakes) and "it was all doctrine" (which erases coercion and trauma). The three layers are:
