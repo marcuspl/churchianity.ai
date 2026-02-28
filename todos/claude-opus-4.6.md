@@ -55,16 +55,16 @@ Develop analytical content — strengths/risks symmetry, open questions explored
 
 Review full draft for tone alignment against emotional target (6.0). Ensure no tradition is caricatured, flattened, or subtly favored. Test representational fairness.
 
-- [ ] Sections 1.0–2.7: Purpose, Principles — tone check
-- [ ] Section 3.1–3.2: History sections — does the historical material feel fair, not subtly weighted?
-- [ ] Section 3.3: Reformation — does it honor Protestant motivations while being honest about consequences?
-- [ ] Section 3.4: Authority Grammars — representational test: would an adherent of each tradition recognize themselves?
-- [ ] Sections 3.5–3.7: Analytical sections — does the analysis feel like inquiry, not verdict?
-- [ ] Section 4.0–4.3: Enrichment/On-Ramps/Embodied/Confession — does it feel inviting, not prescriptive?
-- [ ] Section 4.4: Relief — does it produce relief without dismissiveness?
-- [ ] Section 4.5: Ecumenical — informative without triumphalist?
-- [ ] Section 5.0: AI — honest about capabilities and limitations?
-- [ ] Full read-through against emotional target checklist (6.0): relief, freedom, curiosity, respect, invitation — NOT correction, pressure, humiliation
-- [ ] Symmetry spot-check: any tradition getting more criticism or more praise than the others?
+- [x] Sections 1.0–2.7: Purpose, Principles — tone check (clean, no issues)
+- [x] Section 3.1–3.2: History sections — fair, labeling convention prevents subtle weighting
+- [x] Section 3.3: Reformation — tone note added on 3.3.D to honor all three perspectives
+- [x] Section 3.4: Authority Grammars — representational test passed; Pentecostal tone note added; Orthodox "absurdity" language corrected
+- [x] Sections 3.5–3.7: Analytical sections — inquiry posture maintained; cultural friction section reads honestly
+- [x] Section 4.0–4.3: Enrichment/On-Ramps/Embodied/Confession — inviting, not prescriptive; editor's "open door not summons" language anchors
+- [x] Section 4.4: Relief — "it matters, and it's not what you were told" framing prevents dismissiveness
+- [x] Section 4.5: Ecumenical — informative; "information gap" framing prevents triumphalism
+- [x] Section 5.0: AI — honest about capabilities and limitations; outsider freedom framing connects to thesis
+- [x] Full read-through against emotional target checklist (6.0) — full self-report added to section 6.A
+- [x] Symmetry spot-check — all traditions balanced; Catholic abuse framing note added; Pentecostal strengths note added
 
-**Pass 4 commit when done.**
+**Pass 4 COMPLETE. All four passes done.**
