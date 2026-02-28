@@ -54,12 +54,12 @@ Goal: expand the analysis while maintaining the **symmetry rule** and representa
 - [x] 3.7 Apophatic — argue how humility stabilizes inquiry and reduces hostility without erasing real difference
 
 ### Chunk C (4.0–5.0)
-- [ ] 4.0–4.1 Enrichment — argue “borrow without defecting” and “middle is spacious, fringe is not enemy”
-- [ ] 4.2 Embodied practices — hold gently; keep Incarnation framing; ensure “adjacent tools” don’t hijack tone
-- [ ] 4.3 Confession/bridge — argue how different models aim at the same human need; show risks symmetrically
-- [ ] 4.4 Relief — argue relief from hostility (not from seriousness); protect devout reader dignity
-- [ ] 4.5 Ecumenism — argue “laity lag behind dialogue” without implying reunion is imminent or easy
-- [ ] 5.0 AI method — argue why multi-agent method supports symmetry and tone calibration, not authority claims
+- [x] 4.0–4.1 Enrichment — argue “borrow without defecting” and “middle is spacious, fringe is not enemy”
+- [x] 4.2 Embodied practices — hold gently; keep Incarnation framing; ensure “adjacent tools” don’t hijack tone
+- [x] 4.3 Confession/bridge — argue how different models aim at the same human need; show risks symmetrically
+- [x] 4.4 Relief — argue relief from hostility (not from seriousness); protect devout reader dignity
+- [x] 4.5 Ecumenism — argue “laity lag behind dialogue” without implying reunion is imminent or easy
+- [x] 5.0 AI method — argue why multi-agent method supports symmetry and tone calibration, not authority claims
 
 **Commit after each chunk.**
 

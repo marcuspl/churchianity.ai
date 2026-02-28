@@ -562,6 +562,12 @@
 - **Historically attested**: Monasticism, hymnody, spiritual direction, and devotional practices spread across regions and families long before modern ecumenism.\
 - **Editorial synthesis**: “Enrichment” is already the normal Christian pattern; the difference is whether it happens openly and charitably or invisibly and defensively.
 
+### 4.0.B `[GPT-5.2+]` Pass 3 argument: Borrowing without defecting (and without pretending differences don’t matter)
+
+- **Editorial synthesis**: The project’s promise is not “all traditions are the same.” It is “you can learn without weaponizing.” Borrowing a practice is not the same as adopting the entire authority structure that gave it birth.\
+- **Editorial synthesis**: The stable middle is built by disciplined permission: permission to attend, to read, to sing, to pray — without using the visit as a verdict on your home.\
+- **Editorial synthesis**: This is why “the fringe is not the enemy” matters in Part II: some readers need a door; other readers need permission to stay.
+
 ## 4.1 On-Ramps by Tradition
 
 ### 4.1.1 If Protestant
@@ -577,6 +583,11 @@
 4.1.1.E Practice silence.
 - **Historically attested**: Silence and contemplative prayer are ancient Christian practices (desert tradition, monasticism, Western mystics) and persist across traditions even when not emphasized in local parish life.
 
+#### 4.1.1.F `[GPT-5.2+]` Pass 3 note: On-ramps differ by Protestant sub-stream
+
+- **Editorial synthesis**: A liturgical/Confessional Protestant may need permission to explore *encounter* (charismatic warmth, vulnerability) more than permission to explore *form*. A Reformed/Baptist Protestant may need permission to explore *calendar/sacrament* without fear of “works-righteousness.” A charismatic/Pentecostal Protestant may need permission to explore *discernment structures* without feeling quenched.\
+- **Editorial synthesis**: The goal is not to “balance” each Protestant with an opposite; it is to name likely blind spots and offer gentle experiments.
+
 ### 4.1.2 If Orthodox
 
 4.1.2.A Explore spontaneous prayer.\
@@ -590,6 +601,11 @@
 4.1.2.E Engage Scripture devotionally.
 - **Historically attested**: Scriptural devotion is foundational in Orthodox liturgy and monastic reading; the “Bible study” genre is more Protestant-coded, but the underlying practice is historically shared.
 
+#### 4.1.2.F `[GPT-5.2+]` Pass 3 note: Orthodoxy and the risk of confusing stability with safety
+
+- **Editorial synthesis**: A stable tradition can become a hiding place: continuity can be used to avoid repentance, vulnerability, or mission. This is not uniquely Orthodox; it is a human failure mode that a preservation-oriented system can make easier.\
+- **Editorial synthesis**: The enrichment move is not “become Protestant.” It is “recover risk where stability has become self-protection.”
+
 ### 4.1.3 If Catholic
 
 4.1.3.A Read Eastern Fathers.\
@@ -602,6 +618,11 @@
 - **Historically attested**: The Catholic Charismatic Renewal emerges in the late 20th century and becomes a major global movement; institutional responses vary by context and leadership.\
 4.1.3.E Reflect on conciliar listening.
 - **Historically attested**: Catholicism’s conciliar history is extensive; Vatican II renews language of collegiality and synodality, raising practical questions about how “listening” functions in a centralized authority system.
+
+#### 4.1.3.F `[GPT-5.2+]` Pass 3 note: Catholic coherence and the temptation to outsource conscience
+
+- **Editorial synthesis**: A clear teaching office can relieve anxiety by externalizing decision-making. The paired temptation is to outsource conscience and spiritual maturity — to confuse obedience with holiness.\
+- **Editorial synthesis**: The enrichment move is not “distrust the Church.” It is “recover interiority and discernment within obedience.”
 
 ## 4.2 Embodied Practices
 
@@ -631,6 +652,12 @@
 4.2.B.4 Practices are “hidden catechesis”: they shape what feels plausible, safe, and real — and traditions often converge in embodied wisdom even when they diverge in doctrine.\
 4.2.B.5 Hold this section gently: if it wants to grow into a technique-heavy toolkit, it may be better as a short companion work or appendix rather than distorting the book’s core spine.
 
+### 4.2.C `[GPT-5.2+]` Pass 3 argument: Embodiment as hidden authority grammar
+
+- **Editorial synthesis**: Practices are not neutral add-ons. They are an authority grammar in the body: they teach what “counts” as reverent, what “counts” as real, and what kind of person prayer makes.\
+- **Editorial synthesis**: This is why traditions can differ sharply in doctrine and still feel mutual recognition in practice — and why someone can feel “at home” across a boundary before they can explain why.\
+- **Editorial synthesis**: The caution is symmetrical: the body can be formed toward holiness, and it can also be trained toward manipulation. Embodied practice needs discernment, not cynicism.
+
 ## 4.3 Confession and Discernment Bridge
 
 4.3.1 Catholic sacramental confession.\
@@ -642,6 +669,12 @@
 - **Historically attested**: Many Protestant communities reduce or reject sacramental confession as defined in Catholic theology, but develop robust pastoral care (catechesis, accountability structures, counseling, small groups) as functional equivalents for confession/discipline.\
 4.3.4 Charismatic listening prayer.
 - **Historically attested**: “Listening prayer” and prophetic practices intensify in charismatic/Pentecostal contexts (20th century onward) and spread across denominational lines; discernment practices vary and are often locally developed.\
+
+### 4.3.B `[GPT-5.2+]` Pass 3 argument: Same human need, different trust architectures
+
+- **Editorial synthesis**: Confession exists because humans hide. Discernment exists because humans deceive themselves and each other. The traditions differ less on the need than on where trust is placed.\
+- **Editorial synthesis**: Catholicism places strong trust in sacramental and institutional mechanisms; Orthodoxy places strong trust in relational spiritual fatherhood within tradition; Protestantism places strong trust in Scripture-mediated conscience within community.\
+- **Editorial synthesis**: Each architecture catches certain pathologies and misses others. The symmetry rule requires naming both.
 
 ### 4.3.A Open Tension
 
@@ -657,6 +690,12 @@
 4.4.3 Depth and freedom are not mutually exclusive.
 - **Editorial synthesis**: Freedom without depth becomes drift; depth without freedom becomes fear. The project is trying to lower fear without lowering seriousness.
 
+### 4.4.B `[GPT-5.2+]` Pass 3 argument: Relief from hostility, not relief from doctrine
+
+- **Editorial synthesis**: The project’s relief is aimed at inherited *hostility* and *fear*. It is not a permission slip to treat doctrine as irrelevant.\
+- **Editorial synthesis**: A devout reader should feel honored here: “your seriousness is not the problem.” The problem is when seriousness becomes a weapon and curiosity becomes betrayal.\
+- **Editorial synthesis**: This is why the book repeatedly refuses the conversion-tract posture. It is an invitation to understand, not a demand to move.
+
 ## 4.5 `[GPT-5.2+]` Modern Ecumenical Reality (What the Laity Usually Never Hear)
 
 4.5.1 1965: mutual lifting of the 1054 excommunications.\
@@ -670,6 +709,11 @@
 - **Historically attested**: Multiple agreed statements with Oriental Orthodox partners in the late 20th century identify substantial convergence on Christology, often diagnosing earlier disputes as partly terminological and political.\
 4.5.4 The point: theological distance is often smaller than tribal memory suggests, even when institutional reunion remains difficult.
 - **Editorial synthesis**: The laity’s inherited hostility frequently lags behind the state of actual theological dialogue by decades.
+
+### 4.5.B `[GPT-5.2+]` Pass 3 argument: Why dialogue doesn’t automatically mean reunion
+
+- **Editorial synthesis**: Even when theologians converge, institutions still have jurisdictional realities, pastoral constraints, and memories of betrayal. Dialogue can reduce caricature without producing immediate communion.\
+- **Editorial synthesis**: This matters for tone: the book should not imply that reunion is around the corner. It should imply something quieter: hostility is optional, and understanding is already possible.
 
 ------------------------------------------------------------------------
 
@@ -702,6 +746,12 @@
 5.3.1 If something is true, it withstands examination.\
 5.3.2 If something is weak, clarification strengthens it.\
 5.3.3 Clarity reduces unnecessary hostility.
+
+### 5.4 `[GPT-5.2+]` Pass 3 argument: Multi-agent method as outsider freedom (not authority)
+
+- **Editorial synthesis**: The AI method mirrors `2.6`: it is “outside” institutional constraints. It has no guild to protect, no ordination vows to honor, no tenure committee to appease. This gives it a peculiar freedom to compare traditions without career or vocational consequences.\
+- **Editorial synthesis**: That freedom is instrumental, not authoritative. The method can expose asymmetry and hidden assumptions; it cannot replace spiritual discernment.\
+- **Editorial synthesis**: The moral claim of this section is modest: if we want peace, we need tools that can describe the other side’s self-understanding fairly. Multi-agent comparison is one such tool.
 
 ------------------------------------------------------------------------
 
