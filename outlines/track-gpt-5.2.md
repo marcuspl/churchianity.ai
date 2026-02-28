@@ -182,9 +182,9 @@
 
 ### 3.1.C.A `[GPT-5.2+]` Pass 3 argument: What changes when these families are visible
 
-- **Editorial synthesis**: Including Oriental Orthodox and the Church of the East breaks the “two-team” narrative (Catholic vs Orthodox, then Protestant vs Catholic). The actual map is older and wider, and that realism lowers tribal adrenaline.\
-- **Editorial synthesis**: It also changes what “continuity” means. The oldest continuous Christian communities include non-Chalcedonian and non-Roman/Byzantine trajectories; continuity cannot be reduced to “stayed aligned with the eventual winner of European church politics.”\
-- **Editorial synthesis**: For the laity, this is relieving: if Christianity has always contained multiple high-integrity lineages, then encountering difference is not necessarily betrayal — it may be contact with another branch of the same ancient tree.\
+- **Editorial synthesis**: Including Oriental Orthodox and the Church of the East breaks the “two-team” narrative (Catholic vs Orthodox, then Protestant vs Catholic). The actual map is older and wider, and that realism lowers tribal intensity.\
+- **Editorial synthesis**: It also changes what “continuity” means. The oldest continuous Christian communities include non-Chalcedonian and non-Roman/Byzantine trajectories; continuity cannot be reduced to “stayed aligned with later dominant European trajectories.”\
+- **Editorial synthesis**: For the laity, this is relieving: if Christianity has long contained multiple high-integrity lineages, then encountering difference is not necessarily betrayal — it may be contact with another branch of the same ancient tree.\
 - **Editorial synthesis**: This visibility also protects honesty: later debates (papacy, filioque, reform) look different when you remember that huge Christian populations were already living outside those disputes’ jurisdictional frame.
 
 ### 3.1.D `[GPT-5.2+]` Empire, Jurisdiction, and the Political Substrate
@@ -704,7 +704,7 @@
 - **Historically attested**: Most Christians in history did not have access to comprehensive church history; they prayed within local forms and inherited rhythms.\
 - **Editorial synthesis**: The point is not anti-intellectualism; it is permission to pray while learning.\
 4.4.2 You can explore without betraying your tradition.\
-- **Historically attested**: Cross-tradition reading and practice has always existed (pilgrimage, monastic exchange, hymnody, scholarship); modern tribalism often exaggerates the novelty of “learning from others.”\
+- **Historically attested**: Cross-tradition reading and practice has existed throughout Christian history (pilgrimage, monastic exchange, hymnody, scholarship); modern tribalism often exaggerates the novelty of “learning from others.”\
 4.4.3 Depth and freedom are not mutually exclusive.
 - **Editorial synthesis**: Freedom without depth becomes drift; depth without freedom becomes fear. The project is trying to lower fear without lowering seriousness.
 
