@@ -1,10 +1,11 @@
 # Continuity, Freedom, and the Places We Lost Each Other
 
-## Track: Claude Opus 4.6 — Pass 1: Outline Development
+## Track: Claude Opus 4.6
 
 **Agent:** Claude Opus 4.6\
-**Pass:** 1 (Structural completeness, gaps, reorderings, asymmetries)\
-**Base:** `raw-outline.md`
+**Current pass:** 3 (Arguments — analytical depth, connections, symmetry)\
+**Base:** `raw-outline.md`\
+**Passes completed:** 1 (Outline), 2 (Historical Facts)
 
 **Legend:**
 - Sections carried from raw outline are unmarked
@@ -145,7 +146,9 @@ criminal crises.
 3.1.B.6 The early Fathers as shared patrimony (Athanasius, the Cappadocians, Augustine, Chrysostom).\
 3.1.B.7 The point: what is held in common is vastly larger than what divides.
 
-`[Opus 4.6?]` Should this section also name where the shared inheritance is *differently weighted*? (e.g., Augustine is central for the West, less so for the East — but not rejected.)
+**`[Pass 3: Analytical argument]`** The shared inheritance is not merely a historical curiosity — it is the structural foundation on which the entire project rests. If the traditions shared nothing, mutual enrichment would be syncretism. Because they share *this much* — creed, canon, sacrament, calendar, the same God, the same Christ, the same Spirit — the exploration of differences happens within a family, not between strangers. The argument of Part I is: the fractures are real, but they are fractures *within* a shared body. That body is described here. Everything that follows — the schisms, the disputes, the divergences — happens against this backdrop of enormous agreement. The reader who internalizes this section first will process every subsequent disagreement differently than the reader who skips it.
+
+`[Opus 4.6?, Pass 3 answer]` Yes — the section should name where the shared inheritance is *differently weighted*. Augustine is central for the West, much less so for the East (read but not treated as uniquely authoritative). The Cappadocians are central for the East, less well-known in the West. Chrysostom is shared. This *differential weighting* of a shared patrimony is itself a lesson: sharing the same sources does not guarantee sharing the same conclusions. The hermeneutical lens matters as much as the text.
 
 ### 3.1.C `[Opus 4.6+]` The Pre-Chalcedonian Split
 
@@ -157,6 +160,8 @@ criminal crises.
 
 `[Opus 4.6!]` The raw outline's framing of "East-West" as the "First Fracture" is historically inaccurate. Chalcedon (451) preceded the Great Schism (1054) by six centuries. The outline should at minimum acknowledge this, or restructure to include it.
 
+**`[Pass 3: Analytical argument]`** The pre-Chalcedonian split carries a crucial lesson for the entire project: *the first major Christian schism was probably a misunderstanding*. If the Christological agreements of the 20th century are correct — that miaphysite and dyophysite formulations describe the same reality in different philosophical vocabularies — then the oldest fracture in Christianity was substantially a failure of translation. This sets a pattern that recurs: vocabulary divergence hardens into institutional division, which then becomes self-sustaining through centuries of mutual non-communication. The argument is not that all disagreements are "merely linguistic" — some are substantive. The argument is that the *proportion* of linguistic-to-substantive disagreement is consistently larger than anyone expects. The Chalcedonian case is the strongest evidence for this claim.
+
 ### 3.1.D `[Opus 4.6+]` Empire and Church: The Political Substrate
 
 3.1.D.1 Christianity became an imperial religion under Constantine (313/325).\
@@ -164,6 +169,8 @@ criminal crises.
 3.1.D.3 Theological disputes were always also political disputes — over jurisdiction, taxation, imperial unity.\
 3.1.D.4 This is not a cynical observation. It is a historical fact that liberates the laity from treating every fracture as purely doctrinal.\
 3.1.D.5 The lay reader deserves to know: the split was never just about theology.
+
+**`[Pass 3: Analytical argument]`** The empire-church relationship raises a question that runs through the entire project: *to what extent is the Christianity we inherited shaped by power rather than by the Spirit?* This is not a cynical question. A genuinely orthodox answer would be: both. The councils were convened by emperors *and* guided by the Spirit. The fractures were driven by politics *and* by genuine theological conviction. The project's argument is that the lay reader, who has usually been given only the theological narrative ("we split over the filioque," "we split over justification"), deserves the full picture. Knowing that Charlemagne's ambition, the Ottoman siege, and the financial interests of German princes shaped the church they attend on Sunday — that knowledge doesn't weaken faith. It liberates faith from naive mythology and places it on more honest ground.
 
 ## 3.2 The First Major Fracture (East–West) `[Opus 4.6~]` *(renamed from "First Fracture" to acknowledge 3.1.C)*
 
@@ -207,6 +214,8 @@ The schism between the Latin West and the Greek East is usually dated to 1054. B
 
 3.2.C.1 **Was the schism primarily theological, political, or cultural? Can these be separated?** *Editorial synthesis:* The honest answer is: no, they cannot be separated. The filioque was a theological question with procedural implications. The papal claims were an ecclesiological question with imperial implications. The coronation of Charlemagne was a political act with theological consequences. The sack of Constantinople was a military event with permanent spiritual effects. The lay reader who grasps this — that the schism was *all of these things at once* — is better positioned than most scholars to understand what actually happened.
 
+**`[Pass 3: Analytical argument — section 3.2 meta-level]`** The East-West fracture establishes the template for how all major schisms work: (1) a slow drift of language, culture, and institutional structure, often invisible at the time; (2) one or more flashpoint events that crystallize the drift into formal rupture; (3) post-hoc theological rationalization that makes the split seem more principled and inevitable than it was; (4) centuries of mutual non-communication that harden the split into permanent mutual incomprehension. The argument for the reader is: if you understand *this* pattern, you understand all three fractures. The Reformation follows the same logic (section 3.3) with different actors. Protestant fragmentation (section 3.3.C) follows it again at accelerated speed. The question is whether the pattern can ever run in reverse — whether mutual comprehension can undo what mutual incomprehension created. The ecumenical dialogues (section 4.5) suggest: partially, slowly, and only when both sides actually listen. The failed reunion councils (Lyon II, Florence) suggest: not by decree, not under duress, not from the top down.
+
 ## 3.3 The Second Fracture (Reformation)
 
 3.3.1 Crisis of corruption and authority.\
@@ -244,9 +253,23 @@ The schism between the Latin West and the Greek East is usually dated to 1054. B
 
 3.3.D.1 Was the Reformation a necessary correction, a tragic fracture, or both? Can it be both?
 
+**`[Pass 3: Analytical argument — section 3.3 meta-level]`** The Reformation is the hardest section to write symmetrically because the reader's tradition determines what they see. A Catholic reads the Reformation as a rupture of unity, justified by real abuses but catastrophic in its consequences. A Protestant reads it as the recovery of the gospel, liberating Scripture from institutional captivity. An Orthodox reads it as a Western family quarrel — both sides operating within Augustinian categories the East never accepted.
+
+The project's argument cuts across all three: the Reformation was *structurally inevitable* given the Catholic system's concentration of authority. When authority is centralized, abuse of that authority produces system-wide crisis rather than local correction. Luther's objection to indulgences was not novel — reformers within Catholicism (Savonarola, the Conciliar Movement, the Devotio Moderna) had been making similar complaints for centuries. What was novel was the *technology* (the printing press) and the *political configuration* (German princes needing independence from Rome). The Reformation succeeded where earlier reforms failed not because its theology was better, but because the conditions for institutional rupture had finally arrived.
+
+This matters for the reader because it reframes the Reformation from a purely theological event into a structural one. *Sola scriptura* was a theological principle, but its adoption was driven by a structural crisis of institutional trust. The fragmentation that followed (section 3.3.C) was not a betrayal of the Reformation's ideals — it was their logical consequence. If Scripture alone is the final authority, and if people genuinely disagree about what Scripture means, the only structural outcome is multiplication. This is not an argument against *sola scriptura*. It is an observation about what *sola scriptura* produces in the absence of a shared interpretive authority. The Protestant reader needs to see this clearly, just as the Catholic reader needs to see that centralization produced the abuses that made *sola scriptura* feel necessary in the first place. The structural logic is circular, not one-directional.
+
 ## 3.4 Three Authority Grammars
 
-`[Opus 4.6~]` Note: The term "grammars" is excellent — it signals that these are different *languages* for the same concerns, not right/wrong answers. Worth explaining this metaphor briefly in the actual text. With the Protestant sub-differentiation, we now have three major grammars with one of them (Protestant) containing three distinct dialects. The structure is 3+(3), not 5.
+`[Opus 4.6~]` Note: The term "grammars" is excellent — it signals that these are different *languages* for the same concerns, not right/wrong answers. With the Protestant sub-differentiation, we now have three major grammars with one of them (Protestant) containing three distinct dialects. The structure is 3+(3), not 5.
+
+**`[Pass 3: Analytical argument — the grammar metaphor unpacked]`** The word "grammar" is chosen deliberately and needs explicit explanation in the final text. A grammar is a set of rules for how a language works. You don't call a grammar "wrong" — you recognize that a sentence built with French grammar won't make sense if read with Russian rules. Each grammar generates its own internally coherent system: valid sentences, recognizable errors, aesthetic preferences, and characteristic blindnesses.
+
+The three authority grammars function the same way. Orthodox conciliar continuity, Catholic magisterial development, and Protestant scriptural primacy are not three *answers* to the same question. They are three different *languages* in which the question of authority is asked and resolved. Each grammar determines what counts as evidence (councils? papal decrees? the plain text of Scripture?), what counts as error (innovation? stagnation? fragmentation?), and what counts as faithfulness (preserving what was received? developing what was implicit? returning to the source?).
+
+The analytical move this section makes is: stop arguing about which grammar is *correct* and start understanding what each grammar *produces*. What does conciliar continuity make possible? What does it make difficult? Same for the others. The strengths and risks below are not scorecards. They are structural observations about what each grammar generates as a natural consequence of its own internal logic.
+
+**`[Pass 3: Structural note on Protestant pacing]`** `[Opus 4.6!, from team review]` Because the Protestant grammar contains three sub-streams, this section risks making Protestantism visually dominate the chapter. The merge must enforce proportionality — either through strict word counts per grammar, or by using a consistent "umbrella + short sub-stream deltas" format. The sub-streams are necessary for honesty, but the visual weight must not imply that Protestantism is the "main" tradition. All three grammars should receive equal structural space in the final text.
 
 ### 3.4.1 Conciliar Continuity (Orthodox)
 
@@ -274,6 +297,12 @@ The schism between the Latin West and the Greek East is usually dated to 1054. B
 3.4.1.R5 Ethnic captivity — the tendency for Orthodox churches to become extensions of national identity (Greek, Russian, Serbian, etc.).\
 3.4.1.R6 Jurisdictional rivalry — multiple overlapping jurisdictions in the diaspora.
 
+**`[Pass 3: Analytical argument — Orthodox grammar]`** The Orthodox grammar's deepest strength is also the source of its deepest risk. The commitment to preserving what was received — liturgy, doctrine, structure — produces extraordinary continuity. An Orthodox Christian in 2026 can attend a liturgy that is substantially the same service as in the 9th century. That is a real achievement, and it creates a form of formation-by-immersion that no other tradition replicates at the same depth.
+
+But the same commitment to preservation generates the question: *what counts as living tradition vs. cultural artifact?* Is the use of Greek or Slavonic in the liturgy a matter of sacred tradition, or is it cultural inertia that has become confused with theological principle? The ethnic captivity risk (R5) is not incidental — it is structurally generated by the conciliar model. Because Orthodox churches are organized along national lines (autocephaly), the church becomes the spiritual arm of national identity. This worked when each nation had one church. In the diaspora, it produces the absurdity of four or five overlapping Orthodox jurisdictions in the same city, distinguished not by theology but by ethnicity. The 2016 Holy and Great Council in Crete was supposed to address this. It barely tried.
+
+The argument for the reader: Orthodoxy's gifts (rootedness, density, apophatic restraint, theosis) are real and available. Orthodoxy's risks (stagnation, ethnic captivity, suspicion of novelty, difficulty adapting to missionary contexts) are equally real and structurally generated. They are not bugs in the system — they are consequences of the grammar itself.
+
 ### 3.4.2 Magisterial Development (Catholic)
 
 #### Strengths
@@ -299,6 +328,16 @@ The schism between the Latin West and the Greek East is usually dated to 1054. B
 
 3.4.2.R5 The development principle can justify too much — if doctrine can develop, what constrains development?\
 3.4.2.R6 Marian maximalism — doctrines (Immaculate Conception, Assumption) that the East considers innovations.
+
+**`[Pass 3: Analytical argument — Catholic grammar]`** The Catholic grammar's defining move is *development* — the claim that doctrine is not static but grows organically under the guidance of the magisterium. This is the Catholic system's greatest intellectual achievement and its most vulnerable point simultaneously.
+
+Newman's argument (1845) is elegant: a living idea develops over time, and the development is legitimate when it preserves the original idea's essential character. The seven ecumenical councils were themselves developments — Nicaea's *homoousios* is not a biblical word; Chalcedon's two-natures formula is a philosophical construction applied to a scriptural narrative. If those developments were legitimate, why not later ones?
+
+The Orthodox answer: because the councils were *received* by the whole church, not imposed by a single office. The development principle becomes dangerous when the mechanism for determining legitimate development is the very authority whose development is in question. The Pope defines infallibility; infallibility guarantees the Pope's definitions. The circularity is real, and Catholic theologians have struggled with it honestly (the debates around Vatican I in 1870, the Modernist crisis, Vatican II's attempt to rebalance collegiality).
+
+The argument for the reader: the Catholic grammar produces extraordinary institutional coherence, a global social teaching tradition, and the intellectual achievement of sustained systematic theology across two millennia. It also produces the risk that the institution becomes self-referential — that the system for checking power becomes indistinguishable from the power it is supposed to check. The sex abuse crisis (section 3.6) is the most devastating modern evidence of this structural vulnerability. The reader should hold both realities simultaneously.
+
+**`[Pass 3: Eastern Catholic visibility — from team review]`** `[Opus 4.6+, from team review]` The Eastern Catholic churches (Ukrainian Greek Catholic, Melkite, Maronite, and others) deserve a brief explicit mention here. They are living proof that the boundaries between grammars are already porous: Eastern Catholic churches worship with the Byzantine or other Eastern rites, ordain married men to the priesthood, and maintain Eastern theological emphases — but they are in full communion with the Pope. They are simultaneously an ecumenical bridge (demonstrating that unity does not require uniformity) and a source of tension (the Balamand Declaration of 1993 rejected uniatism as a model of reunion, yet the Eastern Catholic churches continue to exist). For the reader, they demonstrate that the Orthodox-Catholic divide is not an impermeable wall — people live on both sides of it, and some live on the boundary itself.
 
 ### 3.4.3 Scriptural Primacy (Protestant)
 
@@ -376,6 +415,16 @@ The schism between the Latin West and the Greek East is usually dated to 1054. B
 3.4.3.N2 The boundaries are porous. That porosity is itself a Protestant characteristic.\
 3.4.3.N3 A reader from any of these sub-streams should be able to locate themselves here and recognize both their tradition's gifts and its particular risks.
 
+**`[Pass 3: Analytical argument — Protestant grammar as a whole]`** The Protestant grammar's central analytical challenge is that it is not *one* grammar but *three related dialects* sharing a common root commitment: the primacy of Scripture. What differentiates the dialects is not their relationship to Scripture but their relationship to *everything else* — to tradition, to institutional authority, to the body, to experience.
+
+Liturgical/Confessional Protestants (3.4.3a) retain much of the Catholic grammar's structure while insisting on scriptural authority over magisterial authority — they are the heirs of Reformation who preserved the most. Their analytical tension: they often can't explain why they aren't Catholic or Orthodox, which produces a chronic identity crisis.
+
+Reformed/Baptist Protestants (3.4.3b) represent the Reformation's logic carried further — the sermon replaces the sacrament as the center of worship, the congregation replaces the bishop as the locus of authority. Their analytical tension: when worship is primarily cognitive, the body and the emotions are structurally underserved. The "dry well" problem (3.4.3b.R1) is not a failure of individual churches — it is a consequence of the grammar.
+
+Charismatic/Pentecostal Protestants (3.4.3c) represent the Reformation's logic carried furthest — if the Spirit speaks directly, all institutional mediation is provisional. Their analytical tension: the same immediacy that produces extraordinary vitality also produces extraordinary vulnerability to abuse. The "pastor-as-pope" risk (3.4.3c.R1) is the Protestant version of the Catholic centralization risk — authority concentrating in a single person — but without the Catholic system's (imperfect) institutional checks.
+
+The shared Protestant analytical argument is this: *sola scriptura* produces freedom and fragmentation in direct proportion. The freedom is real — lower barriers to entry, missionary dynamism, adaptability, accessibility. The fragmentation is also real — 45,000+ denominations is not a failure of faithfulness, it is the structural output of the grammar itself. The reader should understand both, without either romanticizing the freedom or despairing of the fragmentation.
+
 ### 3.4.D `[Opus 4.6+]` What the Three Grammars Share
 
 **`[Pass 2: Historical grounding]`**
@@ -385,6 +434,10 @@ The schism between the Latin West and the Greek East is usually dated to 1054. B
 3.4.D.3 All three read the same Scriptures (with variation at the margins). *Historically attested:* The 27-book New Testament canon is identical across all traditions. The Old Testament varies: Protestants follow the Hebrew canon (39 books), Catholics include the deuterocanonical books (Tobit, Judith, Wisdom, Sirach, Baruch, 1–2 Maccabees, and additions to Esther and Daniel — affirmed at Trent, 1546), and the Orthodox canon is slightly larger still (including 3 Maccabees, Psalm 151, and in some traditions 1 Esdras and the Prayer of Manasseh). The Ethiopian Orthodox canon is the most expansive, including 1 Enoch and Jubilees. Despite these margins, the overwhelming bulk of Scripture is shared.\
 3.4.D.4 All three have produced saints, scholars, martyrs, and mystics. *Historically attested:* The 20th century alone produced martyrs across every stream — Orthodox new-martyrs under Soviet persecution (estimates run to hundreds of thousands between 1917 and 1939), Catholic martyrs under Nazi and Communist regimes (Maximilian Kolbe, d. 1941; the Cristero martyrs of Mexico, 1926–29), Protestant martyrs like Dietrich Bonhoeffer (d. 1945), and countless unnamed Pentecostal and Evangelical martyrs in China, Sub-Saharan Africa, and the Middle East. The 20th century was the bloodiest century for Christian martyrdom across all traditions. The blood is shared.\
 3.4.D.5 The disagreements are real. The shared ground is larger. *Editorial synthesis:* The pattern is consistent — the shared core (creed, canon, sacramental practice, moral witness) is enormous, while the disputed questions, though genuinely important, operate at the level of secondary and tertiary theological development. The tragedy is that most believers experience the disputes as primary and the shared ground as invisible.
+
+**`[Pass 3: Analytical argument — what the shared core means]`** This section is the analytical hinge of the entire project. Everything in sections 3.2–3.4 traces what *divided*. This section names what *remained*. And the argument is that what remained is not a residual minimum — "we all believe in God" — but a massive, structurally rich theological inheritance that every tradition continues to inhabit.
+
+The Marburg Colloquy example (3.4.D.2) is the perfect illustration of the project's central paradox: the traditions practice the same rites and cannot agree on what the rites *mean*. This is simultaneously maddening and hopeful. Maddening because the disagreements are real and resist resolution. Hopeful because the *shared practice* — broken bread, poured water, spoken creed — keeps doing something that the *shared theory* cannot: holding the body together despite the mind's divisions. The argument for the reader: you already share more with "the other side" than you know. You say the same creed. You read the same Scriptures. You eat the same meal, even if you call it different things. The blood of your martyrs has mixed. Start from there.
 
 ## 3.5 Density vs Accessibility
 
@@ -409,6 +462,20 @@ The schism between the Latin West and the Greek East is usually dated to 1054. B
 
 3.5.C.1 Can a tradition recover density it has lost? What would that look like concretely? *Historical context:* Some evidence suggests yes. The "liturgical renewal" movement among Evangelicals (Robert Webber's *Ancient-Future Faith*, 1999; the "Canterbury Trail" phenomenon of Evangelicals converting to Anglicanism) represents an attempt to recover density. The growing interest in the Daily Office among non-liturgical Protestants (aided by apps like *Daily Prayer* from the Church of England and *Pray As You Go* from the Jesuits) is another indicator. The "New Monastic" movement (Shane Claiborne, Jonathan Wilson-Hartgrove, emerging in the early 2000s) attempts to recover communal rhythms of prayer and service. Whether these represent durable recovery or passing trends remains to be seen.
 
+**`[Pass 3: Analytical argument — section 3.5 meta-level]`** The density-accessibility axis is the project's most important analytical tool because it cuts *across* the traditional boundaries rather than reinforcing them. A charismatic Catholic has more in common with a Pentecostal than with a Tridentine-Mass Catholic. A high-church Anglican has more in common with an Orthodox Christian than with a Southern Baptist. The axis reveals that the real divisions in Christian worship are not always the divisions of institutional affiliation.
+
+The argument has two edges. First: density and accessibility are not simple goods and evils. Density produces formation at the cost of comprehension — you are shaped by the liturgy whether or not you understand every word of it. Accessibility produces comprehension at the cost of formation — you understand the sermon but may leave unformed by anything beyond it. Both failure modes are real. The reader who lives in one world needs to understand what the other world makes possible.
+
+Second: the choice between density and accessibility is not merely theological — it is *cultural*. And this is the point the editor raised through Gemini that needs to be developed.
+
+### `[Opus 4.6+, from editor via team review]` 3.5.D The Cultural Friction of Surrender
+
+3.5.D.1 The structural surrender required by high-density liturgical traditions — submitting to ancient rubrics, hierarchy, fasting rules, a calendar not of your choosing — fundamentally clashes with the hyper-individualistic culture of the contemporary West, and especially of the United States.\
+3.5.D.2 This is not a moral judgment. It is a structural observation. The American psychological framework — self-determination, personal choice, entrepreneurial initiative, suspicion of hierarchy — makes it genuinely difficult to perceive liturgical surrender as *freedom*. It feels like constraint. It feels like loss of agency.\
+3.5.D.3 Conversely, the highly entrepreneurial, individualistic structure of much American Protestantism — the church plant, the personal calling, the worship team as creative expression — feels like a native language in the United States. Its explosive growth there is not accidental. The grammar fits the culture.\
+3.5.D.4 The analytical point is this: when a reader considers crossing from one tradition to another, they are not merely adopting new ideas. They are learning new *instincts*. An Evangelical who begins attending an Orthodox liturgy is not just encountering a different theology — they are learning a new relationship to time, to silence, to submission, to the body. A lifelong Orthodox Christian visiting a megachurch is not just encountering a different worship style — they are encountering a different relationship to individual agency, emotional expression, and personal narrative.\
+3.5.D.5 The on-ramps in Part II (section 4.1) must be designed with this cultural friction in mind. Crossing traditions is not just an intellectual exercise. It requires new habits of body and soul. The friction is real, and naming it honestly is more respectful than pretending it doesn't exist.
+
 ## 3.6 Risk and Protection
 
 **`[Pass 2: Historical grounding]`**
@@ -430,6 +497,12 @@ The schism between the Latin West and the Greek East is usually dated to 1054. B
 
 3.6.A.1 Where is the line between delusion and encounter? *Historical context:* Every tradition acknowledges the possibility of genuine spiritual encounter and the reality of spiritual delusion. The Orthodox concept of *prelest* (spiritual delusion, elaborated by Ignatius Brianchaninov, 19th century) provides a vocabulary for this. The Catholic tradition of "discernment of spirits" (rooted in Ignatius of Loyola's *Spiritual Exercises*, 1548) offers practical criteria. The Protestant tradition tends to default to "test everything by Scripture" (1 Thess 5:21) but has fewer developed tools for discerning experiential claims. The charismatic tradition often resolves the question by pointing to "fruit" (Matt 7:16–20), which works as a long-term criterion but offers little help in the moment of encounter. *Contested:* Whether the criteria differ in substance or only in vocabulary remains an open question across the traditions.
 
+**`[Pass 3: Analytical argument — section 3.6 meta-level]`** This section makes the most uncomfortable argument in the project: *every tradition's protection system has failed catastrophically, and every tradition's protection system has also worked*. The temptation is to use the failures polemically — "see, Catholicism can't protect children" or "see, Pentecostalism breeds charlatans." The symmetry rule forbids this. The argument is structural: each authority grammar generates a characteristic protection mechanism, and each protection mechanism has a characteristic failure mode that is *generated by the same features that make the protection work*.
+
+The Catholic system protects through institutional hierarchy. Hierarchy fails when it protects itself instead of the vulnerable. The Orthodox system protects through personal holiness (the staretz). Personal holiness fails when it is claimed without being possessed. The Protestant confessional system protects through congregational accountability. Congregational accountability fails when the congregation is captivated by a charismatic leader. The Pentecostal system protects through "fruit." Fruit-testing fails because it is retrospective — you can only see the fruit after the damage is done.
+
+The reader's takeaway should not be despair. It should be *structural literacy*: knowing your own tradition's characteristic failure mode means you can guard against it specifically, rather than assuming your system is immune.
+
 ## 3.7 Apophatic Reality
 
 **`[Pass 2: Historical grounding]`**
@@ -447,6 +520,14 @@ The schism between the Latin West and the Greek East is usually dated to 1054. B
 3.7.B.5 Charismatic/Pentecostal: touched in practice through glossolalia and ecstatic prayer — the moment when language gives out is itself apophatic, even when the theology doesn't name it. *Common scholarly view:* Glossolalia (speaking in tongues), as practiced from Azusa Street (1906) onward, is functionally an apophatic practice — prayer that transcends the capacity of the rational mind to formulate language. Paul's description (Rom 8:26) of "the Spirit interceding with groanings too deep for words" (*stenagmois alaletois*) is the theological warrant. Some Pentecostal theologians (notably Amos Yong, b. 1965, and Frank Macchia) have begun to articulate this connection explicitly, arguing that Pentecostal experience needs the apophatic tradition's vocabulary just as the apophatic tradition needs Pentecostal experience's vitality. But in popular practice, Pentecostal and charismatic worship often operates with high doctrinal confidence ("God told me," "the Spirit revealed") that sits in tension with apophatic humility.\
 3.7.B.6 The apophatic is present in all traditions. What varies is whether it is named, honored, and structurally supported. *Editorial synthesis:* This is perhaps the most important shared resource the traditions possess — and the most underutilized. If every tradition took its own apophatic commitments seriously, the tone of inter-traditional engagement would change overnight. You cannot burn your neighbor over a doctrine you hold with genuine humility. The apophatic tradition does not resolve disagreements. It changes the posture with which disagreements are held.
 
+**`[Pass 3: Analytical argument — section 3.7 as capstone of Part I]`** Section 3.7 is not merely a final topic in a list. It is the structural capstone of Part I — the section that reframes everything that came before. Here is the argument:
+
+Sections 3.1–3.4 traced the fractures and the grammars. Section 3.5 showed that the divisions cut across institutional lines. Section 3.6 showed that every protection system fails. Section 3.7 asks: *given all of this, with what posture should a Christian hold their own tradition?*
+
+The apophatic answer is: with genuine confidence *and* genuine humility, simultaneously. Your tradition knows something real about God. It does not know everything. Its formulations are true — truly, not merely approximately — but they are not exhaustive. The Orthodox who says "we have the fullness of the faith" is right about something, but the claim itself borders on the cataphatic overreach that the Orthodox apophatic tradition exists to prevent. The Catholic who says "the development of doctrine guarantees we haven't gone wrong" is making a claim that Thomas Aquinas — the greatest Catholic systematic theologian — would have hedged. The Protestant who says "Scripture alone is sufficient" is right about Scripture's authority but may be wrong about the sufficiency of any individual reading of it.
+
+The apophatic section is where the project earns its emotional target. Relief comes not from learning that the disagreements don't matter — they do. Relief comes from learning that *no one possesses the mystery fully*, and that this is not a deficiency but the nature of the mystery itself. The God who "dwells in unapproachable light" is not diminished by being approached from multiple directions. The light is not reduced by being refracted through multiple prisms. What is true will survive the examination. What is partial will be enriched by the encounter.
+
 ------------------------------------------------------------------------
 
 # 4.0 PART II — MUTUAL ENRICHMENT
@@ -461,7 +542,17 @@ The schism between the Latin West and the Greek East is usually dated to 1054. B
 4.0.A.4 You remain who you are. You just see more.\
 4.0.A.5 `[Opus 4.6+, from editor]` And if you don't want to explore — if your tradition is your home and you have no desire to look over the fence — that is also fine. This section is an open door, not a summons.
 
+**`[Pass 3: Analytical argument — the enrichment logic]`** Part II's analytical foundation rests on a single claim: *every tradition's blind spot is another tradition's strength*. This is not relativism — it is not "all traditions are equally right." It is structural observation: the conciliar grammar generates depth but struggles with accessibility; the magisterial grammar generates coherence but struggles with self-correction; the scriptural grammar generates freedom but struggles with fragmentation. These are not random weaknesses — they are the *shadow sides* of each grammar's strengths. And the corresponding strengths exist, fully developed, in the other traditions.
+
+The enrichment argument is therefore not "pick and choose from a buffet" but "learn from the family members who developed what your branch let atrophy." An Orthodox Christian exploring Evangelical Bible study is not shopping for novelty — they are recovering a direct, personal engagement with Scripture that the early church practiced but that liturgical saturation has sometimes crowded out. A Baptist exploring the Divine Liturgy is not abandoning sola scriptura — they are encountering a worship form that is *saturated* with Scripture in a mode their own tradition lost.
+
+The fear of borrowing (4.0.A.3) is addressed by the historical observation: Christians have *always* borrowed from each other. What is new is not the borrowing. What is new is the self-consciousness about it — and the possibility of doing it honestly, with gratitude rather than imperialism.
+
 ## 4.1 On-Ramps by Tradition
+
+**`[Pass 3: Analytical argument — on-ramps design logic]`** The on-ramps are not arbitrary suggestions. Each is selected to address the *specific structural weakness* of the reader's tradition, using the *specific structural strength* of another tradition. This is the practical application of the analytical framework in Part I. A Reformed/Baptist reader is offered fixed-hour prayer (4.1.1.RB.D) not because fixed-hour prayer is generically good but because the sermon-centric grammar structurally underserves rhythmic, non-cognitive prayer — and fixed-hour prayer is the developed remedy for that specific absence.
+
+The on-ramps also acknowledge the cultural friction described in section 3.5.D. Crossing traditions requires new *instincts*, not just new ideas. The on-ramps are therefore designed as *experiences* first: "attend a service," "sit in silence," "pray the Psalms aloud." The cognitive content follows the experience, not the reverse. This is itself a pedagogical choice rooted in the liturgical traditions' own method: formation through immersion rather than formation through instruction.
 
 ### 4.1.1 If Protestant
 
@@ -544,6 +635,12 @@ The schism between the Latin West and the Greek East is usually dated to 1054. B
 4.2.B.5 This work has to be historical and somewhat dry in places — that's the cost of honesty. But it would not be an on-ramp without instructions for embodiment. Both are necessary. The reader deserves both.\
 4.2.B.6 The framing should avoid two extremes: reducing prayer to neuroscience ("it's just vagal tone"), or dismissing neuroscience as irrelevant to prayer ("the body doesn't matter"). Christianity has never believed the body doesn't matter. That's the whole point of the Incarnation.
 
+**`[Pass 3: Analytical argument — embodied practices as hidden authority grammar]`** The embodied practices section makes an argument that the rest of the project prepares the reader to receive: *the body is itself an authority grammar*. The traditions disagree about who has doctrinal authority (pope, council, Scripture) but they agree, more than they know, about what the body should *do* — kneel, chant, eat, fast, prostrate, cross, weep, be silent. The bodily practices predate the theological formulations and will outlast them.
+
+This is not anti-intellectual. It is the observation that practice is a form of knowledge. A person who has prayed the Jesus Prayer for twenty years *knows* something about God that cannot be extracted from a systematic theology. A person who has wept at an altar call *knows* something about grace that cannot be communicated through a catechism. The embodied practices section asks the reader to attend to what their body already knows — and to consider that the other traditions' bodily practices carry knowledge their own tradition may have lost.
+
+The connection to section 3.5 (Density vs Accessibility) is direct: high-density traditions embed the body in extended, repetitive, sensory-rich worship. High-accessibility traditions often treat the body as merely the transport system for the mind. The embodied practices section argues that the body is not optional equipment — it is the medium through which spiritual reality is received. The Incarnation is the theological warrant. The neuroscience is the empirical confirmation. Neither is sufficient alone.
+
 ## 4.3 Confession and Discernment Bridge
 
 **`[Pass 2: Historical grounding]`**
@@ -556,6 +653,10 @@ The schism between the Latin West and the Greek East is usually dated to 1054. B
 ### 4.3.A Open Tension
 
 4.3.A.1 How to preserve discernment while allowing healing encounter? *Historical context:* Every tradition faces this tension. The Catholic system has the most elaborate safeguards (the seal, the requirement for training, the theological framework) but has still produced abuses. The Orthodox system depends on the holiness of the spiritual father — a high standard that is not always met. The Protestant counseling model has professionalized the process but may have lost the specifically spiritual dimension. The charismatic model is the most vulnerable to abuse but also the most immediately accessible and experiential. *Editorial synthesis:* The question is not which model is right but whether the best elements of each can inform the others. A Catholic confessor who also listens for the Spirit's movement. An Orthodox spiritual father who is also trained in pastoral psychology. A Protestant counselor who also operates within a sacramental framework. A charismatic prayer minister who is also accountable to institutional oversight. Each of these hybrids exists somewhere already. The question is whether they can become normal rather than exceptional.
+
+**`[Pass 3: Analytical argument — confession as the intimate test of the grammar]`** Confession and discernment represent the most intimate application of each authority grammar. In the abstract, the grammars are about institutional structure. In the confessional, they are about a person's soul. How does your tradition handle the moment when someone says "I have sinned" or "I think God is telling me something"? The answer reveals more about the grammar's real-world consequences than any amount of ecclesiological theory.
+
+The analytical argument here is that each confession model carries a *hidden anthropology* — an implicit understanding of what a human being is and what they need. The Catholic model assumes the person needs *absolution* from an authorized mediator. The Orthodox model assumes the person needs *ongoing relationship* with a holy guide. The Protestant model assumes the person needs *understanding* from a trained professional. The charismatic model assumes the person needs *direct encounter* with the Spirit's healing power. None of these anthropologies is wrong. All of them are partial. The richest pastoral care would draw on all four — and in practice, the best pastors in every tradition already do this instinctively, borrowing tools their grammar doesn't officially supply.
 
 ## 4.4 Relief Section
 
@@ -573,6 +674,12 @@ The schism between the Latin West and the Greek East is usually dated to 1054. B
 4.4.B.4 You are allowed to love something from another tradition without leaving your own.\
 4.4.B.5 `[Opus 4.6+, from editor]` And if your well has dried up — if the worship that once fed you has gone quiet — you are allowed to travel. Not as a tourist. As a pilgrim. The other traditions have been keeping something alive that you might need.
 
+**`[Pass 3: Analytical argument — how relief works]`** The relief section is not an emotional coda. It is the *thesis of the project* stated in its most compressed form. Everything in Parts I and II has been building toward a single realization: *you have been carrying a weight you didn't choose, and you can set it down without losing anything that matters*.
+
+The weight is inherited hostility — the suspicion of Catholics that Protestants are shallow, the suspicion of Protestants that Catholics worship Mary, the suspicion of both that the Orthodox are frozen in time. These suspicions were not earned through personal experience. They were transmitted — through sermons, through family culture, through the structural fact of institutional separation. The reader who has traced the actual history (Part I) now knows: the splits were substantially political, the theological distances have been shrinking for decades, the shared core is enormous, and the other traditions' practitioners are not enemies but estranged family.
+
+The relief is not "none of this matters." The relief is "it matters, and it's not what you were told." The distinctions are real and worth understanding — but they were never grounds for contempt. Holding this distinction (real distinctions without contempt) is the emotional achievement the project asks of the reader. It is the apophatic posture applied to inter-traditional relations: genuine conviction held with genuine humility.
+
 ## `[Opus 4.6+]` 4.5 Modern Ecumenical Reality
 
 **`[Pass 2: Historical grounding — dates, documents, participants, outcomes]`**
@@ -584,6 +691,12 @@ The schism between the Latin West and the Greek East is usually dated to 1054. B
 4.5.5 The Chambésy agreements on Oriental Orthodox Christology. *Historically attested:* A series of unofficial (1964–1971) and then official (from 1985) dialogues between the Eastern Orthodox (Chalcedonian) and Oriental Orthodox (non-Chalcedonian) churches produced landmark agreements: the first unofficial statement (Aarhus, 1964), the formal agreed statements (1989, 1990), and subsequent Chambésy meetings. These concluded that the Christological disagreement of Chalcedon (451) — whether Christ has "one nature" or "two natures" — was essentially terminological: both families affirm that Christ is fully divine and fully human, and the difference lies in whether *physis* (nature) is used to mean "concrete individual reality" (as the Oriental Orthodox use it, following Cyril of Alexandria) or "abstract nature" (as the Chalcedonian definition uses it). *Common scholarly view:* This is widely regarded as one of the most significant ecumenical achievements of the 20th century — the resolution of a 1,500-year schism through careful linguistic analysis. *Contested:* Not all churches have ratified the agreements, and some monks and theologians on both sides reject the convergence as inadequate.\
 4.5.6 What these dialogues show: the theological distance is shrinking, even if institutional reunion remains distant. *Editorial synthesis:* The pattern across all these dialogues is consistent. When theologians from different traditions sit down and actually listen to each other — with patience, good faith, and scholarly rigor — they discover that the distance is smaller than the polemics suggested. This does not mean reunion is imminent or even desirable in current forms. It means that the inherited hostility is based partly on real disagreements and partly on misunderstanding, and the misunderstanding proportion is larger than most laypeople have been told.\
 4.5.7 The laity mostly don't know any of this. They should. *Editorial synthesis:* The Joint Declaration on Justification was signed in 1999. Most Lutherans and most Catholics have never heard of it. The Chambésy agreements have potentially resolved a 1,500-year schism, and most Christians could not name the Oriental Orthodox churches. The ecumenical dialogues represent some of the most careful, honest theological work of the past century, and they are almost entirely invisible to the people they concern most. This project exists, in part, to change that.
+
+**`[Pass 3: Analytical argument — what the ecumenical silence costs]`** The information gap between the ecumenical dialogues and the pews is itself an analytical finding. The dialogues have produced genuine theological convergence — on justification (JDDJ, 1999), on Christology (Chambésy), on the nature of the church (Ravenna, 2007). This convergence is real, documented, and publicly available. Yet most laypeople continue to operate with 16th-century polemical categories — Catholics worship Mary, Protestants have no sacraments, the Orthodox are ethnic clubs.
+
+The argument is that this information gap is not accidental. It is *structurally produced*. Clergy who learn about ecumenical dialogues in seminary have limited incentive to share them from the pulpit — the dialogues complicate the boundaries that define institutional identity. Academics who work on these dialogues publish in journals that laypeople do not read. The institutions that produced the fractures have limited structural motivation to publicize the healing.
+
+This is where section 2.6 (Why This Work Comes from Outside the Institutions) connects directly to section 4.5. The project exists in the gap between what the scholars know and what the laity have been told. It is not doing original research. It is *delivering existing knowledge to the people who need it most*. That is a different task than scholarship, and it requires different tools — including, deliberately, the AI tools that the academic guild currently prohibits.
 
 ------------------------------------------------------------------------
 
@@ -618,6 +731,14 @@ The schism between the Latin West and the Greek East is usually dated to 1054. B
 5.4.2 Convergence = high confidence. Divergence = signal for closer examination. *Method note:* When all three agents independently identify the same gap, flag the same asymmetry, or reach the same historical conclusion, the confidence is high. When they disagree, the disagreement itself is informative — it identifies places where reasonable analytical processes diverge, which often corresponds to places where the underlying material is genuinely contested.\
 5.4.3 The editorial merge is where human judgment enters. *Method note:* The human editor (the project author) makes all final decisions. The agents propose; the editor disposes. No text enters the final document without human approval. This is not a fully automated project — it is a human-led project that uses AI as a research and drafting tool.\
 5.4.4 This method is itself an expression of the conciliar principle: multiple voices, testing each other, arriving at something none would have reached alone. *Editorial synthesis:* The structural parallel to the ecumenical councils is deliberate. The councils worked by assembling bishops from different regions, each with their own theological emphasis, and producing consensus documents that none would have written alone. The multi-agent method is a secular echo of the same principle — not because the agents are bishops, but because the principle (multiple perspectives producing more robust conclusions than any single perspective) is sound.
+
+**`[Pass 3: Analytical argument — AI as outsider freedom]`** `[Opus 4.6+, from team review]` Section 5.0 should not read as a standalone "tech appendix." It should be framed as an extension of section 2.6 (Why This Work Comes from Outside the Institutions). The AI method is not incidental to the project — it is structurally necessary, and the reason is the same reason the project comes from outside the clergy and the academy.
+
+The argument: AI agents have no denominational loyalty, no institutional career to protect, no tenure committee to satisfy, no bishop to obey. This is not a strength in the sense that it makes AI *better* than human theologians — it makes AI *differently positioned*. An AI agent can represent the Orthodox self-understanding of the filioque and the Catholic self-understanding of papal primacy in the same document, without experiencing any of the cognitive dissonance that a human author committed to one tradition would feel. This is not neutrality — the agents have biases embedded in their training data. But it is a form of *structural freedom* that no institutional theologian can possess.
+
+The laity need this freedom because they are the ones who live between the traditions — who attend a Catholic Mass and a Protestant Bible study, who marry across denominational lines, who move cities and find themselves in a different church. The AI tool mirrors their position: unbounded by institutional loyalty, free to see the whole landscape, and in genuine need of human guidance (the editor, the reader) to navigate it with wisdom.
+
+This framing ties section 5.0 to the project's thesis rather than leaving it as a methodological footnote. The method *is* the message: outsider freedom in service of insider faithfulness.
 
 ------------------------------------------------------------------------
 
