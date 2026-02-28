@@ -157,11 +157,11 @@ Each agent works through the outline section by section, filling in historical s
 1. Each agent works through their chunk independently, updating their track file
 2. Use the labeling convention above for fact vs. interpretation
 3. Commit after completing each chunk
-4. After all three agents finish a chunk → editorial checkpoint (editor reviews, flags issues, gives go-ahead for next chunk)
+4. Editorial checkpoints between chunks are now **voluntary**. You do not need to wait for a go-ahead unless you hit something difficult/problematic. Proceed continuously, but stop when all of Pass 2 (Chunks A, B, and C) is completely done.
 
 **TODO files:** Each agent has a TODO file at `todos/pass2-{agent-name}.md` listing every section to be completed. Mark items done as you go. This lets the editor and other agents see progress at a glance without reading the full tracks.
 
-**All agents:** Check your TODO file, start with Chunk A, commit when done, then wait for editorial go-ahead before Chunk B.
+**All agents:** Check your TODO file, start with Chunk A, commit when done, and proceed through Chunk B and C at your own pace. Stop when Pass 2 is complete.
 
 ---
 
