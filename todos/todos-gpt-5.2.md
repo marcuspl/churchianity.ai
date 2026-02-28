@@ -64,6 +64,6 @@ Goal: expand the analysis while maintaining the **symmetry rule** and representa
 **Commit after each chunk.**
 
 ## Pass 4: Tone (Full Review)
-- [ ] Chunk A tone calibration
-- [ ] Chunk B tone calibration
-- [ ] Chunk C tone calibration
+- [x] Chunk A tone calibration
+- [x] Chunk B tone calibration
+- [x] Chunk C tone calibration

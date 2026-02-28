@@ -25,6 +25,10 @@
 
 ------------------------------------------------------------------------
 
+## Pass 4: Tone Calibration (in progress)
+
+**Pass 4 convention:** Keep the emotional target: **relief, freedom, curiosity, respect, invitation**. Avoid “conversion-tract pressure,” avoid caricature, and explicitly protect the dignity of devout adherents. Tone edits should not blunt the argument; they should remove contempt, panic, and tribal tells.
+
 # 1.0 CORE PURPOSE
 
 ## 1.1 Primary Objectives
@@ -279,6 +283,13 @@
 - **Editorial synthesis**: The East–West fracture is best read as three intertwined layers: (1) theological disputes with real stakes; (2) governance/procedure disputes about how truth is authorized; (3) memory — the accumulation of humiliations and injuries that makes even good-faith debate feel unsafe.\
 - **Editorial synthesis**: This three-layer model helps the laity avoid two reductive errors: “it was all politics” (dismissal) and “it was all doctrine” (amnesia about coercion and trauma).\
 - **Editorial synthesis**: It also clarifies why technical theological convergence alone rarely produces reunion: governance and memory are not solved by better footnotes.
+
+### 3.2.T `[GPT-5.2+]` Pass 4 tone check (Chunk A)
+
+- **Tone rule**: Describe each tradition’s aims as intelligible before naming risks.\
+- **Tone rule**: When naming wounds (e.g., 1204), avoid weaponizing; name moral injury without recruiting it as a verdict.\
+- **Tone rule**: Keep “structural consequence” language (systems produce outcomes) rather than “bad actor” language.\
+- **Tone rule**: Where disputes are contested, slow down and make room for each self-understanding to feel recognizable.
 
 ## 3.3 The Second Major Fracture (Reformation) `[GPT-5.2~]`
 
@@ -539,6 +550,13 @@
 - **Editorial synthesis**: This humility lowers hostility by lowering the felt need to win. It makes curiosity safe: if my system is partial, I can learn without panic.\
 - **Editorial synthesis**: The paradox is that humility can *increase* seriousness. When you stop treating doctrine as a tribal badge, you can treat it as what it is: a careful attempt to speak truthfully about the mystery we worship.
 
+### 3.7.T `[GPT-5.2+]` Pass 4 tone check (Chunk B)
+
+- **Tone rule**: Keep the “both/and” posture explicit (reform can be necessary; fracture can be tragic) to avoid triumphalism or cynicism.\
+- **Tone rule**: Symmetry is emotional as well as logical: if one tradition’s risk is named sharply, the parallel risk elsewhere must be named with equal seriousness.\
+- **Tone rule**: Avoid “smart guy voice.” Prefer plain sentences over diagnostic contempt.\
+- **Tone rule**: When mentioning cultural friction, avoid sneer; treat it as a human formation problem, not a culture-war take.
+
 ### 3.7.B `[GPT-5.2+]` The Apophatic Across Traditions
 
 3.7.B.1 Orthodox: explicit apophatic theology and hesychast caution.\
@@ -752,6 +770,13 @@
 - **Editorial synthesis**: The AI method mirrors `2.6`: it is “outside” institutional constraints. It has no guild to protect, no ordination vows to honor, no tenure committee to appease. This gives it a peculiar freedom to compare traditions without career or vocational consequences.\
 - **Editorial synthesis**: That freedom is instrumental, not authoritative. The method can expose asymmetry and hidden assumptions; it cannot replace spiritual discernment.\
 - **Editorial synthesis**: The moral claim of this section is modest: if we want peace, we need tools that can describe the other side’s self-understanding fairly. Multi-agent comparison is one such tool.
+
+### 5.T `[GPT-5.2+]` Pass 4 tone check (Chunk C)
+
+- **Tone rule**: Part II should read like permission, not prescription; “on-ramps” should feel like invitations, not dares.\
+- **Tone rule**: Keep embodiment language reverent; don’t let modern therapeutic vocabulary become the voice of the book.\
+- **Tone rule**: In ecumenism, avoid “reunion is inevitable” energy; keep it honest: dialogue reduces caricature even when institutions remain apart.\
+- **Tone rule**: In the AI section, resist hype and resist defensiveness; modesty is credibility.
 
 ------------------------------------------------------------------------
 
