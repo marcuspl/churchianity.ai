@@ -19,32 +19,32 @@
 - [x] Key Historical Drivers — filioque (dates, councils), papal claims (key texts, Leo I, Gregory I), Charlemagne (800), 1054 events, Fourth Crusade (1204), reunion councils (Lyon II, Florence)
 - [x] Open Questions — provide historical context that informs each question
 
-**Chunk A commit when all items above are done.**
+**Chunk A commit when all items above are done. (Proceed immediately to Chunk B unless issues arise)**
 
 ---
 
 ## Chunk B: Reformation + Analytical Framework
 
 ### 3.3 The Second Fracture (Reformation)
-- [ ] Crisis of corruption, scriptural primacy, accessibility, fragmentation — historical substance
-- [ ] Key Historical Drivers — indulgences (Tetzel, 1517), printing press, vernacular translation, German princes, Trent (1545-63), Augsburg (1555), Westphalia (1648)
-- [ ] Reformation's Internal Fractures — Luther/Zwingli/Calvin specifics, Radical Reformation, Anglican settlement, subsequent fragmentation
-- [ ] Open Questions — historical context
+- [x] Crisis of corruption, scriptural primacy, accessibility, fragmentation — historical substance
+- [x] Key Historical Drivers — indulgences (Tetzel, 1517), printing press, vernacular translation, German princes, Trent (1545-63), Augsburg (1555), Westphalia (1648)
+- [x] Reformation's Internal Fractures — Luther/Zwingli/Calvin specifics, Radical Reformation, Anglican settlement, subsequent fragmentation
+- [x] Open Questions — historical context
 
 ### 3.4 Authority Grammars
-- [ ] Orthodox — historical development of conciliar model, key councils, pentarchy, autocephaly
-- [ ] Catholic — historical development of magisterial authority, Vatican I, Vatican II, development of doctrine
-- [ ] Liturgical/Confessional Protestant (High Protestant) — historical formation, key confessions (e.g. Book of Common Prayer, Augsburg Confession)
-- [ ] Reformed/Baptist (Confessional Protestant) — historical formation, key figures and movements (e.g. Calvin's Institutes, Westminster Confession, Anabaptist roots)
-- [ ] Charismatic/Pentecostal (Spirit-led Protestant) — Azusa Street (1906), global spread, charismatic renewals in mainline churches
-- [ ] What the grammars share — historical evidence for shared core
+- [x] Orthodox — historical development of conciliar model, key councils, pentarchy, autocephaly
+- [x] Catholic — historical development of magisterial authority, Vatican I, Vatican II, development of doctrine
+- [x] Liturgical/Confessional Protestant (High Protestant) — historical formation, key confessions (e.g. Book of Common Prayer, Augsburg Confession)
+- [x] Reformed/Baptist (Confessional Protestant) — historical formation, key figures and movements (e.g. Calvin's Institutes, Westminster Confession, Anabaptist roots)
+- [x] Charismatic/Pentecostal (Spirit-led Protestant) — Azusa Street (1906), global spread, charismatic renewals in mainline churches
+- [x] What the grammars share — historical evidence for shared core
 
 ### 3.5–3.7 Density, Risk, Apophatic
-- [ ] Density vs Accessibility — historical examples of each model in practice
-- [ ] Risk and Protection — historical examples of discernment successes and failures per tradition
-- [ ] Apophatic Reality — key figures and texts per tradition
+- [x] Density vs Accessibility — historical examples of each model in practice
+- [x] Risk and Protection — historical examples of discernment successes and failures per tradition
+- [x] Apophatic Reality — key figures and texts per tradition
 
-**Chunk B commit when all items above are done.**
+**Chunk B commit when all items above are done. (Proceed immediately to Chunk C unless issues arise)**
 
 ---
 
@@ -67,4 +67,4 @@
 ### 5.0 Analytical Intelligence
 - [ ] Light touch — ensure accuracy of claims about AI method
 
-**Chunk C commit when all items above are done.**
+**Chunk C commit when all items above are done. (Stop here: Pass 2 complete)**

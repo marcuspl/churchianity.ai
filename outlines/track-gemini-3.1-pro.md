@@ -198,28 +198,36 @@ criminal crises.
 
 ## 3.3 The Second Major Fracture (Reformation) [Gemini 3.1 Pro~]
 
-3.3.1 Crisis of corruption and authority.\
-3.3.2 Scriptural primacy as corrective.\
-3.3.3 Accessibility gains.\
-3.3.4 Fragmentation costs.
+**[Common scholarly view]**
+3.3.1 Crisis of corruption and authority: The late medieval Catholic Church faced systemic issues (simony, absenteeism, the Avignon papacy, and the indulgence economy) that severely damaged institutional credibility.
+3.3.2 Scriptural primacy as corrective: Reformers elevated Scripture over magisterial tradition as the final arbiter (*sola scriptura*) in an attempt to bypass corrupt institutional filters.
+3.3.3 Accessibility gains: The translation of Scripture and liturgy into vernacular languages fundamentally democratized theological engagement.
+3.3.4 Fragmentation costs: Without a centralized interpretive authority, the reforming movement immediately began fracturing over doctrinal disagreements.
 
 ### 3.3.B [Gemini 3.1 Pro+] Historical and Political Drivers
 
-3.3.B.1 The indulgence economy and the specific abuses of 16th-century Rome.\
-3.3.B.2 The technological accelerant: the printing press and vernacular translations.\
-3.3.B.3 The political accelerant: local princes protecting reformers for their own sovereignty against the Holy Roman Empire.\
-3.3.B.4 The rapid inner-fragmentation of the movement (Luther, Zwingli, Calvin, Radical Reformers).
+**[Historically attested]**
+3.3.B.1 The indulgence economy: Specifically the aggressive campaign by Johann Tetzel (1517) to fund the rebuilding of St. Peter's Basilica, which prompted Martin Luther's 95 Theses.
+3.3.B.2 The technological accelerant: Johannes Gutenberg's printing press allowed Luther's writings and vernacular translations of the Bible to spread faster than ecclesiastical authorities could suppress them.
+3.3.B.3 The political accelerant: Local German princes (e.g., Frederick the Wise) protected reformers from the Holy Roman Emperor and the Pope in order to assert their own territorial sovereignty and keep Church taxes local.
+3.3.B.4 The Counter-Reformation: The Council of Trent (1545-1563) codified Catholic doctrine, condemned Protestant errors, and instituted deep internal moral reforms.
+3.3.B.5 The Peace of Westphalia (1648): Following the devastating Thirty Years' War, Europe settled into *cuius regio, eius religio* (whose realm, his religion), cementing the political reality of a divided Western Christendom.
 
 ### 3.3.A Open Questions
 
-3.3.A.1 Who defines the canon?\
-3.3.A.2 How is interpretive authority stabilized?\
-3.3.A.3 Can accessibility coexist with density?\
-3.3.A.4 Does conscience override continuity?
+*(Note: These questions highlight the tensions without forcing an adjudication.)*
+
+3.3.A.1 Who defines the canon? (If scriptural authority supersedes the Church, what stabilizes the boundary of Scripture itself?)
+3.3.A.2 How is interpretive authority stabilized when sincere believers, reading the same text, arrive at irreconcilable conclusions?
+3.3.A.3 Can widespread accessibility coexist with theological and sacramental density?
+3.3.A.4 Does the dictates of individual conscience override the mandate for historical and visible continuity?
 
 ## 3.4 Three Authority Grammars
 
 ### 3.4.1 Conciliar Continuity (Orthodox)
+
+**[Historically attested]**
+*(Historical development: Formed through the consensus of the early Ecumenical Councils, structured around the Pentarchy (Rome, Constantinople, Alexandria, Antioch, Jerusalem), and maintained today through autocephalous (self-governing) national churches rather than a single global bishop.)*
 
 #### Strengths
 
@@ -236,6 +244,9 @@ criminal crises.
 3.4.1.R4 Limited missionary dynamism in some contexts.
 
 ### 3.4.2 Magisterial Development (Catholic)
+
+**[Historically attested]**
+*(Historical development: Traced from early Petrine claims, crystallized through the Gregorian Reforms, definitively centralized at Vatican I (1870, papal infallibility), and pastorally reframed but structurally maintained at Vatican II (1962-1965). Allows for the formal "development of doctrine" over time.)*
 
 #### Strengths
 
@@ -271,48 +282,54 @@ criminal crises.
 
 #### 3.4.3.A [Gemini 3.1 Pro+] Liturgical/Confessional (High Protestant)
 *(Anglicans, Lutherans, some Reformed)*
+**[Historically attested]** *(Historical formation: The magisterial Reformation, retaining much of the Catholic liturgical shape but altering the theology. Key texts: The Book of Common Prayer, The Augsburg Confession.)*
 - **Authority:** Creeds + confessions + ordained ministry.
 - **Strengths:** Retains historical rootedness and sacramental density while embracing vernacular and scriptural accessibility.
 - **Risks:** Can suffer the institutional stagnation of Catholicism without the unifying mechanism of a central magisterium.
 
 #### 3.4.3.B [Gemini 3.1 Pro+] Reformed/Baptist (Confessional Protestant)
 *(Presbyterians, Baptists, mainstream Evangelicals)*
+**[Historically attested]** *(Historical formation: Calvin's Geneva and the Anabaptist movements, rejecting Roman forms entirely to rebuild from the biblical text. Key texts: Calvin's Institutes, The Westminster Confession.)*
 - **Authority:** Confessions + congregational governance + sermon-centric worship.
 - **Strengths:** Deeply intellectual, rigorous textual exegesis, high view of God's sovereignty and individual conscience.
 - **Risks:** Prone to rationalism ("dry" sola scriptura) and endless theological splintering over doctrinal minutiae.
 
 #### 3.4.3.C [Gemini 3.1 Pro+] Charismatic/Pentecostal (Spirit-led Protestant)
 *(Pentecostals, charismatics, non-denominational megachurches)*
+**[Historically attested]** *(Historical formation: The Azusa Street Revival of 1906, spreading globally into the largest Christian growth movement of the 20th century, eventually influencing the Charismatic Renewals in mainline/Catholic churches.)*
 - **Authority:** Spirit-led immediacy + pastoral authority + experiential worship.
 - **Strengths:** Immense missionary dynamism, embodied/emotional engagement, expectation of divine presence.
 - **Risks:** "Pastor-as-pope" dynamics (unchecked local leadership), anti-intellectualism, and the "wet" sola scriptura where personal revelation overrides textual or historical bounds.
 
 ## 3.5 Density vs Accessibility
 
-3.5.1 Density defined as saturation of Scripture and symbol.\
-3.5.2 Liturgical saturation models.\
-3.5.3 Sermon-centric models.\
-3.5.4 Community vs individual emphasis.
+**[Editorial synthesis]**
+3.5.1 Density defined as saturation of Scripture and symbol: An environment where the architecture, the calendar, the smells, and the physical actions constantly reinforce the theological narrative.
+3.5.2 Liturgical saturation models: Typically found in Orthodox, Catholic, and High Protestant traditions, where the service itself carries the theological weight regardless of the priest's eloquence.
+3.5.3 Sermon-centric models: Typically found in Confessional and Spirit-led Protestantism, where the pulpit is central, relying on the clarity and power of verbal proclamation to convey the narrative.
+3.5.4 Community vs individual emphasis: High-density models tend to prioritize the corporate, multi-generational body, while high-accessibility models often emphasize the individual's personal decision and immediate experience.
 
 ### 3.5.A Open Question
 
-3.5.A.1 Is density sustainable without centralization?
+3.5.A.1 Is density sustainable without centralization, or does high liturgical density inevitably require a rigid magisterium to maintain it across time?
 
 ## 3.6 Risk and Protection
 
-3.6.1 Institutional guardrails.\
-3.6.2 Charismatic immediacy.\
-3.6.3 Mystical caution vs experiential openness.
+**[Common scholarly view]**
+3.6.1 Institutional guardrails: The Catholic and Orthodox models protect against individual spiritual delusion through historical boundaries (canon law, magisterial review, the spiritual father/staretz tradition). The risk is that these guardrails can also stifle genuine prophetic or charismatic renewal.
+3.6.2 Charismatic immediacy: The Spirit-led Protestant model maximizes openness to immediate divine encounter, relying on the local community or pastor for discernment. The risk is high vulnerability to spiritual abuse and theological drift.
+3.6.3 Mystical caution vs experiential openness: All traditions have mystical strains, but they structurally manage the danger of those strains differently.
 
 ### 3.6.A Open Question
 
-3.6.A.1 Where is the line between delusion and encounter?
+3.6.A.1 Where is the line between delusion and encounter, and who has the authority to draw it?
 
 ## 3.7 Apophatic Reality
 
-3.7.1 Limits of knowledge.\
-3.7.2 Dangers of certainty.\
-3.7.3 Humility as stabilizer.
+**[Historically attested]**
+3.7.1 Limits of knowledge: The apophatic tradition (via figures like Gregory of Nyssa, Pseudo-Dionysius, and later Gregory Palamas) asserts that God is fundamentally unknowable in His essence, and can only be known in His energies/actions.
+3.7.2 Dangers of certainty: Both the extreme scholasticism of the late Medieval West and the extreme rationalism of the post-Enlightenment Protestants run the risk of reducing God to a comprehensible theological equation.
+3.7.3 Humility as stabilizer: Recognizing the limits of human grammar to contain the divine is the necessary foundation for crossing these historical boundaries without fear.
 
 ------------------------------------------------------------------------
 
