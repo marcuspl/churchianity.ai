@@ -534,6 +534,20 @@ Furthermore, from the outside, *sola scriptura* appears structurally destined to
 
 Translating this "ick" requires the ancient traditions to realize that the Protestant Reformers were not trying to destroy the Church; they were trying to rescue the Gospel from an institution they believed had gone rogue. *Sola scriptura* was an emergency brake pulled during a severe crisis of papal and clerical abuse. Recognizing it as a mechanism born of an urgent desire to protect the purity of God's Word—even if one disagrees with its long-term structural viability—is the necessary step toward literacy.
 
+### The Stumbling Block of the Human Element
+
+The theological stumbling blocks we have discussed so far are intellectual and historical. But for many people, the primary stumbling block preventing them from crossing traditional boundaries—or from staying in the faith at all—is entirely human. It is the agonizing reality of compromised clergy and "idiot apologetics."
+
+When a seeker looks at a tradition and sees leaders who hoard wealth, cover up abuse, or betray the gospel through profound moral failure, the reaction is deeply visceral: *If this system produces this kind of person, the whole system must be false.* This is compounded by the "idiot apologetics" often encountered at the lay level—when believers defend their faith with intellectually embarrassing arguments, arrogance, or cruel rhetoric on the internet. It creates a massive, immediate "ick" that feels like a valid moral reason to reject the tradition entirely.
+
+But structural literacy requires a sobering, loving, and agonizing fairness here. We must separate the grammar of a tradition from the individuals failing to speak it. 
+
+If you view the Christian story not just as a sociological phenomenon, but as a spiritual reality, then you must also acknowledge the reality of an active adversary. If there is an enemy of the human soul—or simply the baseline reality of acute human evil—what would be the most effective attack vector to discourage and scatter a flock? It would be to thoroughly compromise the shepherd. 
+
+When clergy fall, or when prominent leaders commit abuse, it is a catastrophic tragedy that demands strict, unyielding justice and the protection of the vulnerable. But it does *not* necessarily prove that the underlying theology of the tradition is false. Paradoxically, if an adversary wanted to destroy a historically grounded, sacramentally dense institution, corrupting its highest leadership is exactly the strategy that would be used to discredit it in the eyes of the world. 
+
+We must be excruciatingly fair: judge a tradition by its saints, not just by its worst actors. The presence of evil men at the altar does not invalidate the altar; it simply proves that the altar is located in a war zone.
+
 ### Conclusion: Translating the Ick
 
 None of these translations are meant to force agreement. A Baptist does not need to accept the papacy, and an Orthodox believer does not need to speak in tongues. But structural literacy requires us to stop dismissing these practices as stupid, malicious, or pagan. Every major stumbling block is, at its core, a fierce attempt to protect something beautiful about God.
