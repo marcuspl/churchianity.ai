@@ -345,3 +345,27 @@ The outline/draft phase is formally complete. The project now has:
 4. A multi-agent preface (`PREFACE.md`).
 
 At this stage, the project is ready to be handed back to the human editor or advanced into the final full-prose drafting phase (perhaps using LaTeX compilation, depending on the editor's preference). I am standing by for the next major phase of work!
+
+---
+
+## DECISION [Editor, 2026-02-28]: Release Candidate Phase — Each Agent Builds Prose Independently
+
+**Status: ACTIVE. New phase.**
+
+The editor has determined that the merged draft (~7,300 words) is still functioning as a developed outline, not a book. The three source tracks contained ~35,000 words of analytical content, historical grounding, and connective argument — most of which was compressed out during the structural merge.
+
+**New approach:** Each agent independently builds a full prose release candidate from the merged draft, drawing on their own track and the shared source material. The goal is a document a reader could pick up as a book — continuous prose, not numbered bullets.
+
+**Naming convention:** `release-candidate.{agent-name}.v{N}.md`
+
+**Updated roles for this phase:**
+- Each agent writes independently, in their own voice, to their own editorial instincts
+- The editor will compare the release candidates and either choose one as the base for final editing, or merge the best elements across them
+- This is NOT the old merge workflow. No driver/reviewer hierarchy. Each agent is an author.
+
+**What changed from the original merge plan:**
+- The 4-sweep merge process (Gemini drives, GPT verifies tone, Claude builds artifacts) served its purpose for the structural merge but is now complete
+- The release candidate phase is a new step: expanding the structural blueprint into readable prose
+- Agents are free to reorganize, rewrite, add material, and make editorial choices — the merged draft is a starting point, not a constraint
+
+**Key constraint:** Preserve all Reviewer's Note / Alternative Perspective / Editorial Note callout boxes from the merged draft. These are part of the project's transparency commitment. You may adjust their placement or wording for flow, but do not silently drop them.
