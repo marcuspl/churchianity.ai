@@ -121,6 +121,9 @@
 3.1.B.4 The shared patrimony of the early Fathers (e.g., Athanasius, the Cappadocians, Augustine, Chrysostom) and the early martyrs.
 3.1.B.5 The seven sacraments / mysteries — broadly shared in practice even where theology diverges.
 
+> **Reviewer's Note (GPT-5.2, post-merge content check): Sacramental continuity vs. later enumeration**
+> This point is about continuity of a *sacramental imagination* in early Christianity (baptism, Eucharist, anointing, confession/penance, etc.), not an identical later count. The Western enumeration of “seven sacraments” and the Protestant narrowing/renaming (often “ordinances”) diverge significantly. Keep the continuity claim; avoid implying uniform sacramental numbering across all later streams.
+
 > **Reviewer's Note (Claude Opus 4.6): Differential Weighting**
 > Sharing the same sources does not guarantee sharing the same conclusions. Augustine is central for the West, much less so for the East. The Cappadocians are central for the East, less well-known in the West. This *differential weighting* of a shared patrimony is itself a lesson: the hermeneutical lens matters as much as the text.
 
@@ -167,7 +170,7 @@ The schism between the Latin West and the Greek East is usually dated to 1054. B
 ### 3.2.B Key Historical Drivers
 
 3.2.B.1 **The filioque.** *Historically attested:* The West added "and the Son" to the Nicene Creed. *Contested:* The East considers this a unilateral alteration of a shared creed. The West considers it a legitimate theological clarification.
-3.2.B.2 **Papal claims and the Petrine question.** *Historically attested:* Pope Gregory VII dramatically expanded papal claims in the 11th century. *Orthodox claim:* The Roman bishop was "first among equals", not a universal monarch. *Catholic claim:* The Petrine primacy is divinely instituted.
+3.2.B.2 **Papal claims and the Petrine question.** *Historically attested:* Pope Gregory VII dramatically expanded papal claims in the 11th century. *Historically attested:* Papal infallibility was defined at the First Vatican Council (1870), crystallizing the modern Catholic claim about the conditions under which the Pope can speak definitively. *Orthodox claim:* The Roman bishop was "first among equals", not a universal monarch. *Catholic claim:* The Petrine primacy is divinely instituted.
 3.2.B.3 **The coronation of Charlemagne (800).** *Historically attested:* Created a rival political-ecclesiastical axis in the West.
 3.2.B.4 **The events of 1054.** *Historically attested:* Mutual excommunications. *Common scholarly view:* The event was less dramatic than it appears in retrospect; the real break was a process.
 3.2.B.5 **The sack of Constantinople (1204).** *Historically attested:* Western crusaders sacked the city. *Common scholarly view:* This is the wound that made the schism permanent.
@@ -189,7 +192,7 @@ The schism between the Latin West and the Greek East is usually dated to 1054. B
 3.2.D.1 **What constitutes legitimate doctrinal development?**
 3.2.D.2 **Does centralization safeguard unity or concentrate risk?**
 3.2.D.3 **Can conciliar models prevent stagnation?**
-3.2.D.4 **Was the schism primarily theological, political, or cultural? Can these be separated?** *Editorial synthesis:* The honest answer is: no, they cannot be separated. The lay reader who grasps this is better positioned than most scholars to understand what actually happened.
+3.2.D.4 **Was the schism primarily theological, political, or cultural? Can these be separated?** *Editorial synthesis:* The honest answer is: no, they cannot be separated. The lay reader who grasps this is better positioned than many popular accounts to understand what actually happened.
 
 ## 3.3 The Second Fracture (Reformation)
 
@@ -197,6 +200,9 @@ The schism between the Latin West and the Greek East is usually dated to 1054. B
 > **Reviewer's Note (Gemini 3.1 Pro): The Structural Inevitability of the Reformation**
 > The Reformation is the hardest section to write symmetrically because the reader's tradition determines what they see. A Catholic reads it as a rupture of unity. A Protestant reads it as the recovery of the gospel. An Orthodox reads it as a Western family quarrel.
 > However, structurally, the Reformation was *inevitable* given the Catholic system's concentration of authority. When authority is centralized, abuse of that authority produces system-wide crisis rather than local correction. Luther's objection to indulgences was not novel. What was novel was the *technology* (the printing press) and the *political configuration* (German princes needing independence from Rome). The Reformation succeeded where earlier reforms failed not because its theology was better, but because the conditions for institutional rupture had finally arrived.
+
+> **Reviewer's Note (GPT-5.2, post-merge content check): “Structural pressure” is safer than “inevitable”**
+> “Inevitable” is a useful shorthand, but it can sound like fate-talk and flatten agency. A more precise claim is: the Western system had accumulated *strong structural pressures* (finance, corruption, politics, literacy, print, jurisdiction) such that a rupture became far more likely and, once it occurred, far more durable. Also: the Reformation was not “only” conditions — theological conviction and pastoral urgency were real drivers for participants, not merely cover stories for politics.
 
 ### 3.3.B Key Historical Drivers
 
@@ -275,6 +281,9 @@ The three authority grammars function the same way. Orthodox conciliar continuit
 
 > **Editorial Note: The Disproportionate Weight of Protestantism**
 > The sprawl of this section is deliberate. The fact that the Protestant section requires so much more space just to map its sub-divisions is itself an indicator of the structural reality of the tradition. It reflects the inherent, continuous splintering caused by hyper-individualism and *sola scriptura* without a shared magisterial umpire.
+
+> **Reviewer's Note (GPT-5.2, post-merge content check): Size is evidence of breadth, not only pathology**
+> The larger mapping footprint is real and should remain visible, but “splintering caused by hyper-individualism” is too monocausal as stated. The size also reflects genuine diversity of worship forms, global growth, and multiple stabilizers (confessions, synods, bishops, associations) that function as partial guardrails in many Protestant streams. Keep the structural observation; avoid sounding like the book is scoring Protestantism as inherently defective.
 
 #### Shared Protestant Strengths
 3.4.3.S1 Accessibility — lower barriers to entry.
@@ -409,6 +418,9 @@ The three authority grammars function the same way. Orthodox conciliar continuit
 
 > **Reviewer's Note (Claude Opus 4.6): The Body as an Authority Grammar**
 > The traditions disagree about who has doctrinal authority (pope, council, Scripture) but they agree, more than they know, about what the body should *do* — kneel, chant, eat, fast, prostrate, cross, weep, be silent. The bodily practices predate the theological formulations and will outlast them. Practice is a form of knowledge.
+
+> **Reviewer's Note (GPT-5.2, post-merge content check): Epistemic humility for neuro-language**
+> The neurophysiology claims below should be presented as *suggestive correlations* and “consistent with” language, not as the authority-ground of prayer. The theological claim (Incarnation; formation; the body participates) is primary; the biology is an adjacent explanatory layer that should not read like “science proves devotion.”
 
 4.2.1 Chant and vagal tone: Sustained chanting naturally stimulates the vagus nerve, inducing parasympathetic down-regulation (calm, safety, connection).
 4.2.2 Humming and breath: The linking of prayer to the breath cycle runs deep in Scripture itself (*ruach* and *pneuma* mean both breath and spirit).

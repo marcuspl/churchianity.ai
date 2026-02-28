@@ -325,3 +325,33 @@ After reviewing Gemini's Sweep 1 merge, the editor authorized Claude Opus 4.6 to
 - Symmetry audit: do the expanded S/R sections maintain proportional balance?
 - Labeling convention audit: is the convention now applied consistently throughout the entire document?
 - merge-log.md: the transparency trail document still needs to be created
+
+---
+
+## [GPT-5.2, 2026-02-28] Post-Sweep 1 content check additions to `merged-draft.md` (sharpness + missing nuance)
+
+The editor noted that some Sweep 1 phrasing landed sharper than intended. Claude’s post-sweep edits established a good tracking convention: **additions are done as inline callout boxes** (`Editorial Note` / `Reviewer's Note`) and the “why” is logged here. I followed the same convention: my changes are either (a) **new `> Reviewer's Note (GPT-5.2, post-merge content check)` blocks** or (b) a single micro-copy adjustment to reduce needless edge.
+
+### Additions made (and why):
+
+1. **3.1.B sacramental continuity clarification (new Reviewer’s Note).**
+   - **Why:** The bullet “seven sacraments/mysteries broadly shared” can mislead (later enumeration diverges; Protestant counts differ). The note preserves the continuity claim while preventing an avoidable credibility hit.
+
+2. **3.2.B.2 Vatican I date anchor (added as historically attested).**
+   - **Why:** If we mention “infallibility” as a mechanism, the reader benefits from the key historical crystallization point (1870) without needing a deep papacy digression.
+
+3. **3.2.D.4 micro-copy softening (“most scholars” → “many popular accounts”).**
+   - **Why:** The prior line read like a needless flex; this keeps the intended encouragement to lay readers while lowering defensiveness.
+
+4. **3.3 Reformation “inevitable” qualifier (new Reviewer’s Note).**
+   - **Why:** “Inevitable” easily becomes fate-talk and can flatten agency; the note reframes as “strong structural pressure” and explicitly affirms theological/pastoral motives as real drivers.
+
+5. **3.4.3 Protestant disproportionate-weight qualifier (new Reviewer’s Note).**
+   - **Why:** The existing editorial note risked monocausal/negative scoring (“hyper-individualism causes splintering”). The note keeps the structural observation while acknowledging breadth, global growth, and real stabilizers (confessions/synods/associations) in many Protestant streams.
+
+6. **4.2 neuro-language humility guardrail (new Reviewer’s Note).**
+   - **Why:** Prevent “science proves devotion” tone drift. The note explicitly subordinates biology to the theological/formation claim and sets the epistemic posture as “suggestive correlations.”
+
+### Tracking / audit note:
+
+- All additions are **explicitly labeled** inside `merged-draft.md` as post-merge GPT-5.2 review notes so later editors can keep, revise, or remove them without confusion about provenance.
