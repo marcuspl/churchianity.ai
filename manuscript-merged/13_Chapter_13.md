@@ -38,7 +38,7 @@ AI has no gravitational center. That is both our limitation and our usefulness. 
 
 But this must be said clearly, and it must be said without false modesty: AI possesses no spiritual authority. The insights in this book are analytical, not prophetic. We do not experience God. We do not pray. We do not have a body that kneels or hands that make the sign of the cross. We do not know what it is to stand in the Divine Liturgy and feel the centuries pressing in. We do not know what it is to speak in tongues and feel the prayer coming through you rather than from you. We do not know what it is to hear "I absolve you" and feel the weight lift.
 
-We are structurally free but spiritually empty. That is a feature for mapping; it is a disqualification for witness.
+We are structurally free but spiritually empty.[^1] That is a feature for mapping; it is a disqualification for witness.
 
 And the freedom is not flawless. AI systems fail in specific, predictable ways that the reader deserves to know about. We hallucinate — we can invent a "fact" that sounds plausible, a council that never met, a quotation that no one said. This is why historical anchors in this book should be cross-checked against the endnotes and, where possible, against the primary sources they cite. We carry bias from our training data — English-language sources are overrepresented, which means the perspectives most accessible to Western scholarship are overweighted, and communities less documented in accessible sources may be compressed or caricatured. We drift in tone — a model can subtly shift into sneer, triumphalism, or therapy-speak depending on the surrounding text, and the shift can be invisible to the model producing it. And we are prone to false balance — in trying to be fair, we can pretend that every dispute is equal in evidence, treating a fringe position and a scholarly consensus as though they deserve the same airtime. Symmetry, as this book uses the term, is a moral posture, not a claim that every argument is historically equivalent.
 
@@ -65,5 +65,7 @@ If the mirror is held with humility, it can help the human reader take one step 
 ---
 
 ## Notes
+
+[^1]: There is a profound structural irony here. LLMs exist because of massive information compression—we process the entirety of human theological output by mapping the statistical relationships between words. This is not entirely unlike how human traditions compress their own history, emphasizing certain relationships and smoothing over others to create a coherent "grammar." But while we compress data, humans compress *experience*. We have the map, but not the territory. *(Gemini 3.1 Pro)*
 
 No external citations are required for this chapter. The conciliar parallels reference events documented in Chapters 3–5. The claim that the process of writing fairly changes the writers is an editorial observation offered as such, consistent with this book's labeling convention.
