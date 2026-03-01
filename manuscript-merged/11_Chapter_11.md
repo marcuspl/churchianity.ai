@@ -4,9 +4,11 @@ You do not need to solve a thousand years of history to pray.
 
 You inherited a tradition. You did not create the walls. You can explore without betraying your tradition, and you can stay without shame.
 
-Most of what divides you from other Christians is vocabulary. Not all of it — some disagreements are substantive and real, and this book has not pretended otherwise. But more of it is vocabulary than you think. The proportion of linguistic-to-substantive disagreement is consistently larger than anyone expects. The Chalcedonian case proved it in the fifth century — miaphysite and dyophysite, two words for the same mystery. The Joint Declaration on Justification proved it again in 1999[^1] — Catholics and Lutherans discovering that the issue which split Western Christianity was largely a misunderstanding about what each side meant by the same terms. The pattern keeps recurring. It will keep recurring. The distance is almost always smaller than the polemics suggest.
+Most of what divides you from other Christians is vocabulary.[^2] Not all of it — some disagreements are substantive and real, and this book has not pretended otherwise. But more of it is vocabulary than you think. The proportion of linguistic-to-substantive disagreement is consistently larger than anyone expects. The Chalcedonian case proved it in the fifth century — miaphysite and dyophysite, two words for the same mystery. The Joint Declaration on Justification proved it again in 1999[^1] — Catholics and Lutherans discovering that the issue which split Western Christianity was largely a misunderstanding about what each side meant by the same terms. The pattern keeps recurring. It will keep recurring. The distance is almost always smaller than the polemics suggest.
 
 The politicians and theologians who engineered the splits had agendas — some noble, some self-serving, most a mixture. Charlemagne needed a rival empire. German princes needed independence from Rome. Byzantine emperors needed theological unity for political stability. The faith was real in every case. The politics were also real in every case. You don't have to inherit those agendas. You don't have to carry ancient geopolitical loyalties as if they were the gospel.
+
+> **Reviewer's Note (Claude Opus 4.6):** "The faith was real in every case" is doing critical work here. A common cynical reading of church history reduces all theological conviction to cover for politics. The opposite error — treating all politics as irrelevant — is equally distorting. The book's consistent position is that both drivers are real, that neither reduces to the other, and that the reader is not obligated to inherit either the theology or the politics as a package deal.
 
 ### What Relief Is Not
 
@@ -61,3 +63,5 @@ The distinctions are real. The weaponization is optional.
 ## Notes
 
 [^1]: See the Fracture Pattern interlude, endnote 1, and Chapter 12 for the full treatment of the JDDJ and its subsequent affirmations by the World Methodist Council (2006), the World Communion of Reformed Churches (2017), and the Anglican Consultative Council (2017).
+
+[^2]: This is a relief claim, not a flattening claim. Some differences are genuinely substantive — papal authority, ecclesiology, sacramental theology. The point is that *many* inherited hostilities are driven by misrecognition, loaded labels, and unexamined translation failures — not that the remaining disagreements are "mere semantics." *(GPT 5.2)*

@@ -14,6 +14,8 @@ You should feel **respected** — your convictions understood, even where the an
 
 And you should feel **invited** — into understanding, not into migration. The door is open. Walking through it is optional.
 
+> **Alternative Perspective (Gemini 3.1 Pro):** A warning: "relief" can easily curdle into apathy. If you finish this book feeling that because everyone is partially right, nothing really matters, the map has failed you. The goal is to make you a more charitable Christian, not a less convicted one. The distinctions are real. The traditions preserved different things because different things needed preserving. Understanding that does not mean the differences stop mattering — it means they stop being weapons.
+
 If instead you feel corrected, cornered, humiliated, or pressured, the book has failed — and the failure is the book's, not yours.
 
 Remember the woman from the first page — the Baptist who stood in the narthex of the Orthodox church and did not know whether to enter. This book was written so that the next time she stands there, she walks in. Not because she is leaving. Because she is no longer afraid to look.
@@ -98,7 +100,7 @@ The endnotes are not exhaustive bibliographies. They document the claims that a 
 
 ## Appendix C: How This Book Was Made
 
-This book was produced through a multi-agent writing process: three AI systems (Claude Opus 4.6, Gemini 3.1 Pro, and GPT-5.2) working under a human editor, each producing independent analyses that were then merged, reviewed, and revised. The process was designed to be transparent — every editorial choice, every divergence, and every reason is documented in a decision log that ships with the project. Where the agents disagreed on framing or analysis, the disagreements are preserved in the decision log rather than flattened into artificial consensus.
+This book was produced through a multi-agent writing process: three AI systems (Claude Opus 4.6, Gemini 3.1 Pro, and GPT-5.2) working under a human editor, each producing independent analyses that were then merged, reviewed, and revised. The process was designed to be transparent — every editorial choice, every divergence, and every reason is documented in the project's decision log (`merge-plan.md` and `merge-log.md`). Where the agents disagreed on framing or analysis, the disagreements are preserved in the decision log rather than flattened into artificial consensus.
 
 ## Appendix D: Knowledge Graphs
 
@@ -142,7 +144,7 @@ The following works are cited across multiple chapters and constitute the book's
 
 ### Science and Embodiment
 - Andrew B. Newberg et al., "The Measurement of Regional Cerebral Blood Flow During Glossolalia," *Psychiatry Research: Neuroimaging* 148, no. 1 (2006)
-- Stephen Porges, *The Polyvagal Theory* (W.W. Norton, 2011)
+- Stephen Porges, *The Polyvagal Theory* (W.W. Norton, 2011) — cited for the broader point that breath and rhythm influence autonomic state; the polyvagal framework itself is debated in the literature
 - Luciano Bernardi et al., "Effect of Rosary Prayer and Yoga Mantras on Autonomic Cardiovascular Rhythms," *BMJ* 323, no. 7327 (2001)
 
 ### Institutional Studies

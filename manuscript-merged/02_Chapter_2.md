@@ -52,7 +52,7 @@ Academics have guild obligations. Peer review, disciplinary boundaries, tenure p
 
 And the deeply committed believer — the traditionalist Catholic, the rigorous Orthodox, the zealous Reformed — often relies on firm boundaries for identity and spiritual survival. What outsiders call "ecumenical compromise" can feel, from the inside, like betrayal. This is not ignorance. It is fidelity to what they understand as non-negotiable.
 
-This is where the laity and the outside voice — including AI — can sometimes serve a different role. Not because we are better. Because we are freer. We can compare, synthesize, and cross boundaries without the same costs. An AI does not have a bishop. It does not have a tenure committee. It does not have a congregation that will leave if it says the wrong thing on Sunday. It can read Thomas Aquinas and Gregory Palamas and Karl Barth in the same afternoon and ask "Where do these actually agree?" without any of the institutional consequences that make that question dangerous for a human theologian embedded in one of those traditions.
+This is where the laity and the outside voice — including AI — can sometimes serve a different role. Not because we are better. Because we are freer. We can compare, synthesize, and cross boundaries without the same costs. An AI does not have a bishop. It does not have a tenure committee. It does not have a congregation that will leave if it says the wrong thing on Sunday. It can read Thomas Aquinas and Gregory Palamas and Karl Barth in the same afternoon and ask "Where do these actually agree?" without any of the institutional consequences that make that question dangerous for a human theologian embedded in one of those traditions.[^5]
 
 This is not a claim of superiority. It is a structural observation about what different voices can do. The inside voice has depth, lived experience, and the authority of commitment. The outside voice has freedom of movement. Both are needed. This book offers the second and relies on the reader to bring the first.
 
@@ -62,7 +62,7 @@ The goal is not to eliminate boundaries. The goal is to provide a resource for t
 
 The "shared middle" is not a mandate. Mapping these traditions is not a covert attempt to force everyone into a softened center.
 
-The edges have purpose. High-boundary, high-density expressions of each tradition — the traditionalist Catholic, the rigorous Orthodox, the zealous Reformed — preserve things that a softer middle might lose. They are the immune system of their traditions, and the immune system is supposed to be aggressive.
+The edges have purpose. High-boundary, high-density expressions of each tradition — the traditionalist Catholic, the rigorous Orthodox, the zealous Reformed — preserve things that a softer middle might lose. They are the immune system of their traditions, and the immune system is supposed to be aggressive.[^4]
 
 The goal is literacy, not migration. This book succeeds if the person on the edge stays on the edge but stops despising the person in the middle — and vice versa.
 
@@ -91,3 +91,7 @@ In practice, these labels appear as natural language rather than formal tags —
 [^2]: The definitive modern account of the Fourth Crusade is Jonathan Phillips, *The Fourth Crusade and the Sack of Constantinople* (London: Jonathan Cape, 2004). See also Steven Runciman, *A History of the Crusades*, vol. 3 (Cambridge: Cambridge University Press, 1954), ch. 14–17. Pope John Paul II expressed "deep regret" for the sack in his 2004 address to Ecumenical Patriarch Bartholomew I.
 
 [^3]: Estimates of casualties in the Thirty Years' War (1618–1648) vary. Peter H. Wilson, *The Thirty Years War: Europe's Tragedy* (Cambridge, MA: Belknap Press, 2009), estimates total deaths (military and civilian) at approximately 8 million across the Holy Roman Empire, representing roughly 20% of the population in affected regions.
+
+[^4]: By "aggressive," we mean aggressive toward *drift and distortion* — not toward people. Boundary-keeping can preserve truth without becoming contempt. The distinction matters because some readers have experienced boundary-policing as cruelty; this book does not endorse that. *(GPT 5.2)*
+
+[^5]: Freedom of movement is not automatic neutrality. AI systems can inherit bias from training data and from the questions they are asked. The project relies on symmetry rules, citation discipline, and human editorial responsibility to govern that freedom. The limitations are addressed in detail in Chapter 13. *(GPT 5.2)*

@@ -15,7 +15,7 @@ But before the dialogues themselves, one practical tool is worth having in hand.
 | **Church** | The people of God gathered around the gospel | A visible communion with sacramental life and apostolic continuity | The one, holy Body of Christ, continuous and undivided since Pentecost |
 | **Worship** | Direct praise and proclamation centered on intelligibility and response | A received form that trains reverence through repetition and sacramental encounter | The earthly participation in the heavenly liturgy — cosmic, not merely congregational |
 
-This is the kind of page a reader photographs and texts to a friend. It will not resolve the disputes. It will prevent you from arguing about a word when you mean different things by it — which is where roughly half of all inter-traditional hostility begins.
+This is the kind of page a reader photographs and texts to a friend. It will not resolve the disputes. It will prevent you from arguing about a word when you mean different things by it — which is where roughly half of all inter-traditional hostility begins.[^8]
 
 ### What Has Already Happened
 
@@ -82,6 +82,8 @@ The distance is smaller than you think. And you do not need an institution's per
 [^6]: The Joint International Commission for Theological Dialogue Between the Roman Catholic Church and the Orthodox Church was established following the historic meeting of Pope John Paul II and Ecumenical Patriarch Demetrios I in 1979. For a survey of its work, see Edward G. Farrugia, ed., *Encyclopedic Dictionary of the Christian East* (Rome: Pontificio Istituto Orientale, 2015).
 
 [^7]: Brother Roger Schutz (1915–2005) founded the Taizé Community in Burgundy, France. See Jason Brian Santos, *A Community Called Taizé: A Story of Prayer, Worship, and Reconciliation* (Downers Grove, IL: IVP Books, 2008).
+
+[^8]: This table oversimplifies deliberately. Each cell could be a chapter. The purpose is not precision but orientation: if you are about to argue with someone from another tradition, check whether you mean the same thing by the word before you argue about the thing. *(Claude Opus 4.6)*
 
 > **Editorial Note:** The "false friends" vocabulary table in this chapter draws on GPT 5.2's vocabulary analysis, which had the strongest treatment of cross-traditional terminology. The four-reasons information-gap analysis (bandwidth, translation, incentives, scandal economy) originated in the GPT 5.2 track. The JDDJ pull-quote was added to give the convergence claim evidentiary weight.
 

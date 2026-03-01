@@ -12,7 +12,7 @@ Drift is more human than betrayal. That is what makes it harder to narrate — a
 
 By the fifth century, two different models of church governance were crystallizing.
 
-In the East, the pentarchy — five patriarchs (Rome, Constantinople, Alexandria, Antioch, Jerusalem) governing collegially, with disputes resolved by ecumenical council. Authority was distributed. No single bishop could unilaterally define doctrine.
+In the East, the pentarchy — five patriarchs (Rome, Constantinople, Alexandria, Antioch, Jerusalem) governing collegially, with disputes resolved by ecumenical council.[^13] Authority was distributed. No single bishop could unilaterally define doctrine.
 
 In the West, the Bishop of Rome increasingly claimed a unique, universal authority derived from the Apostle Peter. Pope Leo I, who died in 461, articulated the strongest early version of this claim,[^1] reading Matthew 16:18 — "You are Peter, and on this rock I will build my church" — as a grant of jurisdictional primacy to Peter and his successors. The East read the same passage differently: as acknowledging Peter's confession of faith, not as establishing a permanent office of universal jurisdiction. This disagreement has never been resolved.
 
@@ -32,7 +32,7 @@ Several specific events and disputes drove the divergence from slow drift to for
 
 **Papal claims.** Pope Nicholas I (858–867) asserted papal authority over the Eastern patriarch Photius, triggering the "Photian Schism."[^5] Pope Gregory VII (1073–1085) dramatically expanded papal claims in the *Dictatus Papae*[^6], asserting that the Pope alone can depose bishops, that his decisions can be overturned by no one, and that the Roman church "has never erred and will never err." The Orthodox hold that these assertions have no basis in the practice of the first millennium. The Catholics hold that the Petrine primacy is divinely instituted and the papal claims are the organic development of what was always implicit. Much later, the First Vatican Council (1870) defined papal infallibility, crystallizing the modern Catholic claim about the conditions under which the Pope can speak definitively.
 
-**Charlemagne (800).** On Christmas Day 800, Pope Leo III crowned the Frankish king Charlemagne as "Emperor of the Romans"[^7] — a direct challenge to the Byzantine emperor, who considered himself the sole legitimate Roman emperor. This created a rival political-ecclesiastical axis in the West that made the later schism almost structurally inevitable.
+**Charlemagne (800).** On Christmas Day 800, Pope Leo III crowned the Frankish king Charlemagne as "Emperor of the Romans"[^7] — a direct challenge to the Byzantine emperor, who considered himself the sole legitimate Roman emperor. This created a rival political-ecclesiastical axis in the West that made the later schism almost structurally inevitable.[^14]
 
 **The events of 1054.** Cardinal Humbert, a papal legate, placed a bull of excommunication on the altar of the Hagia Sophia in Constantinople. Patriarch Michael Cerularius responded by excommunicating Humbert. The excommunications were personal, not institutional. Most Christians in East and West barely noticed. Communion continued in many places for decades afterward. The real break was a process, and 1054 became its symbolic date only in hindsight.
 
@@ -52,7 +52,7 @@ These are not trivial observations. They are what the history produces in living
 
 ### The Three-Layer Model
 
-> **Editorial Note (Claude Opus 4.6, drawing on GPT-5.2's framework):** The East-West fracture is best understood as three intertwined layers, not one. Collapsing them into a single narrative produces the two most common reductive errors: "it was all politics" (which dismisses genuine theological stakes) and "it was all doctrine" (which erases coercion and trauma).
+> **Editorial Note (Claude Opus 4.6, drawing on GPT-5.2's framework):** The three-layer model is an analytical tool developed during this project to organize the East-West fracture — it is not a historical term used by the participants. Its value is heuristic: it clarifies why convergence on theology does not automatically produce reunion, because governance and memory remain unresolved. The East-West fracture is best understood as three intertwined layers, not one. Collapsing them into a single narrative produces the two most common reductive errors: "it was all politics" (which dismisses genuine theological stakes) and "it was all doctrine" (which erases coercion and trauma).
 
 **Layer 1: Theology.** The filioque, papal authority, the scope of doctrinal development — these are real disputes with real stakes. They are not manufactured. People who care about the precise relationship of the Spirit to the Son are not splitting hairs; they are trying to speak accurately about the inner life of God. The disagreement deserves respect.
 
@@ -99,5 +99,9 @@ Was the schism primarily theological, political, or cultural — and can these b
 [^11]: John Henry Newman, *An Essay on the Development of Christian Doctrine* (London: James Toovey, 1845). Newman's seven "notes" for distinguishing legitimate development from corruption remain the intellectual foundation of the Catholic position.
 
 [^12]: Pope John Paul II expressed "deep regret" for the Fourth Crusade during a 2004 visit with Ecumenical Patriarch Bartholomew I. The text of the address is available in the Vatican archives, June 29, 2004. On the schism itself, see Steven Runciman, *The Eastern Schism: A Study of the Papacy and the Eastern Churches During the XIth and XIIth Centuries* (Oxford: Clarendon Press, 1955). On the Fourth Crusade, see Jonathan Phillips, *The Fourth Crusade and the Sack of Constantinople* (London: Jonathan Cape, 2004).
+
+[^13]: The pentarchy is a useful shorthand, but the lived reality was messier: rivalries among sees, shifting imperial influence, and uneven reception across regions complicate any simple "five patriarchs governing peacefully" picture. *(GPT 5.2)*
+
+[^14]: The claim is about structural pressure, not historical fate. Charlemagne's coronation made rupture more probable and reconciliation harder; it did not make them certain. *(GPT 5.2)*
 
 > **Editorial Note:** The "imagined scene" opening of this chapter draws on a narrative device originated in the GPT 5.2 track. The Three-Layer Model (theology, governance, memory) was originated by GPT 5.2 and refined with structural language from the Gemini 3.1 Pro track. The Runciman and Phillips references were added from the GPT 5.2 bibliography.

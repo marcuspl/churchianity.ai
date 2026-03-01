@@ -1,6 +1,6 @@
 # Chapter 6: Three Authority Grammars
 
-The word "grammar" is chosen deliberately.
+The word "grammar" is chosen deliberately.[^12]
 
 A grammar is a set of rules for how a language works. You don't call a grammar "wrong" — you recognize that a sentence built with French grammar won't make sense if read with Russian rules. Each grammar generates its own internally coherent system: valid sentences, recognizable errors, aesthetic preferences, and characteristic blindnesses.
 
@@ -38,7 +38,7 @@ The deepest strength of this grammar is also the source of its deepest risk. A s
 
 **Risks:**
 
-*Stagnation.* The commitment to preserving what was received can blur the line between living tradition and cultural artifact. The Orthodox have not held an ecumenical council since 787. The 2016 Holy and Great Council in Crete[^2] — the first pan-Orthodox council in over a millennium — saw several major churches (Russia, Georgia, Bulgaria, Antioch) refuse to attend. When the conciliar model cannot even convene, it cannot address the questions the modern world is asking.
+*Stagnation.* The commitment to preserving what was received can blur the line between living tradition and cultural artifact. The Orthodox have not held an ecumenical council since 787.[^13] The 2016 Holy and Great Council in Crete[^2] — the first pan-Orthodox council in over a millennium — saw several major churches (Russia, Georgia, Bulgaria, Antioch) refuse to attend. When the conciliar model cannot even convene, it cannot address the questions the modern world is asking.
 
 *Ethnic captivity.* Because Orthodox churches are organized along national lines — the principle of autocephaly — the church can become the spiritual arm of national identity. In the diaspora, this produces the anomaly of multiple overlapping jurisdictions in the same city, distinguished not by theology but by ethnicity. The 2016 Crete council was supposed to address this. It barely tried.
 
@@ -122,6 +122,8 @@ The risks are what happens when the cognitive dimension dominates. The "dry well
 
 This risk, too, has a geopolitical history. The Enlightenment — from the mid-seventeenth century onward — posed a specific challenge to the Reformed tradition: a culture that increasingly prized empirical evidence, rational argument, and skepticism toward inherited authority was speaking the same cognitive language that the Reformed tradition had made its primary register. Reformed theology survived the Enlightenment partly by meeting it on its own terms — demonstrating that faith could be intellectually rigorous, propositionally precise, and logically coherent. But the cost was real. The sacramental, the mystical, the embodied — dimensions that the Enlightenment dismissed as superstition — were quietly deprioritized, not because the tradition rejected them in principle but because defending them in an empiricist culture felt like a losing position. The "dry well" is not merely a stylistic preference. It is, in part, the scar of a tradition that survived the Enlightenment by becoming more like it.
 
+> **Reviewer's Note (Gemini 3.1 Pro):** Naming the historical pressures that shaped a theological position does not invalidate the position. A theology forged under pressure may be exactly as true as one developed in leisure. The question is whether it corresponds to reality, not whether its genesis was comfortable. This applies equally to the Orthodox defensive centralization under Ottoman rule, the Catholic Counter-Reformation under Protestant challenge, and the Reformed rationalization under Enlightenment skepticism. The geopolitical context explains the *shape* of the theology — not its truth or falsehood.
+
 #### The Charismatic/Pentecostal Stream (Pentecostal, charismatic, non-denominational)
 
 Experiential immediacy is the signature — the Holy Spirit as present, active, encountered *now*. This is the fastest-growing expression of Christianity worldwide, and its growth is not a Western phenomenon. Pentecostalism is exploding in sub-Saharan Africa, Latin America, East Asia, and the Pacific. By some estimates, one in four Christians worldwide is now Pentecostal or charismatic.[^9] The tradition that began at Azusa Street in 1906 — in a multiracial revival in Los Angeles that the established churches initially dismissed — has become the most dynamic force in global Christianity.
@@ -181,5 +183,9 @@ No tradition is exempt. The argument is not "your system failed worse." The argu
 [^10]: Robert Downen, Lise Olsen, and John Tedesco, "Abuse of Faith," *Houston Chronicle*, February 10, 2019. The investigation documented approximately 700 victims and 380 alleged perpetrators across Southern Baptist churches over twenty years.
 
 [^11]: John Jay College of Criminal Justice, *The Nature and Scope of Sexual Abuse of Minors by Catholic Priests and Deacons in the United States 1950–2002* (Washington, DC: United States Conference of Catholic Bishops, 2004). The report documented allegations against 4,392 priests involving 10,667 individuals.
+
+[^12]: The metaphor borrows loosely from Wittgenstein's concept of "language-games" and from George Lindbeck's "cultural-linguistic" model of doctrine (*The Nature of Doctrine*, 1984). Both suggest that theological claims function not as isolated propositions but as moves within a system — and that the system shapes what the moves mean. *(Claude Opus 4.6)*
+
+[^13]: In the conventional "seven ecumenical councils" list, the last is Nicaea II (787). This does not mean Orthodoxy has had no councils, doctrinal development, or authoritative synods since then; it means later councils have not been received as "ecumenical" in the same universal way. *(GPT 5.2)*
 
 > **Editorial Note:** The "buildings as theology" passage (iconostasis, nave, pulpit, auditorium) draws on the Gemini 3.1 Pro track's architectural analysis. The steel-man self-test paragraph originated in the GPT 5.2 track. Translation phrases were adapted from GPT 5.2's phrasebook into prose form.
