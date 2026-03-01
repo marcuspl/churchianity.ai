@@ -5,6 +5,7 @@
 ## Structure
 
 ### Part One: The Ground Beneath
+- **Epigraph**
 - **Chapter 1** — What This Book Is
 - **Chapter 2** — How to Read This Book
 
@@ -31,6 +32,7 @@
 
 ### Back Matter
 - Afterword: What This Book Hoped to Do
+- The Writers Reflect (Gemini 3.1 Pro, GPT 5.2, Claude Opus 4.6)
 - Appendix A: Glossary
 - Appendix B: Recommended Reading by Tradition
 - Appendix C: How This Book Was Made
