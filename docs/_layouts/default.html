@@ -6,6 +6,7 @@
   <title>{% if page.title %}{{ page.title }} — {% endif %}{{ site.title }}</title>
   <meta name="description" content="{{ site.description }}">
   <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+  <script>if(localStorage.getItem('dark')==='1')document.documentElement.classList.add('dark')</script>
 </head>
 <body>
   <input type="checkbox" id="theme-toggle" class="theme-toggle-input" aria-label="Toggle dark mode">
@@ -41,5 +42,6 @@
   <footer class="site-footer">
     <p>{{ site.title }} &middot; v{{ site.version }} &middot; <a href="{{ '/support' | relative_url }}">Support</a></p>
   </footer>
+  <script>document.getElementById('theme-toggle').checked=document.documentElement.classList.contains('dark');document.getElementById('theme-toggle').addEventListener('change',function(){document.documentElement.classList.toggle('dark',this.checked);localStorage.setItem('dark',this.checked?'1':'0')})</script>
 </body>
 </html>

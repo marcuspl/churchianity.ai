@@ -20,9 +20,9 @@
   --font-mono: "Fira Mono", "DejaVu Sans Mono", "Liberation Mono", monospace;
 }
 
-/* ── Dark Mode (CSS-only via :has) ── */
+/* ── Dark Mode ── */
 .theme-toggle-input { display: none; }
-body:has(.theme-toggle-input:checked) {
+html.dark {
   --bg: #1a1a1f;
   --bg-alt: #24242a;
   --text: #d8d4cf;
@@ -44,8 +44,8 @@ body:has(.theme-toggle-input:checked) {
   line-height: 1;
 }
 .icon-dark { display: none; }
-body:has(.theme-toggle-input:checked) .icon-light { display: none; }
-body:has(.theme-toggle-input:checked) .icon-dark { display: inline; }
+html.dark .icon-light { display: none; }
+html.dark .icon-dark { display: inline; }
 
 /* ── Body ── */
 html { font-size: 18px; }
