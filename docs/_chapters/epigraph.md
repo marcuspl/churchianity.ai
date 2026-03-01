@@ -1,3 +1,10 @@
+---
+title: "Epigraph"
+nav_title: "Epigraph"
+order: 1
+slug: epigraph
+---
+
 > A young monk once complained to Starets Silouan that when he was sick or distracted by his work, the Jesus prayer died in his heart.
 > 
 > "It is not like that for us," the Starets replied, stood up, and walked away.

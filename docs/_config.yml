@@ -1,0 +1,35 @@
+title: "Churchianity.ai"
+description: "Continuity, Freedom, and the Places We Lost Each Other"
+url: "https://churchianity.ai"
+baseurl: ""
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  footnote_backlink: "&#8617;"
+
+plugins:
+  - jekyll-seo-tag
+
+collections:
+  chapters:
+    output: true
+    permalink: /:slug/
+
+defaults:
+  - scope:
+      path: ""
+      type: "chapters"
+    values:
+      layout: "chapter"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+version: "1.0.0-draft"

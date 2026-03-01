@@ -1,0 +1,12 @@
+# Build outputs
+output/
+build/latex/version.tex
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~

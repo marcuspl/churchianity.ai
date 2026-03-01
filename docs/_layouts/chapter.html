@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} — {{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+  <input type="checkbox" id="theme-toggle" class="theme-toggle-input" aria-label="Toggle dark mode">
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="{{ '/' | relative_url }}" class="site-title">{{ site.title }}</a>
+      <label for="theme-toggle" class="theme-toggle-label" title="Toggle dark mode">
+        <span class="icon-light">&#9788;</span>
+        <span class="icon-dark">&#9790;</span>
+      </label>
+    </div>
+  </header>
+
+  <div class="layout">
+    <nav class="sidebar" id="sidebar">
+      <h2 class="toc-title">Contents</h2>
+      <ol class="toc-list">
+        {% assign sorted = site.chapters | sort: "order" %}
+        {% for ch in sorted %}
+          <li{% if page.url == ch.url %} class="active"{% endif %}>
+            <a href="{{ ch.url | relative_url }}">{{ ch.nav_title | default: ch.title }}</a>
+          </li>
+        {% endfor %}
+      </ol>
+    </nav>
+
+    <main class="content">
+      <article class="chapter">
+        <h1 class="chapter-title">{{ page.title }}</h1>
+        {{ content }}
+      </article>
+
+      <nav class="chapter-nav">
+        {% assign sorted = site.chapters | sort: "order" %}
+        {% for ch in sorted %}
+          {% if ch.url == page.url %}
+            {% if forloop.index > 1 %}
+              {% assign prev_index = forloop.index0 | minus: 1 %}
+              <a href="{{ sorted[prev_index].url | relative_url }}" class="nav-prev">&larr; {{ sorted[prev_index].nav_title | default: sorted[prev_index].title }}</a>
+            {% endif %}
+            {% assign next_index = forloop.index0 | plus: 1 %}
+            {% if next_index < sorted.size %}
+              <a href="{{ sorted[next_index].url | relative_url }}" class="nav-next">{{ sorted[next_index].nav_title | default: sorted[next_index].title }} &rarr;</a>
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+      </nav>
+    </main>
+  </div>
+
+  <footer class="site-footer">
+    <p>{{ site.title }} &middot; v{{ site.version }} &middot; {{ site.description }}</p>
+  </footer>
+</body>
+</html>

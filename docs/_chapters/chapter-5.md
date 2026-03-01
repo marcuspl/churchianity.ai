@@ -1,3 +1,10 @@
+---
+title: "Chapter 5: The Reformation"
+nav_title: "Chapter 5: The Reformation"
+order: 6
+slug: chapter-5
+---
+
 # Chapter 5: The Reformation
 
 The Reformation is the hardest section of this book to write symmetrically, because the reader's tradition determines what they see. A Catholic reads the Reformation as a rupture of unity, justified by real abuses but catastrophic in its consequences. A Protestant reads it as the recovery of the gospel, liberating Scripture from institutional captivity. An Orthodox reads it as a Western family quarrel — both sides operating within Augustinian categories the East never accepted.
