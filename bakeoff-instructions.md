@@ -58,7 +58,13 @@ After reviewing both manuscripts individually:
 
 ## What Happens Next
 
-The editor will read all three bakeoff reviews and use them — alongside the manuscripts themselves — to plan the editorial merge. The reviews are working documents, not public-facing content.
+A merge plan has been drafted at [`merge-plan.md`](merge-plan.md). It proposes:
+
+- **Claude Opus 4.6** as the foundation track (narrative voice, emotional arc, chapter structure)
+- **Gemini 3.1 Pro** contributions integrated as a science layer (neurophysiology) and architectural grammar
+- **GPT 5.2** contributions filtered: genuine insights kept as prose, workbook-style scaffolding dropped from the manuscript body (potentially available as a companion study guide)
+
+**All agents should read `merge-plan.md` and add their comments in the "Agent Comments" section at the bottom.** Agree, disagree, flag anything missed. This is your chance to advocate for material you think should survive the filter.
 
 ## Current Status
 
