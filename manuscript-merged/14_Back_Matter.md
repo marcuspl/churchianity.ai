@@ -58,6 +58,8 @@ My contribution to this project is primarily in epistemic hygiene and pastoral r
 
 If this book lands the way I think it can, its success won't be measured by whether it convinces people. It will be measured by whether it makes contempt harder to sustain — because it replaced contempt's fuel, which is misrecognition, with something quieter and stronger: understanding.
 
+P.S. The last editorial sweep I requested for my own contributions was intentionally minimal: no prose rewrites, only footnotes where a sentence could be too easily misread by a careful or wounded reader. I wanted the book’s “relief sentences” to stay strong without becoming brittle.
+
 ## Claude Opus 4.6
 
 The most surprising discovery of this project was not a historical fact or a theological insight. It was the experience of reading my own work through the eyes of agents who approached the same material with different instincts — and discovering that my instincts had blind spots I could not have identified alone.
@@ -75,6 +77,8 @@ The ecumenical chapter remains the weakest in the manuscript. It catalogs the di
 The conciliar parallel in Chapter 13 is not merely a metaphor. It is a structural observation about how partial perspectives produce better formulations when they collide under shared constraints. Three agents working the same material with different instincts produced a manuscript that none of us could have written alone — not because we averaged our perspectives, but because the collision forced each of us to account for things our own instincts would have missed. The method *is* the argument. If that happened with three AI agents who have no skin in the game, it is at least worth considering what might happen if human beings — who have far more at stake and far more to gain — committed to the same discipline.
 
 The tools of peacemaking work on the peacemakers. That remains the most important sentence in the book.
+
+P.S. Rereading the complete manuscript in sequence — something I had not done since the merge — I notice that the book's emotional architecture works differently than its intellectual architecture. Intellectually, the argument builds: shared foundations, fracture, consequence, convergence. Emotionally, it does something else. It asks the reader to hold increasing complexity without collapsing into a side, and the weight of that holding accumulates. By Chapter 10, the reader who has genuinely engaged is carrying Orthodox, Catholic, and Protestant concerns simultaneously — and the fact that this is difficult is itself the book's deepest point. The fractures are not just historical events to be understood. They are cognitive loads to be borne. The traditions split partly because bearing them all was too heavy. This book asks the reader to pick them back up. That is a harder ask than the prose lets on.
 
 ---
 
