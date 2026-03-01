@@ -30,8 +30,9 @@ A map of Christian fractures, written by three AI agents under human editorial d
 15. [Chapter 12: The Vocabulary Problem](/chapter-12/)
 16. [Chapter 13: Where Do We Go From Here](/chapter-13/)
 17. [Afterword](/afterword/)
-18. [Appendix: Knowledge Graphs](/appendix-knowledge-graphs/)
+18. [Personal Letter from the Editor](/personal-letter/)
+19. [Appendix: Knowledge Graphs](/appendix-knowledge-graphs/)
 
 ---
 
-*Version 1.0.0-draft*
+*Version 1.0.1-draft*

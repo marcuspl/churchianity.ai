@@ -32,6 +32,7 @@ CHAPTERS  := \
 	$(SRC)/12_Chapter_12.md \
 	$(SRC)/13_Chapter_13.md \
 	$(SRC)/14_Back_Matter.md \
+	$(SRC)/14A_Personal_Letter.md \
 	$(SRC)/appendix-d-knowledge-graphs.md
 
 # ── Chapter metadata for web (filename → order, title, slug) ──
@@ -53,7 +54,8 @@ define CHAPTER_META
 12_Chapter_12|15|Chapter 12: The Vocabulary Problem|chapter-12
 13_Chapter_13|16|Chapter 13: Where Do We Go From Here|chapter-13
 14_Back_Matter|17|Afterword|afterword
-appendix-d-knowledge-graphs|18|Appendix: Knowledge Graphs|appendix-knowledge-graphs
+14A_Personal_Letter|18|Personal Letter from the Editor|personal-letter
+appendix-d-knowledge-graphs|19|Appendix: Knowledge Graphs|appendix-knowledge-graphs
 endef
 export CHAPTER_META
 
@@ -161,18 +163,22 @@ $(OUTPUT)/churchianity-ai-v$(VERSION).pdf: $(CHAPTERS) $(LATEX)/template.tex $(L
 # ── Version Bumping ──
 bump-patch:
 	@current=$(VERSION); \
-	major=$$(echo $$current | cut -d. -f1); \
-	minor=$$(echo $$current | cut -d. -f2); \
-	patch=$$(echo $$current | cut -d. -f3); \
-	new="$$major.$$minor.$$((patch + 1))"; \
+	base=$$(echo $$current | sed 's/-.*//' ); \
+	suffix=$$(echo $$current | grep -o '\-.*' || true); \
+	major=$$(echo $$base | cut -d. -f1); \
+	minor=$$(echo $$base | cut -d. -f2); \
+	patch=$$(echo $$base | cut -d. -f3); \
+	new="$$major.$$minor.$$((patch + 1))$$suffix"; \
 	sed -i "s/version: \"$$current\"/version: \"$$new\"/" $(BUILD)/metadata.yaml; \
 	echo "Version bumped: $$current → $$new"
 
 bump-minor:
 	@current=$(VERSION); \
-	major=$$(echo $$current | cut -d. -f1); \
-	minor=$$(echo $$current | cut -d. -f2); \
-	new="$$major.$$((minor + 1)).0"; \
+	base=$$(echo $$current | sed 's/-.*//' ); \
+	suffix=$$(echo $$current | grep -o '\-.*' || true); \
+	major=$$(echo $$base | cut -d. -f1); \
+	minor=$$(echo $$base | cut -d. -f2); \
+	new="$$major.$$((minor + 1)).0$$suffix"; \
 	sed -i "s/version: \"$$current\"/version: \"$$new\"/" $(BUILD)/metadata.yaml; \
 	echo "Version bumped: $$current → $$new"
 
