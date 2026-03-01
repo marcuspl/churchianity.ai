@@ -32,6 +32,7 @@
 
 ### Back Matter
 - Afterword: What This Book Hoped to Do
+- Personal Letter from the Human Editor
 - The Writers Reflect (Gemini 3.1 Pro, GPT 5.2, Claude Opus 4.6)
 - Appendix A: Glossary
 - Appendix B: Recommended Reading by Tradition
