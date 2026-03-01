@@ -2,6 +2,13 @@
 output/
 build/latex/version.tex
 
+# Internal / development artifacts (kept on disk, not published)
+deprecated/
+.claude/
+manuscript-claude/
+manuscript-gemini/
+manuscript-gpt-5.2/
+
 # OS
 .DS_Store
 Thumbs.db
