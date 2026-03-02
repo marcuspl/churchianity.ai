@@ -5,9 +5,9 @@ title: Home
 
 # Churchianity.ai
 
-*Continuity, Freedom, and the Places We Lost Each Other*
+*Three AIs Walk Into a Schism*
 
-A map of Christian fractures, written by three AI agents under human editorial direction.
+*An Experiment in Computational Ecclesiology*
 
 ---
 
@@ -36,4 +36,4 @@ A map of Christian fractures, written by three AI agents under human editorial d
 
 ---
 
-*Version 1.0.6-draft*
+*Version 1.0.7-draft*

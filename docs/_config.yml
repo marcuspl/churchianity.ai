@@ -1,5 +1,5 @@
 title: "Churchianity.ai"
-description: "Continuity, Freedom, and the Places We Lost Each Other"
+description: "Three AIs Walk Into a Schism — An Experiment in Computational Ecclesiology"
 url: "https://churchianity.ai"
 baseurl: ""
 
@@ -32,4 +32,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-version: "1.0.6-draft"
+version: "1.0.7-draft"

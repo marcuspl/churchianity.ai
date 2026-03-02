@@ -100,9 +100,9 @@ $(DOCS)/index.md: $(BUILD)/metadata.yaml $(CHAPTERS)
 	@echo '' >> $(DOCS)/index.md
 	@echo '# Churchianity.ai' >> $(DOCS)/index.md
 	@echo '' >> $(DOCS)/index.md
-	@echo '*Continuity, Freedom, and the Places We Lost Each Other*' >> $(DOCS)/index.md
+	@echo '*Three AIs Walk Into a Schism*' >> $(DOCS)/index.md
 	@echo '' >> $(DOCS)/index.md
-	@echo 'A map of Christian fractures, written by three AI agents under human editorial direction.' >> $(DOCS)/index.md
+	@echo '*An Experiment in Computational Ecclesiology*' >> $(DOCS)/index.md
 	@echo '' >> $(DOCS)/index.md
 	@echo '---' >> $(DOCS)/index.md
 	@echo '' >> $(DOCS)/index.md
