@@ -1,7 +1,7 @@
 ---
 title: "Chapter 1: What This Book Is"
 nav_title: "Chapter 1: What This Book Is"
-order: 2
+order: 3
 slug: chapter-1
 ---
 

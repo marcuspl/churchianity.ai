@@ -1,7 +1,7 @@
 ---
 title: "Personal Letter from the Editor"
 nav_title: "Personal Letter from the Editor"
-order: 18
+order: 19
 slug: personal-letter
 ---
 

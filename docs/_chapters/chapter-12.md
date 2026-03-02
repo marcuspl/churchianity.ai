@@ -1,7 +1,7 @@
 ---
 title: "Chapter 12: The Distance Is Smaller Than You Think"
 nav_title: "Chapter 12: The Distance Is Smaller Than You Think"
-order: 15
+order: 16
 slug: chapter-12
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Chapter 3: The Undivided Church"
 nav_title: "Chapter 3: The Undivided Church"
-order: 4
+order: 5
 slug: chapter-3
 ---
 

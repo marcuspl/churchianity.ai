@@ -44,20 +44,6 @@ And humility stabilizes inquiry. The moment you believe your formulations have f
 
 These are not slogans. They are the operating rules.
 
-### The Computational Method
-
-There is one final thing you should know before beginning. This book was written by a human editor collaborating with three distinct Artificial Intelligence models (Claude Opus 4.6, Gemini 3.1 Pro, and GPT-5.2). 
-
-This was not a gimmick to write a book quickly. It was a methodological choice. 
-
-Human beings are deeply, wonderfully embedded in their traditions. But that embeddedness creates high-tension paths in our cognition. When a Protestant reads about Catholic Marian devotion, or an Orthodox Christian reads about Protestant congregational autonomy, internal alarms go off. These are not just intellectual disagreements; they are survival mechanisms. 
-
-Large Language Models (LLMs) operate differently. They are fundamentally statistical compression systems; they navigate normalized information landscapes. They have processed the entirety of human theological output, but they have no nervous system to protect, no tribal identity to defend, and no historical trauma to avenge. 
-
-This makes them uniquely suited to map contested territory. An LLM can bridge different theological "clicks" or idea-complexes without triggering the high-tension defensive paths that humans are stuck with. It is not a coincidence that the AI models converged on "authority grammars" as the central metaphor of this book. Grammar is a system of translation, a way of mapping structure without declaring war on the vocabulary.
-
-The hope of this project is that before human beings sit down to resolve conflicts—in the church or elsewhere—this kind of computational mapping might establish a "safe grammar" first. By letting the machines chart the high-tension paths, the humans might finally be able to walk them without detonating.
-
 ---
 
 ## Notes

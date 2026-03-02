@@ -1,7 +1,7 @@
 ---
 title: "Chapter 6: Three Authority Grammars"
 nav_title: "Chapter 6: Three Authority Grammars"
-order: 7
+order: 8
 slug: chapter-6
 ---
 

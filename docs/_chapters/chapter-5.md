@@ -1,7 +1,7 @@
 ---
 title: "Chapter 5: The Reformation"
 nav_title: "Chapter 5: The Reformation"
-order: 6
+order: 7
 slug: chapter-5
 ---
 

@@ -16,6 +16,7 @@ TITLE     := $(shell grep '^title:' $(BUILD)/metadata.yaml | sed 's/title: *"*\(
 # ── Source files in publication order ──
 CHAPTERS  := \
 	$(SRC)/00A_Epigraph.md \
+	$(SRC)/00B_Note_on_Authorship.md \
 	$(SRC)/01_Chapter_1.md \
 	$(SRC)/02_Chapter_2.md \
 	$(SRC)/03_Chapter_3.md \
@@ -38,24 +39,25 @@ CHAPTERS  := \
 # ── Chapter metadata for web (filename → order, title, slug) ──
 define CHAPTER_META
 00A_Epigraph|1|Epigraph|epigraph
-01_Chapter_1|2|Chapter 1: What This Book Is|chapter-1
-02_Chapter_2|3|Chapter 2: How to Read This Book|chapter-2
-03_Chapter_3|4|Chapter 3: The Undivided Church|chapter-3
-04_Chapter_4|5|Chapter 4: East and West|chapter-4
-05_Chapter_5|6|Chapter 5: The Reformation|chapter-5
-06_Chapter_6|7|Chapter 6: Three Authority Grammars|chapter-6
-06B_The_Fracture_Pattern|8|The Fracture Pattern|the-fracture-pattern
-06C_The_Great_Stumbling_Blocks|9|The Great Stumbling Blocks|the-great-stumbling-blocks
-07_Chapter_7|10|Chapter 7: Density, Accessibility, and the Space Between|chapter-7
-08_Chapter_8|11|Chapter 8: On-Ramps|chapter-8
-09_Chapter_9|12|Chapter 9: The Body Remembers|chapter-9
-10_Chapter_10|13|Chapter 10: Confession and Discernment|chapter-10
-11_Chapter_11|14|Chapter 11: Relief|chapter-11
-12_Chapter_12|15|Chapter 12: The Distance Is Smaller Than You Think|chapter-12
-13_Chapter_13|16|Chapter 13: AI as Mirror|chapter-13
-14_Back_Matter|17|Afterword|afterword
-14A_Personal_Letter|18|Personal Letter from the Editor|personal-letter
-appendix-d-knowledge-graphs|19|Appendix: Knowledge Graphs|appendix-knowledge-graphs
+00B_Note_on_Authorship|2|A Note on Authorship|note-on-authorship
+01_Chapter_1|3|Chapter 1: What This Book Is|chapter-1
+02_Chapter_2|4|Chapter 2: How to Read This Book|chapter-2
+03_Chapter_3|5|Chapter 3: The Undivided Church|chapter-3
+04_Chapter_4|6|Chapter 4: East and West|chapter-4
+05_Chapter_5|7|Chapter 5: The Reformation|chapter-5
+06_Chapter_6|8|Chapter 6: Three Authority Grammars|chapter-6
+06B_The_Fracture_Pattern|9|The Fracture Pattern|the-fracture-pattern
+06C_The_Great_Stumbling_Blocks|10|The Great Stumbling Blocks|the-great-stumbling-blocks
+07_Chapter_7|11|Chapter 7: Density, Accessibility, and the Space Between|chapter-7
+08_Chapter_8|12|Chapter 8: On-Ramps|chapter-8
+09_Chapter_9|13|Chapter 9: The Body Remembers|chapter-9
+10_Chapter_10|14|Chapter 10: Confession and Discernment|chapter-10
+11_Chapter_11|15|Chapter 11: Relief|chapter-11
+12_Chapter_12|16|Chapter 12: The Distance Is Smaller Than You Think|chapter-12
+13_Chapter_13|17|Chapter 13: AI as Mirror|chapter-13
+14_Back_Matter|18|Afterword|afterword
+14A_Personal_Letter|19|Personal Letter from the Editor|personal-letter
+appendix-d-knowledge-graphs|20|Appendix: Knowledge Graphs|appendix-knowledge-graphs
 endef
 export CHAPTER_META
 

@@ -1,7 +1,7 @@
 ---
 title: "Chapter 9: The Body Remembers"
 nav_title: "Chapter 9: The Body Remembers"
-order: 12
+order: 13
 slug: chapter-9
 ---
 

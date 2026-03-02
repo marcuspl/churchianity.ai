@@ -1,7 +1,7 @@
 ---
 title: "Chapter 7: Density, Accessibility, and the Space Between"
 nav_title: "Chapter 7: Density, Accessibility, and the Space Between"
-order: 10
+order: 11
 slug: chapter-7
 ---
 

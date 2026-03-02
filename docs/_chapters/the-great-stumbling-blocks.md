@@ -1,7 +1,7 @@
 ---
 title: "The Great Stumbling Blocks"
 nav_title: "The Great Stumbling Blocks"
-order: 9
+order: 10
 slug: the-great-stumbling-blocks
 ---
 

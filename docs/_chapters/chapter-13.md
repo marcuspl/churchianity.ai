@@ -1,7 +1,7 @@
 ---
 title: "Chapter 13: AI as Mirror"
 nav_title: "Chapter 13: AI as Mirror"
-order: 16
+order: 17
 slug: chapter-13
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Chapter 10: Confession and Discernment"
 nav_title: "Chapter 10: Confession and Discernment"
-order: 13
+order: 14
 slug: chapter-10
 ---
 

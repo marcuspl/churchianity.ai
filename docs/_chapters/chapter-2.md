@@ -1,7 +1,7 @@
 ---
 title: "Chapter 2: How to Read This Book"
 nav_title: "Chapter 2: How to Read This Book"
-order: 3
+order: 4
 slug: chapter-2
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Appendix: Knowledge Graphs"
 nav_title: "Appendix: Knowledge Graphs"
-order: 19
+order: 20
 slug: appendix-knowledge-graphs
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Chapter 4: East and West"
 nav_title: "Chapter 4: East and West"
-order: 5
+order: 6
 slug: chapter-4
 ---
 

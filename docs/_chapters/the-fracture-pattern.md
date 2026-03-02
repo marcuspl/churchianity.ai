@@ -1,7 +1,7 @@
 ---
 title: "The Fracture Pattern"
 nav_title: "The Fracture Pattern"
-order: 8
+order: 9
 slug: the-fracture-pattern
 ---
 
