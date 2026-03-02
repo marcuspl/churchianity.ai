@@ -6,7 +6,7 @@ First, a slow drift. Languages diverge. Cultures develop different instincts. In
 
 Second, a flashpoint. Something crystallizes the drift into a visible rupture. The mutual excommunications of 1054. Luther's theses in 1517. The Marburg Colloquy in 1529. The flashpoint is rarely the *cause* of the split; it is the moment when the accumulated drift becomes undeniable. The flashpoint gets the date in the history book, but the process was already underway.
 
-Third, post-hoc rationalization. After the rupture, both sides construct narratives that make the split seem more principled and more inevitable than it was. The theological arguments harden. The self-understandings calcify. What was a slow, messy, politically entangled process gets retroactively cleaned up into a story about doctrinal purity or heroic reform.
+Third, post-hoc narrative hardening. After the rupture, both sides construct narratives that make the split seem more principled and more inevitable than it was — not necessarily in bad faith, but because the need for coherent self-understanding is powerful. The theological arguments harden. The self-understandings calcify. What was a slow, messy, politically entangled process gets retroactively cleaned up into a story about doctrinal purity or heroic reform.
 
 Fourth, centuries of mutual non-communication. The hardening is complete. Each side develops its own internal vocabulary, its own heroes, its own grievances. The other side becomes a caricature. Generations grow up inside the separation without ever encountering the other tradition in its own voice.
 

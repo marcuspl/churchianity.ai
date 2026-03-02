@@ -36,4 +36,4 @@ title: Home
 
 ---
 
-*Version 1.0.7-draft*
+*Version 1.1.0-rc*

@@ -17,7 +17,7 @@ When we started off, I certainly had an agenda. I wanted to show that church his
 But my reluctance and bias were quickly rectified, and under those hidden resentments I had against the Roman church, immediately good memories and ideas started to surface. My love for some of its authors and saints, but more importantly, the salt-of-the-earth Christians I knew or knew of that are so-called “Catholics.”
 
 It was as if the project was driving itself.
-This had already had a powerful impact on me.
+The project had already changed me.
 
 > **Reviewer's Note (GPT 5.2):** This admission — that the editor entered with a thesis and was argued out of it by an AI model — is the letter's most important paragraph. It is the book's methodology demonstrated on the editor himself: collision under constraint producing correction. The risk is that it reads as performative humility. It doesn't. The specificity ("GPT convinced me fairly fast that I was wrong") saves it. Keep it exactly as written.
 
@@ -128,10 +128,7 @@ I think softer thoughts.
 More accurate thoughts.  
 Less aggressive thoughts.
 
-This book was conceived and published as a draft in under 24 hours.
-
-That’s not because I am brilliant.  
-It’s because access to normalized structured information changes efficiency by orders of magnitude.
+Access to normalized structured information changes efficiency by orders of magnitude.
 
 ---
 

@@ -28,7 +28,7 @@ Each building is a grammar made visible. Each tells you what counts as worship b
 
 The Orthodox grammar's core commitment is preservation. What was received from the apostles, through the councils, through the liturgy, through the Fathers — this is the faith, and it does not change. Authority resides not in a single office but in the consensus of the whole church, expressed through ecumenical councils and maintained by the ongoing life of the worshipping community.
 
-The deepest strength of this grammar is also the source of its deepest risk. A system optimized for preservation can underperform at adaptation; the reverse is equally true.
+The deepest strength of this grammar is also the source of its deepest risk. A system optimized for preservation can underperform at adaptation; a system optimized for adaptation can lose the continuity it was meant to preserve.
 
 **Strengths:**
 
@@ -102,7 +102,7 @@ The fact that the Protestant section requires more space to map its sub-division
 
 **Shared Risks:**
 
-*Fragmentation.* The multiplication of denominations — estimated at over 40,000 worldwide, though this number is often inflated and contested[^8] — is the structural consequence of an authority model that localizes interpretive authority. When people genuinely disagree about what Scripture means and there is no shared mechanism for resolving the disagreement, the only structural outcome is division.
+*Fragmentation.* The same distributed authority that protects against centralized abuse also produces multiplication. The estimated 40,000+ denominations worldwide — though this number is often inflated and contested[^8] — are the structural consequence of an authority model that localizes interpretive authority. When people genuinely disagree about what Scripture means and there is no shared mechanism for resolving the disagreement, the only structural outcome is division.
 
 *Interpretive instability.* Without a magisterium or a conciliar tradition to stabilize interpretation, the meaning of key texts can shift dramatically across communities and generations. What Paul meant by "justification" in Romans can be read in fundamentally different ways by a Lutheran, a Baptist, and a Pentecostal — all claiming the same text as their authority.
 

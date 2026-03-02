@@ -24,13 +24,11 @@ Second, it compares the three major "authority grammars" — the different rule-
 
 Third, it offers practical on-ramps for mutual enrichment — specific practices, readings, and experiences drawn from other traditions that can address the structural gaps in your own. These are not arguments for conversion. They are invitations to breadth.
 
-The intended emotional result is relief, freedom, and curiosity — not polemic, panic, or performative certainty. If you finish this book feeling corrected, cornered, humiliated, or pressured, it has failed. If you finish it feeling more informed, more generous, and less reactive — whether you stayed put, explored, or decided exploration is not for you — it has done what it set out to do.
+The intended emotional result is relief, freedom, and curiosity. If you finish this book feeling corrected, cornered, or pressured, it has failed. If you finish it feeling more informed, more generous, and less reactive — whether you stayed put, explored, or decided exploration is not for you — it has done what it set out to do.
 
 ### What This Book Is Not
 
-It matters to say what this book is not, because readers carry understandable fear around ecumenical talk. This is not a conversion tract. It is not an attempt to recruit you out of your home. It is not a personal testimony, a civilizational takedown, or a defense brief for one tradition. And it is not a final adjudication of debates that faithful people have argued over with real seriousness for centuries.
-
-If you finish this book more informed and less reactive, it has succeeded — whether you stayed put, explored, or decided exploration is not for you.
+It matters to say what this book is not, because readers carry understandable fear around ecumenical talk. This is not a conversion tract, a civilizational takedown, or a defense brief for one tradition. And it is not a final adjudication of debates that faithful people have argued over with real seriousness for centuries.
 
 ### Three Assumptions
 
@@ -42,7 +40,7 @@ Exposure refines what is weak. Naming a structural risk is not an attack; it is 
 
 And humility stabilizes inquiry. The moment you believe your formulations have fully captured the divine mystery, you have stopped doing theology and started doing ideology. The apophatic tradition — the insistence that God exceeds all our categories — is not one tradition's specialty. It is every tradition's safety valve, and this book relies on it throughout.
 
-These are not slogans. They are the operating rules.
+With these rules established, we can look at the landscape we inherited.
 
 ---
 
