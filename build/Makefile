@@ -34,7 +34,8 @@ CHAPTERS  := \
 	$(SRC)/13_Chapter_13.md \
 	$(SRC)/14_Back_Matter.md \
 	$(SRC)/14A_Personal_Letter.md \
-	$(SRC)/appendix-d-knowledge-graphs.md
+	$(SRC)/appendix-d-knowledge-graphs.md \
+	$(SRC)/appendix-e-editorial-notes.md
 
 # ── Chapter metadata for web (filename → order, title, slug) ──
 define CHAPTER_META
@@ -58,6 +59,7 @@ define CHAPTER_META
 14_Back_Matter|18|Afterword|afterword
 14A_Personal_Letter|19|Personal Letter from the Editor|personal-letter
 appendix-d-knowledge-graphs|20|Appendix: Knowledge Graphs|appendix-knowledge-graphs
+appendix-e-editorial-notes|21|Appendix: Editorial Process Notes|appendix-editorial-notes
 endef
 export CHAPTER_META
 

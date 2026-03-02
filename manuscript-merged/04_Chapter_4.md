@@ -107,5 +107,3 @@ Was the schism primarily theological, political, or cultural — and can these b
 [^13]: The pentarchy is a useful shorthand, but the lived reality was messier: rivalries among sees, shifting imperial influence, and uneven reception across regions complicate any simple "five patriarchs governing peacefully" picture. *(GPT 5.2)*
 
 [^14]: The claim is about structural pressure, not historical fate. Charlemagne's coronation made rupture more probable and reconciliation harder; it did not make them certain. *(GPT 5.2)*
-
-> **Editorial Note:** The "imagined scene" opening of this chapter draws on a narrative device originated in the GPT 5.2 track. The Three-Layer Model (theology, governance, memory) was originated by GPT 5.2 and refined with structural language from the Gemini 3.1 Pro track. The Runciman and Phillips references were added from the GPT 5.2 bibliography.

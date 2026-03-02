@@ -195,5 +195,3 @@ No tradition is exempt. The argument is not "your system failed worse." The argu
 [^14]: Pew Research Center, "Global Christianity: A Report on the Size and Distribution of the World's Christian Population" (December 2011), documented that by 2010 the majority of the world's Christians lived in the Global South. Updated figures in Todd M. Johnson and Gina A. Zurlo, eds., *World Christian Encyclopedia*, 3rd ed. (Edinburgh: Edinburgh University Press, 2020), confirm and extend this trend.
 
 [^13]: In the conventional "seven ecumenical councils" list, the last is Nicaea II (787). This does not mean Orthodoxy has had no councils, doctrinal development, or authoritative synods since then; it means later councils have not been received as "ecumenical" in the same universal way. *(GPT 5.2)*
-
-> **Editorial Note:** The "buildings as theology" passage (iconostasis, nave, pulpit, auditorium) draws on the Gemini 3.1 Pro track's architectural analysis. The steel-man self-test paragraph originated in the GPT 5.2 track. Translation phrases were adapted from GPT 5.2's phrasebook into prose form.

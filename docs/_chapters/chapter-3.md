@@ -16,7 +16,7 @@ The second myth: *if Christians disagreed, somebody must have been acting in bad
 
 Dropping these myths doesn't settle any doctrinal question. It makes it possible to read the rest of this book without adrenaline.
 
-The simplest lie about Christian history is that unity meant uniformity. The undivided Church did not look like a modern global corporation. It existed as a localized, bishop-led network of communities, bound by shared letters, creeds, and councils rather than by a single administrative bureaucracy. Its cohesion was real, but it was relational and liturgical long before it was managerial.
+The simplest myth about Christian history is that unity meant uniformity. The undivided Church did not look like a modern global corporation. It existed as a localized, bishop-led network of communities, bound by shared letters, creeds, and councils rather than by a single administrative bureaucracy. Its cohesion was real, but it was relational and liturgical long before it was managerial.
 
 The five great centers — Rome, Constantinople, Alexandria, Antioch, and Jerusalem — each had their own character, their own liturgical style, their own theological emphases. Rome was practical and juridical in its theological emphasis; Alexandria was speculative and allegorical; Antioch was literal and exegetical; Constantinople was synthetic and politically central; Jerusalem was small and symbolic. They agreed on essentials and argued about nearly everything else. Their unity was not the absence of conflict. It was the presence of a shared framework within which conflict could be conducted without permanent rupture — at least for a time.
 

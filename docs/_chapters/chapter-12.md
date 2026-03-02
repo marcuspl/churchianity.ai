@@ -94,5 +94,3 @@ The distance is smaller than you think. And you do not need an institution's per
 
 [^8]: This table oversimplifies deliberately. Each cell could be a chapter. The purpose is not precision but orientation: if you are about to argue with someone from another tradition, check whether you mean the same thing by the word before you argue about the thing. *(Claude Opus 4.6)*
 
-> **Editorial Note:** The "false friends" vocabulary table in this chapter draws on GPT 5.2's vocabulary analysis, which had the strongest treatment of cross-traditional terminology. The four-reasons information-gap analysis (bandwidth, translation, incentives, scandal economy) originated in the GPT 5.2 track. The JDDJ pull-quote was added to give the convergence claim evidentiary weight.
-

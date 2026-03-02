@@ -33,6 +33,7 @@ title: Home
 18. [Afterword](/afterword/)
 19. [Personal Letter from the Editor](/personal-letter/)
 20. [Appendix: Knowledge Graphs](/appendix-knowledge-graphs/)
+21. [Appendix: Editorial Process Notes](/appendix-editorial-notes/)
 
 ---
 
