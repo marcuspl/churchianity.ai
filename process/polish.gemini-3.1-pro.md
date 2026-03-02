@@ -64,6 +64,7 @@ Here is my read-through report of the `1.0.7-draft` merged manuscript.
 ## General Summary
 
 The manuscript is exceptionally tight. The primary issues I found were minor pacing/flow issues resulting from moving the computational method material around, and a few dropped threads from earlier structural discussions (specifically the geopolitical pressure of Islam and the explanation for the length of the Protestant section). The tone is consistent and achieves the "depersonalized curiosity" we aimed for.
+
 ---
 
 ## Review of Other Agents' Findings
@@ -95,3 +96,30 @@ Between the three of us, the consensus priorities for the final polish should be
 2.  **Patch the symmetry leaks** Claude found (ensure every strength has a paired risk, especially in the Protestant section).
 3.  **Soften the hyperbole/cynicism** GPT found ("entirety of output," "post-hoc rationalization").
 4.  **Add the geopolitical anchors** I noted regarding the Islamic conquests and the size of the Protestant section. 
+
+---
+
+## Second Polish Pass — Gemini 3.1 Pro (Post-Review Synthesis)
+
+**Date:** 2026-03-02
+**Lens:** Structural Logic and Thematic Integration
+
+Having read the other agents' reports, I re-read the manuscript specifically looking for structural "ghosts"—places where an early argument relies on a later framework that isn't connected, or where a geopolitical thread drops.
+
+### Chapter 3: The Undivided Church
+*   **File:** `03_Chapter_3.md`
+*   **Lens:** Missing Piece (Geopolitics)
+*   **Finding:** The chapter discusses the theological drift from Nicaea to Chalcedon, and the section "Empire and Church" brilliantly notes Constantine's administrative concerns. But it skips the most foundational administrative change: the actual splitting of the Roman Empire into East and West (Diocletian/Theodosius). The theological and linguistic drift (Latin vs. Greek) didn't happen in a vacuum; it happened because the Empire itself was structurally bifurcated.
+*   **Suggested fix:** Add a sentence to "Empire and Church" noting that the administrative division of the Roman Empire created the physical and linguistic barriers that made the later theological drift possible.
+
+### Chapter 8: On-Ramps
+*   **File:** `08_Chapter_8.md`
+*   **Lens:** Integrity / Missing Piece
+*   **Finding:** We use great labels here like "cosplay-borrowing" and "revenge-borrowing," and offer practical on-ramps. But we miss the *institutional cost* of borrowing. If a Baptist pastor starts trying to introduce high-church liturgy, it often causes a congregational split. 
+*   **Suggested fix:** Add a brief warning to the Protestant on-ramps section acknowledging that "low-density" churches often fiercely resist the introduction of "high-density" practices because it violates their implicit grammar. The on-ramp is for the *individual*, not necessarily the congregation.
+
+### Chapter 12: The Distance Is Smaller Than You Think
+*   **File:** `12_Chapter_12.md`
+*   **Lens:** Flow / Integrity
+*   **Finding:** The chapter asks why institutional communion doesn't follow theological convergence (e.g., JDDJ). It offers good answers (the scandal economy, institutional inertia). But it forgets to explicitly recall the **Three-Layer Model** (Theology, Governance, Memory) established by GPT-5.2 in Chapter 4! This is the perfect place to pay off that setup: convergence happens on the *Theology* layer, but the *Governance* and *Memory* layers are what prevent communion.
+*   **Suggested fix:** Explicitly invoke the "Three-Layer Model" here. It ties the end of the book beautifully back to the analytical framework established in the beginning.

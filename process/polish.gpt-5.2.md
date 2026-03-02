@@ -271,4 +271,54 @@ I’m marking each item as **Good** (agree / worth action), **Mixed** (partly ag
 - **Missing emotional safety acknowledgments** — **Mixed.** The manuscript has strong safety language (esp. Ch 9); a few more micro-acknowledgements could still help.
 - **Reviewer notes as scaffolding** — **Bad as a universal claim.** The manuscript’s transparency mechanism is intentional; “scaffolding left in” is only a problem if readers weren’t told to expect it.
 
+---
+
+## Second Full Read Addendum (2026-03-02)
+
+Only deltas/newly-salient items from this additional full read.
+
+## Chapter 6 (`06_Chapter_6.md`)
+
+### `06_Chapter_6.md` — “cover-ups reaching the highest levels” scope risk
+- **File/location:** `06_Chapter_6.md` — Catholic risks → sex abuse crisis paragraph (“*cover-ups reaching the highest levels*”).
+- **Lens:** Integrity / Tone
+- **Finding:** The sentence is plausible, but “highest levels” reads global and totalizing. Some readers will hear it as a sweeping claim beyond what the chapter’s citation (John Jay 2004, US scope) directly supports.
+- **Suggested fix:** Narrow the scope in prose (e.g., “including at senior leadership levels in some cases”) or add a clarifying footnote that the point is about *systemic* failure mechanisms, with the cited report covering the U.S. study window.
+
+### `06_Chapter_6.md` — Global South / “majority no longer live in the West” could take a citation
+- **File/location:** `06_Chapter_6.md` — “The Grammars Beyond the West” (“*the majority of the world's Christians no longer live in the West*”).
+- **Lens:** Integrity
+- **Finding:** This is likely true and widely reported, but it’s the kind of demographic claim skeptics may ask for.
+- **Suggested fix:** Add a short citation (e.g., WCE 2020 / Pew) or soften (“a growing majority / an increasing share…”).
+
+## Chapter 9 (`09_Chapter_9.md`)
+
+### `09_Chapter_9.md` — “agree about what the body should do” overstates
+- **File/location:** `09_Chapter_9.md` opening (“*they agree… about what the body should do*”).
+- **Lens:** Integrity / Symmetry
+- **Finding:** The claim is rhetorically strong but too clean; traditions diverge materially on some practices even if they share “body participates” as an instinct.
+- **Suggested fix:** Tighten to “they agree the body participates in worship” / “they converge on the body as instrument” (preserving the move without inviting an easy factual objection).
+
+### `09_Chapter_9.md` — a couple more “bio certainty” phrases could be hedged
+- **File/location:** `09_Chapter_9.md` — Chant (“*naturally stimulates the vagus nerve*”); Incense (“*with minimal involvement of the prefrontal cortex*”).
+- **Lens:** Integrity
+- **Finding:** The chapter’s overall posture is good, but these two phrases read like mechanisms are settled and direct.
+- **Suggested fix:** Simple hedge language (“can,” “is associated with,” “more directly,” “less mediated by conscious appraisal”) to match the chapter’s “suggestive correlations” frame.
+
+## Chapter 12 (`12_Chapter_12.md`)
+
+### `12_Chapter_12.md` — “not because the information is hidden” still reads a bit absolute
+- **File/location:** `12_Chapter_12.md` opening.
+- **Lens:** Tone / Integrity
+- **Finding:** Even if intended, it can sound like “the laity are just lazy,” and it’s also not universally true (some information really is hard to access or institutionally de-emphasized).
+- **Suggested fix:** Small hedge (“not usually hidden,” “not intentionally hidden,” “not broadly distributed”) to preserve the point without the absolutism.
+
+## Chapter 13 (`13_Chapter_13.md`)
+
+### `13_Chapter_13.md` — verify the “agent personality” descriptors as editorial claims
+- **File/location:** `13_Chapter_13.md` — “One ran warm and fast… One ran methodical… One ran analytical and dry…”.
+- **Lens:** Integrity / Transparency
+- **Finding:** This is fine as a narrative device, but it’s also a quasi-empirical description of model behavior; if a reader asks “based on what?”, the book should be comfortable answering.
+- **Suggested fix:** Optional: a half-sentence grounding (“in our independent drafts, the editor observed…”) or move the most specific claims into an editorial note.
+
 

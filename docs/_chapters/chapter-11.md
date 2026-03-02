@@ -26,7 +26,7 @@ Relief is what happens when you realize that the weight you were carrying was no
 
 You can hold your convictions and release your contempt. Those are not the same thing, even though centuries of polemics have trained us to confuse them.
 
-A qualification: relief does not answer every situation. When the encounter is with a tradition acting in bad faith — when the other side is not merely different but actively coercive, manipulative, or abusive — the appropriate response is not generosity but discernment, and sometimes self-protection. The relief this chapter describes presupposes a baseline of good faith on both sides. Where that baseline is absent, different tools are needed.
+But relief has a boundary. When the encounter is with a tradition acting in bad faith — when the other side is not merely different but actively coercive, manipulative, or abusive — the appropriate response is not generosity but discernment, and sometimes self-protection. The relief this chapter describes presupposes a baseline of good faith on both sides. Where that baseline is absent, different tools are needed.
 
 ### What Changes When You See This
 

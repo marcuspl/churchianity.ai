@@ -6,6 +6,8 @@ slug: chapter-12
 ---
 
 
+On October 31, 1999, in Augsburg, Germany — the city of the 1530 confession, on the anniversary of Luther's theses — a Lutheran bishop and a Catholic cardinal signed a joint declaration affirming that the two traditions share a common understanding of justification by grace through faith. The issue that split Western Christianity. Cameras clicked. Theologians embraced. The next morning, in ten thousand parishes on both sides, nothing changed. The same separate altars, the same separate congregations, the same Christians who had never heard of the document and would not have known what to do with it if they had.
+
 Most laypeople do not know what has already happened in ecumenical dialogue. This is not because the information is hidden. It is because the information lives in a world that ordinary believers never encounter — joint commissions, bilateral statements, theological journals, Vatican dicasteries, and patriarchal encyclicals. The parish priest doesn't mention it in his homily because it isn't his job. The Sunday school curriculum doesn't cover it because it's too technical. The result is a structurally produced information gap: laypeople carry hostilities that their own theologians have already partially resolved.
 
 What follows is some of what the official dialogues have produced. It is not exhaustive. It is enough to change the emotional landscape for any reader who encounters it for the first time.
@@ -20,6 +22,7 @@ But before the dialogues themselves, one practical tool is worth having in hand.
 | **Sacrament** | An ordinance commanded by Christ, witnessed in community | A divine act mediated through matter — grace conveyed through physical signs | Mystery (*mysterion*) — the uncreated grace of God encountered through material means |
 | **Church** | The people of God gathered around the gospel | A visible communion with sacramental life and apostolic continuity | The one, holy Body of Christ, continuous and undivided since Pentecost |
 | **Worship** | Direct praise and proclamation centered on intelligibility and response | A received form that trains reverence through repetition and sacramental encounter | The earthly participation in the heavenly liturgy — cosmic, not merely congregational |
+| **Development** | Return to sources: correction of drift from the original | Organic growth under the Spirit's guidance, with the Magisterium as arbiter | Innovation beyond what was received; suspect unless it restores, not adds |
 
 This is the kind of page a reader photographs and texts to a friend. It will not resolve the disputes. It will prevent you from arguing about a word when you mean different things by it — which is where roughly half of all inter-traditional hostility begins.[^8]
 

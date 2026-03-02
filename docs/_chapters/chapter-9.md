@@ -8,7 +8,7 @@ slug: chapter-9
 
 This chapter makes a deliberate shift — from historical analysis to the body. The shift is abrupt, but it is not a genre problem. It is the genre asserting itself. Christianity's central claim is that God became a body. A book about Christian tradition that stayed entirely in the head would be less honest to the tradition, not more. You discuss Trinitarian theology, then you pray by eating bread. You chant ancient Greek, then you prostrate on a stone floor. The lofty and the material are not opposed; they are fused. That is the Incarnation.
 
-And here is the surprising thing: the traditions disagree about who has doctrinal authority — pope, council, Scripture — but they agree, more than they know, about what the body should *do*. Kneel, chant, eat, fast, prostrate, cross, weep, be silent. The bodily practices predate the theological formulations and will outlast them. Practice is a form of knowledge.
+And here is the surprising thing: the traditions disagree about who has doctrinal authority — pope, council, Scripture — but they agree, more than they know, that the body participates in prayer. Kneel, chant, eat, fast, prostrate, cross, weep, be silent. The bodily practices predate the theological formulations and will outlast them. Practice is a form of knowledge.
 
 A note on method: where the sections below mention neurophysiology — vagus nerve stimulation, frontal lobe activity — these are offered as *suggestive correlations*, not as the authority-ground of prayer. The theological claim is primary: the Incarnation, the body's participation, the Christian insistence that matter matters. The biology is an adjacent explanatory layer. It should not read as "science proves devotion."
 

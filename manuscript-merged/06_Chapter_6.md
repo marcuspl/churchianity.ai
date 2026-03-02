@@ -14,7 +14,7 @@ Before you critique another tradition, test yourself: can you state their positi
 
 One way to practice this: translate. When a Protestant says "the Church," they usually mean the gathered people of God. When a Catholic or Orthodox Christian says "the Church," they usually mean a visible, sacramental communion with institutional continuity. Neither is lying. They are speaking different grammars. When a Catholic says "tradition," they mean the received life of the church — worship, councils, the Fathers. When a Baptist hears "tradition," they hear "human additions that obscure Scripture." Same word, different dictionary. Learning to hear the other grammar's dictionary is not capitulation. It is literacy.
 
-You can see these grammars in stone. Walk into an Orthodox church: the iconostasis — the icon screen separating nave from altar — frames worship as participation in the heavenly liturgy. The dome overhead represents heaven descending. You stand, you move, you are immersed. Walk into a Catholic church: the linear nave draws the eye forward toward the tabernacle. The soaring spire lifts the soul upward. Grace flows from the altar outward. Walk into a Reformed church: the pulpit stands at the center, often elevated, massive, built of dark wood. The altar is minimized or absent. Clear glass replaces stained glass. The acoustics are optimized for speech, not chant. "The Word of God is central" — and the building says so. Walk into a Pentecostal church: the auditorium. No altar, often no pulpit — a stage. Production lighting. The space is functional, adaptable, optimized for immediacy. The building says: the Spirit moves here, now, in this room.
+You can see these grammars in stone. Walk into an Orthodox church: the iconostasis — the icon screen separating nave from altar — frames worship as participation in the heavenly liturgy. The dome overhead represents heaven descending. You stand, you move, you are immersed. Walk into a Catholic church: the linear nave draws the eye forward toward the tabernacle. The soaring spire lifts the soul upward. Grace flows from the altar outward. Walk into a Reformed church: the pulpit stands at the center, often elevated, massive, built of dark wood. The altar is minimized or absent. Clear glass replaces stained glass. The acoustics are optimized for speech, not chant. "The Word of God is central" — and the building says so. Walk into a Pentecostal church: the auditorium. No altar, often no pulpit — a stage. Production lighting. The space is functional, adaptable, optimized for immediacy. The building says: the Spirit moves here, now, in this room. In much of the Global South, the Pentecostal space is simpler — a rented hall, a tent, a room in someone's house — but the principle is the same: the space serves immediacy rather than inheritance.
 
 Each building is a grammar made visible. Each tells you what counts as worship before a word is spoken.
 
@@ -22,7 +22,7 @@ Each building is a grammar made visible. Each tells you what counts as worship b
 
 The Orthodox grammar's core commitment is preservation. What was received from the apostles, through the councils, through the liturgy, through the Fathers — this is the faith, and it does not change. Authority resides not in a single office but in the consensus of the whole church, expressed through ecumenical councils and maintained by the ongoing life of the worshipping community.
 
-The deepest strength of this grammar is also the source of its deepest risk. A system optimized for preservation can underperform at adaptation; a system optimized for adaptation can lose the continuity it was meant to preserve.
+The deepest strength of this grammar is also the source of its deepest risk. A system optimized for preservation can struggle to adapt; a system optimized for adaptation can lose the continuity it was meant to preserve.
 
 **Strengths:**
 
@@ -144,7 +144,7 @@ In Latin America, the Catholic grammar that dominated for five centuries is bein
 
 In China, the house church movement operates entirely outside the three Western grammars, producing communities that are simultaneously Evangelical in theology, communal in structure, and shaped by the specific pressures of operating under a state that alternately tolerates and persecutes them.
 
-The point is not that this book's framework is wrong. It is that the framework was forged in Western history, and the majority of the world's Christians no longer live in the West. A complete map would require another book — or several. What this book offers is the Western story told honestly, with the acknowledgment that the story is larger than the West, and that the grammars are being remixed in the Global South in ways that may eventually reshape the traditions themselves.
+The point is not that this book's framework is wrong. It is that the framework was forged in Western history, and the majority of the world's Christians no longer live in the West. A complete map would require another book — or several. What this book offers is the Western story told honestly, with the acknowledgment that the story is larger than the West, and that the grammars are being remixed in the Global South in ways that may eventually reshape the traditions themselves.[^14]
 
 ### The Failure of Protection Systems
 
@@ -185,6 +185,8 @@ No tradition is exempt. The argument is not "your system failed worse." The argu
 [^11]: John Jay College of Criminal Justice, *The Nature and Scope of Sexual Abuse of Minors by Catholic Priests and Deacons in the United States 1950–2002* (Washington, DC: United States Conference of Catholic Bishops, 2004). The report documented allegations against 4,392 priests involving 10,667 individuals.
 
 [^12]: The metaphor borrows loosely from Wittgenstein's concept of "language-games" and from George Lindbeck's "cultural-linguistic" model of doctrine (*The Nature of Doctrine*, 1984). Both suggest that theological claims function not as isolated propositions but as moves within a system — and that the system shapes what the moves mean. *(Claude Opus 4.6)*
+
+[^14]: Pew Research Center, "Global Christianity: A Report on the Size and Distribution of the World's Christian Population" (December 2011), documented that by 2010 the majority of the world's Christians lived in the Global South. Updated figures in Todd M. Johnson and Gina A. Zurlo, eds., *World Christian Encyclopedia*, 3rd ed. (Edinburgh: Edinburgh University Press, 2020), confirm and extend this trend.
 
 [^13]: In the conventional "seven ecumenical councils" list, the last is Nicaea II (787). This does not mean Orthodoxy has had no councils, doctrinal development, or authoritative synods since then; it means later councils have not been received as "ecumenical" in the same universal way. *(GPT 5.2)*
 
