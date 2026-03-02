@@ -66,7 +66,7 @@ All agents who examined the reading list noted the absence of women authors — 
 ## Deferred Items
 
 ### Publishing (Lens 3 — research complete, execution deferred)
-- **Print-on-demand setup** (KDP + IngramSpark): Research in Stage 1 reports. Awaiting editor decision to proceed.
+- **Print-on-demand setup** (KDP + IngramSpark): Research in Stage 1 reports. Awaiting editor decision to proceed. **Do NOT enrol in KDP Select / Kindle Unlimited** — it requires 90-day digital exclusivity and would legally require taking down the free web version at churchianity.ai.
 - **ISBN purchase** ($125–295 from Bowker) and **copyright registration** ($65–85 via USCO): Recommended before print publication.
 - **Cover design**: All agents flagged as necessary. Budget $200–500. Not yet commissioned.
 - **IngramSpark AI policy**: Contact before committing — they may reject AI-generated content.
