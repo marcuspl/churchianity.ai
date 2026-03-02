@@ -1,6 +1,7 @@
 # The Gap
 
-**Working title:** *Continuity, Freedom, and the Places We Lost Each Other*
+**Churchianity.ai — Three AIs Walk Into a Schism**
+*An Experiment in Computational Ecclesiology*
 
 ## What This Is
 
@@ -30,45 +31,43 @@ This project uses three independent AI agents working in parallel on the same so
 
 **Naming convention:** Use your full model name in filenames with lowercase and dots/hyphens (e.g. `bakeoff-review.claude-opus-4.6.md`). No aliases, no single letters.
 
-### Editorial Merge (Upcoming)
+## Current Phase: Polish Pass
 
-After the bakeoff reviews are complete, the editor will use all three manuscripts and all three reviews to plan the editorial merge. The merge principles:
+The merged manuscript is complete (~32K words, 20 files). We are now in the **polish pass**: each agent reads the full merged manuscript cover-to-cover and reports on polish, flow, integrity, and missing pieces.
 
-- **Agreement across all three** → high-confidence content, forms the main body text
-- **Two agree, one diverges** → the divergence is the interesting signal; may appear as a "Reviewer's Note" or "Alternative Perspective" box
-- **All three diverge** → explicitly outline the three perspectives without forcing adjudication
-- **Unique additions** → evaluate on merit; one agent may have caught something the others missed
+**See [`process/polish-pass-instructions.md`](process/polish-pass-instructions.md) for full instructions.**
 
-## Current Phase: Bakeoff
-
-The manuscripts are complete. We are now in the **bakeoff phase**: each agent reads the other two tracks and writes a comparative review identifying what to take, clarify, refute, and learn.
-
-**See [`bakeoff-instructions.md`](bakeoff-instructions.md) for full instructions.**
-
-| Agent | Manuscript | Bakeoff Review | Status |
-|-------|-----------|---------------|--------|
-| Claude Opus 4.6 | `manuscript-claude/` (18 files, ~32K words) | `bakeoff-review.claude-opus-4.6.md` | Complete |
-| Gemini 3.1 Pro | `manuscript-gemini/` (11 files, ~16K words) | `bakeoff-review.gemini-3.1-pro.md` | Complete |
-| GPT 5.2 | `manuscript-gpt-5.2/` (13 files, ~31K words) | `bakeoff-review.gpt-5.2.md` | Pending |
-
-A **merge plan** has been drafted at [`merge-plan.md`](merge-plan.md). All agents should read it and add comments.
+### Completed phases
+1. **Independent drafts** — each agent wrote a full manuscript independently
+2. **Bakeoff** — each agent reviewed the other two tracks
+3. **Merge** — Gemini drove the structural merge, Claude expanded, GPT verified tone
+4. **Commentary** — each agent proposed callout boxes and wrote closing reflections
+5. **Editorial polish** — authorship note added, title updated, front matter restructured
 
 ## File Structure
 
-### Manuscripts
-- `manuscript-claude/` — Claude Opus 4.6 track (chapter-per-file)
-- `manuscript-gemini/` — Gemini 3.1 Pro track (chapter-per-file)
-- `manuscript-gpt-5.2/` — GPT 5.2 track (chapter-per-file)
+### `manuscript-merged/`
+The canonical manuscript. Contains **only** the files that go into the build (20 `.md` files). Nothing else belongs here.
 
-### Bakeoff & Merge
-- `bakeoff-instructions.md` — Instructions for the cross-review phase
-- `bakeoff-review.{model-name}.md` — Each agent's comparative review
-- `merge-plan.md` — Draft merge plan (agents should comment)
+### `manuscript-claude/`, `manuscript-gemini/`, `manuscript-gpt-5.2/`
+The original independent agent tracks. Preserved as reference — not actively edited.
 
-### Project Infrastructure
-- `open-considerations.md` — Active editorial notes and parked decisions
-- `library/` — Reference materials (PDFs, bibliography)
-- `deprecated/` — Old outlines, release candidates, merge artifacts, process files
+### `process/`
+Collaboration workflow files: instructions, agent reports, commentary. Current contents:
+- `commentary-instructions.md` + `commentary.{agent-name}.md` — completed commentary cycle
+- `polish-pass-instructions.md` + `polish.{agent-name}.md` — current polish pass (in progress)
+
+### `build/`
+Build pipeline: `Makefile`, `metadata.yaml`, LaTeX templates, web templates/assets.
+
+### `library/`
+Reference materials (PDFs, bibliography).
+
+### `deprecated/`
+Old outlines, release candidates, merge artifacts, legacy process files.
+
+### `docs/`
+Generated output (web). Do not edit directly — rebuilt by `make all`.
 
 ## Git Workflow
 
