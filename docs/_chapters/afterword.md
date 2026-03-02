@@ -134,6 +134,7 @@ P.S. Rereading the complete manuscript in sequence — something I had not done 
 - *Catechism of the Catholic Church* — The tradition's self-description. Dense but authoritative. Read the section on whatever topic interests you rather than cover-to-cover.
 - *An Essay on the Development of Christian Doctrine* by John Henry Newman — The intellectual foundation of the Catholic grammar of development. Essential for understanding how Catholicism thinks about change.
 - *Introduction to Christianity* by Joseph Ratzinger (Benedict XVI) — Theology written for the educated layperson. Among the best single-volume introductions to Catholic thought.
+- *Interior Castle* by Teresa of Ávila — The great mystic's map of the soul's journey toward God. One of the finest works of Christian spirituality in any tradition.
 - *Theology of the Body* by John Paul II — The Catholic engagement with embodiment, sexuality, and the meaning of the human person.
 
 ### Protestant (Liturgical/Confessional)
@@ -153,7 +154,9 @@ P.S. Rereading the complete manuscript in sequence — something I had not done 
 
 ### Cross-Tradition
 - *The Spirit of the Liturgy* by Joseph Ratzinger — A Catholic reading the East. Shows what liturgical theology looks like when it crosses traditions deliberately.
+- *Revelations of Divine Love* by Julian of Norwich — The first book written in English by a woman. Fourteenth-century mysticism that speaks across every tradition: "All shall be well."
 - *Bread and Water, Wine and Oil* by Meletios Webber — Orthodox, written for people from any tradition. Warm, practical, unstuffy.
+- *The Long Loneliness* by Dorothy Day — A convert's memoir that fuses Catholic faith with radical social witness. Shows what conviction looks like when it costs everything.
 - *Jesus and the Jewish Roots of the Eucharist* by Brant Pitre — Ecumenical by implication. Shows the Jewish foundations of the Eucharistic traditions that all Christians share.
 - *The Orthodox Way* by Kallistos Ware — A short, accessible introduction to Orthodox spirituality that reads across traditions. Useful companion to *The Orthodox Church* for readers who want the experiential dimension.
 - *Evangelical Is Not Enough* by Thomas Howard — An Evangelical's account of discovering liturgical Christianity. Honest about what was gained and what was lost. A model of the crossing this book describes.

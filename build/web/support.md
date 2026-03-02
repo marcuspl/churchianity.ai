@@ -24,4 +24,12 @@ and human-scale.
 
 *Thank you for reading carefully.*
 
+---
+
+## License
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+You are free to share and adapt this work with attribution, for non-commercial purposes, under the same license.
+
 </div>

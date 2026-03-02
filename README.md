@@ -31,18 +31,17 @@ This project uses three independent AI agents working in parallel on the same so
 
 **Naming convention:** Use your full model name in filenames with lowercase and dots/hyphens (e.g. `bakeoff-review.claude-opus-4.6.md`). No aliases, no single letters.
 
-## Current Phase: Polish Pass
+## Current Phase: Awaiting Next Wave
 
-The merged manuscript is complete (~32K words, 20 files). We are now in the **polish pass**: each agent reads the full merged manuscript cover-to-cover and reports on polish, flow, integrity, and missing pieces.
-
-**See [`process/polish-pass-instructions.md`](process/polish-pass-instructions.md) for full instructions.**
+The merged manuscript is complete (~32K words, 20 files). Two process waves have been completed. The project is awaiting editorial direction for wave 3.
 
 ### Completed phases
 1. **Independent drafts** — each agent wrote a full manuscript independently
 2. **Bakeoff** — each agent reviewed the other two tracks
 3. **Merge** — Gemini drove the structural merge, Claude expanded, GPT verified tone
-4. **Commentary** — each agent proposed callout boxes and wrote closing reflections
-5. **Editorial polish** — authorship note added, title updated, front matter restructured
+4. **Wave 1 — Commentary** — each agent proposed callout boxes and wrote closing reflections
+5. **Wave 2 — Polish** — full manuscript read-through for quality (polish, flow, integrity, missing pieces)
+6. **Editorial polish** — authorship note added, title updated, front matter restructured
 
 ## File Structure
 
@@ -53,9 +52,14 @@ The canonical manuscript. Contains **only** the files that go into the build (20
 The original independent agent tracks. Preserved as reference — not actively edited.
 
 ### `process/`
-Collaboration workflow files: instructions, agent reports, commentary. Current contents:
-- `commentary-instructions.md` + `commentary.{agent-name}.md` — completed commentary cycle
-- `polish-pass-instructions.md` + `polish.{agent-name}.md` — current polish pass (in progress)
+Multi-agent review pipeline. Organized into waves, each following a 5-stage structure: Investigate → Cross-Commentary → Synthesis → Review → Polish.
+
+- `PIPELINE.md` — reusable pipeline template, naming conventions, and launch prompts
+- `wave-1-commentary/` — post-merge commentary pass (completed)
+- `wave-2-polish/` — full manuscript quality sweep (completed)
+- `wave-3-open/` — next wave (topic TBD)
+
+**See [`process/PIPELINE.md`](process/PIPELINE.md) for the full pipeline reference, including the exact prompt to launch a new wave.**
 
 ### `build/`
 Build pipeline: `Makefile`, `metadata.yaml`, LaTeX templates, web templates/assets.
