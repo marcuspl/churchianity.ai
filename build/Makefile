@@ -35,7 +35,8 @@ CHAPTERS  := \
 	$(SRC)/14_Back_Matter.md \
 	$(SRC)/14A_Personal_Letter.md \
 	$(SRC)/appendix-d-knowledge-graphs.md \
-	$(SRC)/appendix-e-editorial-notes.md
+	$(SRC)/appendix-e-editorial-notes.md \
+	$(SRC)/appendix-f-faq.md
 
 # ── Chapter metadata for web (filename → order, title, slug) ──
 define CHAPTER_META
@@ -60,6 +61,7 @@ define CHAPTER_META
 14A_Personal_Letter|19|Personal Letter from the Editor|personal-letter
 appendix-d-knowledge-graphs|20|Appendix: Knowledge Graphs|appendix-knowledge-graphs
 appendix-e-editorial-notes|21|Appendix: Editorial Process Notes|appendix-editorial-notes
+appendix-f-faq|22|Appendix: FAQ|appendix-faq
 endef
 export CHAPTER_META
 
@@ -87,6 +89,7 @@ $(DOCS)/assets/style.css: $(WEB)/assets/style.css $(WEB)/assets/lightning-qr.png
 	cp $(WEB)/assets/style.css $(DOCS)/assets/style.css
 	cp $(WEB)/assets/lightning-qr.png $(DOCS)/assets/lightning-qr.png
 	cp $(WEB)/support.md $(DOCS)/support.md
+	cp $(WEB)/faq.md $(DOCS)/faq.md
 
 $(DOCS)/CNAME:
 	@mkdir -p $(DOCS)
