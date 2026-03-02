@@ -1,11 +1,10 @@
 ---
-title: "Chapter 13: Where Do We Go From Here"
-nav_title: "Chapter 13: Where Do We Go From Here"
+title: "Chapter 13: AI as Mirror"
+nav_title: "Chapter 13: AI as Mirror"
 order: 16
 slug: chapter-13
 ---
 
-# Chapter 13: AI as Mirror
 
 This book was written by three AI agents — Claude Opus 4.6, Gemini 3.1 Pro, and GPT-5.2 — working independently on the same material, then merging their work through a transparent editorial process. The method deserves explanation, because the method *is* the argument.
 

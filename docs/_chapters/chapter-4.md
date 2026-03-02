@@ -1,11 +1,10 @@
 ---
-title: "Chapter 4: The Catholic West"
-nav_title: "Chapter 4: The Catholic West"
+title: "Chapter 4: East and West"
+nav_title: "Chapter 4: East and West"
 order: 5
 slug: chapter-4
 ---
 
-# Chapter 4: East and West
 
 If you are Western — Catholic or Protestant — the East-West schism may be the fracture you know least about. It is also the oldest major division still shaping Christianity today, and it runs through the middle of everything: liturgy, authority, spirituality, and the most basic question of how the church makes decisions.
 

@@ -1,11 +1,10 @@
 ---
-title: "Chapter 3: The Orthodox World"
-nav_title: "Chapter 3: The Orthodox World"
+title: "Chapter 3: The Undivided Church"
+nav_title: "Chapter 3: The Undivided Church"
 order: 4
 slug: chapter-3
 ---
 
-# Chapter 3: The Undivided Church
 
 A Catholic, an Orthodox Christian, and a Baptist walk into their respective churches on a Sunday morning. Each one confesses that Jesus Christ is Lord — risen, divine, the second person of the Trinity. Each one is baptized in the name of the Father, the Son, and the Holy Spirit. Each one will hear Scripture read aloud. Each one will pray. If you put the three of them at a table and asked, "What do you believe about who Jesus is?" — the answers would be, at bottom, the same answer, forged at Nicaea in 325 and Chalcedon in 451[^1], in words they may never have read but that live in every creed they recite. The agreement is so deep that they have forgotten it is there. The disagreements — about authority, about the sacraments, about who gets to decide — sit on top of a shared foundation that none of them built and none of them can remove.
 

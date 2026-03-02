@@ -5,7 +5,6 @@ order: 17
 slug: afterword
 ---
 
-# Afterword: What This Book Hoped to Do
 
 If this book has worked, you feel something different from when you started — not converted, not shaken, but oriented. You have a map where before you had a blank. You have names for things you sensed but could not articulate. You have a clearer sense of what your tradition does well and where it structurally struggles. And you have, perhaps, a quieter relationship with the traditions you were taught to distrust.
 

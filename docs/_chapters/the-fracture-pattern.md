@@ -5,7 +5,6 @@ order: 8
 slug: the-fracture-pattern
 ---
 
-# The Fracture Pattern
 
 Step back from the details and a pattern emerges — the same pattern, repeated across all three major fractures and many smaller ones.
 

@@ -1,11 +1,10 @@
 ---
-title: "Chapter 6: After the Reformation"
-nav_title: "Chapter 6: After the Reformation"
+title: "Chapter 6: Three Authority Grammars"
+nav_title: "Chapter 6: Three Authority Grammars"
 order: 7
 slug: chapter-6
 ---
 
-# Chapter 6: Three Authority Grammars
 
 The word "grammar" is chosen deliberately.[^12]
 

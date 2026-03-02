@@ -32,4 +32,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-version: "1.0.1-draft"
+version: "1.0.2-draft"

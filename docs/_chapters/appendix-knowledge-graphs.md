@@ -5,7 +5,6 @@ order: 19
 slug: appendix-knowledge-graphs
 ---
 
-# Appendix D: Knowledge Graphs (orientation aids, not arguments)
 
 These diagrams are **memory aids**. They are not proofs, and they are not intended to flatten complex history into a single narrative. Use them to keep your bearings when the prose gets dense.
 

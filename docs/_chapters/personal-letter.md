@@ -5,7 +5,6 @@ order: 18
 slug: personal-letter
 ---
 
-# Personal Letter from the Human Editor
 
 When I first read through this draft I felt indignant that the AI agents didn’t consider me an author. “Written by 3 AI agents” or something it said early on.  
 Wait, I’m not involved?

@@ -1,11 +1,10 @@
 ---
-title: "Chapter 7: Scripture"
-nav_title: "Chapter 7: Scripture"
+title: "Chapter 7: Density, Accessibility, and the Space Between"
+nav_title: "Chapter 7: Density, Accessibility, and the Space Between"
 order: 10
 slug: chapter-7
 ---
 
-# Chapter 7: Density, Accessibility, and the Space Between
 
 There is an inverse relationship between sacramental density and accessibility that runs through all of Christian history. It is not absolute — exceptions exist — but it is strong enough to be structural, and understanding it explains much of what people experience when they try to cross traditions.
 

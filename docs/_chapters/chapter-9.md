@@ -1,11 +1,10 @@
 ---
-title: "Chapter 9: Authority"
-nav_title: "Chapter 9: Authority"
+title: "Chapter 9: The Body Remembers"
+nav_title: "Chapter 9: The Body Remembers"
 order: 12
 slug: chapter-9
 ---
 
-# Chapter 9: The Body Remembers
 
 This chapter makes a deliberate shift — from historical analysis to the body. The shift is abrupt, but it is not a genre problem. It is the genre asserting itself. Christianity's central claim is that God became a body. A book about Christian tradition that stayed entirely in the head would be less honest to the tradition, not more. You discuss Trinitarian theology, then you pray by eating bread. You chant ancient Greek, then you prostrate on a stone floor. The lofty and the material are not opposed; they are fused. That is the Incarnation.
 

@@ -1,11 +1,10 @@
 ---
-title: "Chapter 8: Sacraments"
-nav_title: "Chapter 8: Sacraments"
+title: "Chapter 8: On-Ramps"
+nav_title: "Chapter 8: On-Ramps"
 order: 11
 slug: chapter-8
 ---
 
-# Chapter 8: On-Ramps
 
 This section is not about creating a synthetic super-tradition. Cross-tradition borrowing has deep historical precedent — the Western church borrowed Eastern hymns, the Eastern church borrowed Western organizational structures, and every tradition has been shaped by encounters with the others whether it admits it or not.
 

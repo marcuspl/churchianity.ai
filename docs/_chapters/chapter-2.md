@@ -1,11 +1,10 @@
 ---
-title: "Chapter 2: One Church Becomes Two"
-nav_title: "Chapter 2: One Church Becomes Two"
+title: "Chapter 2: How to Read This Book"
+nav_title: "Chapter 2: How to Read This Book"
 order: 3
 slug: chapter-2
 ---
 
-# Chapter 2: How to Read This Book
 
 You are about to read descriptions of traditions that people have lived and died for. Some of these traditions are yours. Some belong to people you were taught to distrust, or never taught about at all. The subject generates heat — not because people are irrational, but because identity is at stake. When someone describes your tradition, you hear it differently than when they describe someone else's. When someone names a weakness in your tradition, the instinct is not to evaluate the claim but to defend the perimeter.
 

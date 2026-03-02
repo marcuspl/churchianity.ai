@@ -1,11 +1,10 @@
 ---
-title: "Chapter 12: The Vocabulary Problem"
-nav_title: "Chapter 12: The Vocabulary Problem"
+title: "Chapter 12: The Distance Is Smaller Than You Think"
+nav_title: "Chapter 12: The Distance Is Smaller Than You Think"
 order: 15
 slug: chapter-12
 ---
 
-# Chapter 12: The Distance Is Smaller Than You Think
 
 Most laypeople do not know what has already happened in ecumenical dialogue. This is not because the information is hidden. It is because the information lives in a world that ordinary believers never encounter — joint commissions, bilateral statements, theological journals, Vatican dicasteries, and patriarchal encyclicals. The parish priest doesn't mention it in his homily because it isn't his job. The Sunday school curriculum doesn't cover it because it's too technical. The result is a structurally produced information gap: laypeople carry hostilities that their own theologians have already partially resolved.
 

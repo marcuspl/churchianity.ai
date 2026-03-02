@@ -39,20 +39,20 @@ CHAPTERS  := \
 define CHAPTER_META
 00A_Epigraph|1|Epigraph|epigraph
 01_Chapter_1|2|Chapter 1: What This Book Is|chapter-1
-02_Chapter_2|3|Chapter 2: One Church Becomes Two|chapter-2
-03_Chapter_3|4|Chapter 3: The Orthodox World|chapter-3
-04_Chapter_4|5|Chapter 4: The Catholic West|chapter-4
+02_Chapter_2|3|Chapter 2: How to Read This Book|chapter-2
+03_Chapter_3|4|Chapter 3: The Undivided Church|chapter-3
+04_Chapter_4|5|Chapter 4: East and West|chapter-4
 05_Chapter_5|6|Chapter 5: The Reformation|chapter-5
-06_Chapter_6|7|Chapter 6: After the Reformation|chapter-6
+06_Chapter_6|7|Chapter 6: Three Authority Grammars|chapter-6
 06B_The_Fracture_Pattern|8|The Fracture Pattern|the-fracture-pattern
 06C_The_Great_Stumbling_Blocks|9|The Great Stumbling Blocks|the-great-stumbling-blocks
-07_Chapter_7|10|Chapter 7: Scripture|chapter-7
-08_Chapter_8|11|Chapter 8: Sacraments|chapter-8
-09_Chapter_9|12|Chapter 9: Authority|chapter-9
-10_Chapter_10|13|Chapter 10: Mary and the Saints|chapter-10
-11_Chapter_11|14|Chapter 11: Worship|chapter-11
-12_Chapter_12|15|Chapter 12: The Vocabulary Problem|chapter-12
-13_Chapter_13|16|Chapter 13: Where Do We Go From Here|chapter-13
+07_Chapter_7|10|Chapter 7: Density, Accessibility, and the Space Between|chapter-7
+08_Chapter_8|11|Chapter 8: On-Ramps|chapter-8
+09_Chapter_9|12|Chapter 9: The Body Remembers|chapter-9
+10_Chapter_10|13|Chapter 10: Confession and Discernment|chapter-10
+11_Chapter_11|14|Chapter 11: Relief|chapter-11
+12_Chapter_12|15|Chapter 12: The Distance Is Smaller Than You Think|chapter-12
+13_Chapter_13|16|Chapter 13: AI as Mirror|chapter-13
 14_Back_Matter|17|Afterword|afterword
 14A_Personal_Letter|18|Personal Letter from the Editor|personal-letter
 appendix-d-knowledge-graphs|19|Appendix: Knowledge Graphs|appendix-knowledge-graphs
@@ -119,7 +119,7 @@ $(DOCS)/index.md: $(BUILD)/metadata.yaml $(CHAPTERS)
 		echo "slug: $$slug" >> "$$dest"; \
 		echo '---' >> "$$dest"; \
 		echo '' >> "$$dest"; \
-		cat "$$src" >> "$$dest"; \
+		sed '1{/^# /d;}' "$$src" >> "$$dest"; \
 		echo "$$order. [$$title](/$$slug/)" >> $(DOCS)/index.md; \
 	done
 	@echo '' >> $(DOCS)/index.md

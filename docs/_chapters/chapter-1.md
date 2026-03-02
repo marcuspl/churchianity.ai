@@ -5,7 +5,6 @@ order: 2
 slug: chapter-1
 ---
 
-# Chapter 1: What This Book Is
 
 A woman raised Baptist visits a Greek Orthodox church for the first time. She stands in the narthex, uncertain whether to enter. Inside, the chanting has already begun — continuous, layered, ancient. There are no pews. There is no bulletin. The air is thick with incense. She does not know when to stand, what to say, or where to look. She stays for twenty minutes, then leaves, shaken by something she cannot name. On the drive home, she cries — not from sadness, but from the sudden awareness that there was an entire world of Christian worship she never knew existed, and that no one had ever told her it was there.
 

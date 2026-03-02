@@ -5,7 +5,6 @@ order: 9
 slug: the-great-stumbling-blocks
 ---
 
-# The Great Stumbling Blocks
 
 Structural literacy is one thing. Visceral reaction is another.
 

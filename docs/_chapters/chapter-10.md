@@ -1,11 +1,10 @@
 ---
-title: "Chapter 10: Mary and the Saints"
-nav_title: "Chapter 10: Mary and the Saints"
+title: "Chapter 10: Confession and Discernment"
+nav_title: "Chapter 10: Confession and Discernment"
 order: 13
 slug: chapter-10
 ---
 
-# Chapter 10: Confession and Discernment
 
 At some point, every believer encounters something they cannot handle alone. A sin that recurs despite every effort. A grief that prayer does not lift. A spiritual dryness that feels like abandonment. A decision so consequential that the wrong choice feels catastrophic. At these moments, the believer turns to someone — a priest, a pastor, a spiritual director, a prayer partner — and the tradition they belong to shapes what happens next.
 

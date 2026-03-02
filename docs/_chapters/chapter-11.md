@@ -1,11 +1,10 @@
 ---
-title: "Chapter 11: Worship"
-nav_title: "Chapter 11: Worship"
+title: "Chapter 11: Relief"
+nav_title: "Chapter 11: Relief"
 order: 14
 slug: chapter-11
 ---
 
-# Chapter 11: Relief
 
 You do not need to solve a thousand years of history to pray.
 
