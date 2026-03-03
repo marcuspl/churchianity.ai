@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Churchianity.ai Book Cover</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=EB+Garamond:ital,wght@0,400;0,700;1,400&family=Cinzel:wght@600&display=swap');
+
+        html, body {
+            margin: 0;
+            padding: 0;
+            width: 6in;
+            height: 9in;
+            background-color: #050508;
+            color: #E0E0E0;
+            font-family: 'EB Garamond', Georgia, serif;
+            position: relative;
+            overflow: hidden;
+            box-sizing: border-box;
+        }
+
+        .container {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-between;
+            padding: 1in 0.5in;
+            box-sizing: border-box;
+            position: relative;
+            z-index: 10;
+        }
+
+        .background-glow {
+            position: absolute;
+            top: 40%;
+            left: 50%;
+            width: 80%;
+            height: 60%;
+            transform: translate(-50%, -50%);
+            background: radial-gradient(circle, rgba(20, 25, 45, 0.8) 0%, rgba(5, 5, 8, 0) 70%);
+            z-index: 1;
+        }
+
+        .header {
+            text-align: center;
+            z-index: 10;
+        }
+
+        .title {
+            font-family: 'Fira Code', 'Courier New', monospace;
+            font-size: 38pt;
+            font-weight: 700;
+            color: #F8F8F8;
+            letter-spacing: -1px;
+            margin-bottom: 10px;
+        }
+
+        .title-cursor {
+            color: #00FF41; /* classic terminal green */
+            animation: blink 1s step-end infinite;
+        }
+
+        .subtitle {
+            font-family: 'EB Garamond', Georgia, serif;
+            font-size: 16pt;
+            font-style: italic;
+            color: #A0A5B5;
+            letter-spacing: 1px;
+            line-height: 1.4;
+            max-width: 85%;
+            margin: 0 auto;
+        }
+
+        .graphic-container {
+            flex-grow: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 10;
+            width: 100%;
+            margin: 40px 0;
+        }
+
+        .authors {
+            text-align: center;
+            z-index: 10;
+        }
+
+        .ai-agents {
+            font-family: 'Fira Code', 'Courier New', monospace;
+            font-size: 10pt;
+            color: #6C7280;
+            margin-bottom: 25px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .human-editor {
+            font-family: 'Cinzel', 'EB Garamond', serif;
+            font-size: 16pt;
+            color: #E0E0E0;
+            letter-spacing: 3px;
+        }
+        
+        .divider {
+            width: 30px;
+            height: 2px;
+            background-color: #A0A5B5;
+            margin: 15px auto;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="background-glow"></div>
+    <div class="container">
+        
+        <div class="header">
+            <div class="title">churchianity.ai<span class="title-cursor">_</span></div>
+            <div class="subtitle">Continuity, Freedom, and the Places We Lost Each Other</div>
+        </div>
+
+        <div class="graphic-container">
+            <!-- SVG representing 'Terminal and Cathedral' -->
+            <svg width="250" height="350" viewBox="0 0 250 350" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <!-- Cathedral Arch Background -->
+                <path d="M 25 300 L 25 150 C 25 80 125 10 125 10 C 125 10 225 80 225 150 L 225 300" stroke="#2A2F40" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M 50 300 L 50 150 C 50 100 125 40 125 40 C 125 40 200 100 200 150 L 200 300" stroke="#2A2F40" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                
+                <!-- Circuit board / computational nodes intersecting -->
+                <circle cx="125" cy="150" r="45" fill="none" stroke="#A0A5B5" stroke-width="1.5" stroke-dasharray="4 4"/>
+                
+                <path d="M 125 40 L 125 300" stroke="#A0A5B5" stroke-width="1.5"/>
+                <path d="M 25 150 L 225 150" stroke="#A0A5B5" stroke-width="1.5"/>
+                
+                <!-- Center Code / Cross Motif -->
+                <g stroke="#00FF41" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+                    <!-- Left brace -->
+                    <path d="M 110 135 L 95 150 L 110 165"/>
+                    <!-- Right brace -->
+                    <path d="M 140 135 L 155 150 L 140 165"/>
+                    <!-- Center slash -->
+                    <path d="M 130 130 L 120 170"/>
+                </g>
+
+                <!-- Digital 'fracture' nodes -->
+                <circle cx="125" cy="150" r="4" fill="#00FF41"/>
+                <circle cx="125" cy="105" r="3" fill="#A0A5B5"/>
+                <circle cx="125" cy="195" r="3" fill="#A0A5B5"/>
+                <circle cx="80" cy="150" r="3" fill="#A0A5B5"/>
+                <circle cx="170" cy="150" r="3" fill="#A0A5B5"/>
+
+                <!-- Terminal prompt at base -->
+                <text x="125" y="330" font-family="'Fira Code', monospace" font-size="14" fill="#6C7280" text-anchor="middle" letter-spacing="1">~ $ ./compile</text>
+            </svg>
+        </div>
+
+        <div class="authors">
+            <div class="ai-agents">CLAUDE 4.6 • GEMINI 3.1 • GPT-5.2</div>
+            <div class="divider"></div>
+            <div class="human-editor">MARCUS R</div>
+        </div>
+
+    </div>
+</body>
+</html>

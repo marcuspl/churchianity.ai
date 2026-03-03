@@ -60,6 +60,14 @@ All three agents produced cover concepts and specs. The research is complete and
 
 **Alternative — "Council Minutes / Code Diff" (GPT):** Layered typographic textures — faint council-like marginalia with subtle diff marks. Serif + monospace accent. Parchment/near-black palette. More original but needs the right designer.
 
+### Cover prototype — front page candidate selected
+
+Five prototypes were generated as HTML/CSS across all three agents. After iterating on Concept C ("Council Minutes / Code Diff"), the editor selected an evolved version as the current front-page candidate:
+
+**`cover-prototypes/concept-c2-council-diff-content.html`** — Parchment background with faint Latin/Greek council text in a central column. Real theological diffs (Filioque, sola scriptura, theosis→justification, etc.) scattered in the margins as git-style `+`/`-` hunks. Title in a full-width band with clear horizontal rules. Key phrase *"Extra ecclesiam nulla salus — sed quid est ecclesia?"* surfaces near the bottom.
+
+This file can be used as a reference for a professional designer, or rendered directly to PDF for print.
+
 ### What was deferred
 
 - Commissioning the designer (editor to choose service and concept)

@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,300;1,400&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    width: 6in;
+    height: 9in;
+    background: #f5f0e6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'EB Garamond', Georgia, serif;
+    overflow: hidden;
+    position: relative;
+  }
+
+  /* Faint parchment texture */
+  body::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background:
+      radial-gradient(ellipse at 30% 20%, rgba(180, 160, 120, 0.08) 0%, transparent 50%),
+      radial-gradient(ellipse at 70% 80%, rgba(160, 140, 100, 0.06) 0%, transparent 50%);
+    pointer-events: none;
+  }
+
+  /* Background "council text" - faint Latin/Greek fragments, single central column */
+  .marginalia {
+    position: absolute;
+    top: 0; bottom: 0;
+    left: 1.1in;
+    right: 1.1in;
+    z-index: 0;
+    overflow: hidden;
+    opacity: 0.07;
+    font-family: 'EB Garamond', Georgia, serif;
+    font-size: 8.5pt;
+    line-height: 1.65;
+    color: #3a3020;
+    padding: 0.4in 0;
+    text-align: justify;
+  }
+
+  /* Key phrase — pulled out of marginalia so it escapes the parent opacity */
+  .key-phrase {
+    position: absolute;
+    z-index: 1;
+    bottom: 1.15in;
+    left: 1.1in;
+    right: 1.1in;
+    text-align: center;
+    font-family: 'EB Garamond', Georgia, serif;
+    font-size: 9.5pt;
+    font-style: italic;
+    color: rgba(90, 74, 48, 0.3);
+    letter-spacing: 0.01em;
+    pointer-events: none;
+  }
+
+  /* Diff entries — absolutely positioned using golden ratio bands */
+  .diff-entry {
+    position: absolute;
+    z-index: 1;
+    pointer-events: none;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 5.8pt;
+    line-height: 1.55;
+    word-wrap: break-word;
+    white-space: nowrap;
+  }
+
+  .diff-entry .hunk {
+    color: rgba(100, 80, 140, 0.22);
+    font-weight: 500;
+  }
+  .diff-entry .add {
+    color: rgba(40, 120, 60, 0.30);
+  }
+  .diff-entry .del {
+    color: rgba(160, 50, 50, 0.24);
+    text-decoration: line-through;
+    text-decoration-color: rgba(160, 50, 50, 0.12);
+  }
+  .diff-entry .ctx {
+    color: rgba(80, 70, 50, 0.14);
+  }
+
+  /* Near-title entries: slightly more transparent so they recede */
+  .diff-entry.near {
+    opacity: 0.7;
+  }
+
+  /* Main content — golden ratio: title center at ~38.2% from top = 3.44in */
+  .content {
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 1.15in;
+    /* Place title block at golden ratio point from top */
+    padding-top: 2.85in;
+  }
+
+  .title-block {
+    background: none;
+    padding: 0.25in 0.4in 0.3in;
+    position: relative;
+  }
+
+  /* Full-width title band: clear background + definite borders */
+  .title-band {
+    position: absolute;
+    z-index: 1;
+    top: 2.65in;
+    height: 2.15in;
+    left: 0;
+    right: 0;
+    background: rgba(245, 240, 230, 0.93);
+    pointer-events: none;
+  }
+
+  .title-band::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0.4in;
+    right: 0.4in;
+    height: 0;
+    border-top: 1px solid rgba(80, 60, 30, 0.2);
+  }
+
+  .title-band::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0.4in;
+    right: 0.4in;
+    height: 0;
+    border-bottom: 1px solid rgba(80, 60, 30, 0.2);
+  }
+
+  .title-block::before {
+    content: '{';
+    position: absolute;
+    left: -0.2in;
+    top: 50%;
+    transform: translateY(-50%);
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 72pt;
+    font-weight: 300;
+    color: rgba(100, 80, 50, 0.07);
+    line-height: 1;
+  }
+
+  .title-block::after {
+    content: '}';
+    position: absolute;
+    right: -0.2in;
+    top: 50%;
+    transform: translateY(-50%);
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 72pt;
+    font-weight: 300;
+    color: rgba(100, 80, 50, 0.07);
+    line-height: 1;
+  }
+
+  .title-main {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-weight: 700;
+    font-size: 34pt;
+    color: #1a1510;
+    letter-spacing: -0.01em;
+    line-height: 1.05;
+    margin-bottom: 0.04in;
+  }
+
+  .title-ai {
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 400;
+    font-size: 34pt;
+    color: #6a4a2a;
+  }
+
+  .subtitle-joke {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 15pt;
+    color: #4a3a25;
+    margin-bottom: 0.2in;
+    letter-spacing: 0.02em;
+  }
+
+  .rule {
+    width: 1.5in;
+    height: 1px;
+    background: rgba(80, 60, 30, 0.2);
+    margin-bottom: 0.18in;
+  }
+
+  .subtitle-formal {
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 300;
+    font-size: 7.5pt;
+    color: rgba(80, 60, 30, 0.45);
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    line-height: 1.8;
+  }
+
+  .author {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-weight: 500;
+    font-size: 13pt;
+    color: rgba(60, 45, 25, 0.5);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    position: absolute;
+    bottom: 0.65in;
+    z-index: 3;
+  }
+
+  .bottom-line {
+    position: absolute;
+    bottom: 0.45in;
+    left: 1in;
+    right: 1in;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(80, 60, 30, 0.15), transparent);
+    z-index: 3;
+  }
+</style>
+</head>
+<body>
+  <!-- Council text fragments as background -->
+  <div class="marginalia">
+    Si quis imaginem Domini nostri Iesu Christi non adorat non videat formam eius in secundo adventu...
+    Ὁρίζομεν σὺν ἀκριβείᾳ πάσῃ καὶ ἐμμελείᾳ παραπλησίως τῷ τύπῳ τοῦ τιμίου καὶ ζωοποιοῦ σταυροῦ ἀνατίθεσθαι τὰς σεπτὰς καὶ ἁγίας εἰκόνας...
+    Credimus in unum Deum Patrem omnipotentem factorem caeli et terrae visibilium omnium et invisibilium...
+    τὴν κατ᾽ εἰκόνα τιμὴν ἐπὶ τὸ πρωτότυπον διαβαίνειν...
+    Anathematizamus eos qui sacras imagines adorare contemnunt...
+    Πιστεύομεν εἰς ἕνα Θεόν Πατέρα παντοκράτορα ποιητὴν οὐρανοῦ καὶ γῆς...
+    Sola scriptura sola fide sola gratia solus Christus soli Deo gloria...
+    Ὥσπερ γὰρ τὸ τῆς εἰκόνος σχῆμα καθορῶν τις οὐ τὴν σανίδα προσκυνεῖ ἀλλ᾽ εἰς τὴν ἐμφέρειαν ἀνατρέχει τοῦ πρωτοτύπου...
+    Iustificati igitur ex fide pacem habemus ad Deum per Dominum nostrum Iesum Christum...
+    Nos igitur sequentes sanctos patres omnes consonanter docemus confiteri eundem filium...
+    Εἰ γάρ τις ζητεῖ τί ἐστιν ἡ οὐσία τοῦ Θεοῦ κρεῖσσόν ἐστι σιωπᾶν...
+    Qui propter nos homines et propter nostram salutem descendit de caelis et incarnatus est...
+    Ψυχῆς φάρμακον ἡ μετάνοια ψυχῆς ἰατρεῖον ἡ ἐξομολόγησις...
+    Simul iustus et peccator semper penitens semper iustificandus...
+    τὸ γὰρ λατρεύειν μόνῳ τῷ Θεῷ προσήκει τὴν δὲ τιμητικὴν προσκύνησιν...
+    Credo in Spiritum Sanctum Dominum et vivificantem qui ex Patre Filioque procedit...
+    Πιστεύω εἰς τὸ Πνεῦμα τὸ Ἅγιον τὸ κύριον τὸ ζωοποιόν τὸ ἐκ τοῦ Πατρὸς ἐκπορευόμενον...
+    Adoratio quae graece latreia dicitur soli divinae naturae exhibenda est...
+    μετουσία θεότητος κοινωνία φύσεως θείας θέωσις ἀνθρώπου...
+    Confitemur unum baptisma in remissionem peccatorum et exspectamus resurrectionem mortuorum et vitam venturi saeculi...
+    ὁμολογοῦμεν ἓν βάπτισμα εἰς ἄφεσιν ἁμαρτιῶν προσδοκῶμεν ἀνάστασιν νεκρῶν καὶ ζωὴν τοῦ μέλλοντος αἰῶνος...
+    Et unam sanctam catholicam et apostolicam Ecclesiam...
+    Ubi Petrus ibi Ecclesia ubi Ecclesia ibi nulla mors sed vita aeterna...
+    Ὅπου γὰρ εἰσι δύο ἢ τρεῖς συνηγμένοι εἰς τὸ ἐμὸν ὄνομα ἐκεῖ εἰμι ἐν μέσῳ αὐτῶν...
+    Ecclesia semper reformanda est secundum verbum Dei...
+    τὸ μυστήριον τοῦτο μέγα ἐστίν ἐγὼ δὲ λέγω εἰς Χριστὸν καὶ εἰς τὴν ἐκκλησίαν...
+    Non est enim potestas nisi a Deo quae autem sunt a Deo ordinatae sunt...
+    Ἡ ἐκκλησία τοῦ Θεοῦ ἡ παροικοῦσα Ρώμην τῇ ἐκκλησίᾳ τοῦ Θεοῦ τῇ παροικούσῃ Κόρινθον...
+    Gratia praeveniens gratia cooperans gratia sufficiens gratia efficax...
+    οὐ γὰρ ἔδωκεν ἡμῖν ὁ Θεὸς πνεῦμα δειλίας ἀλλὰ δυνάμεως καὶ ἀγάπης καὶ σωφρονισμοῦ...
+    Pax vobiscum et cum spiritu tuo sursum corda habemus ad Dominum...
+    Ἅγιος ἅγιος ἅγιος Κύριος Σαβαώθ πλήρης ὁ οὐρανὸς καὶ ἡ γῆ τῆς δόξης σου...
+    In necessariis unitas in dubiis libertas in omnibus caritas...
+    τῆς θείας κοινωνῆσαι φύσεως ἀποφυγόντες τῆς ἐν τῷ κόσμῳ ἐν ἐπιθυμίᾳ φθορᾶς...
+    Fides quaerens intellectum credo ut intelligam...
+    ὁ λόγος σὰρξ ἐγένετο καὶ ἐσκήνωσεν ἐν ἡμῖν καὶ ἐθεασάμεθα τὴν δόξαν αὐτοῦ...
+    Lex orandi lex credendi lex vivendi...
+    Anima naturaliter Christiana...
+    τὰ ἀόρατα αὐτοῦ ἀπὸ κτίσεως κόσμου τοῖς ποιήμασιν νοούμενα καθορᾶται...
+    Extra ecclesiam nulla salus sed quid est ecclesia...
+  </div>
+
+  <!-- Key phrase — separate element to escape marginalia opacity -->
+  <div class="key-phrase">Extra ecclesiam nulla salus — sed quid est ecclesia?</div>
+
+  <!--
+    Layout: 9in page, golden ratio places title center at ~3.44in from top.
+    Title block spans roughly 2.85in–4.6in.
+    Diffs distributed in 5 vertical bands:
+      Band 1: 0.3–1.2in (top)
+      Band 2: 1.5–2.4in (upper)
+      Band 3: 2.6–3.0in (near-title, faded) — LEFT ONLY, right clear for title
+      Band 4: 4.8–5.4in (near-title below, faded)
+      Band 5: 5.7–6.6in (lower)
+      Band 6: 6.9–8.2in (bottom)
+    Left and right alternate to avoid symmetry.
+  -->
+
+  <!-- === BAND 1: TOP === -->
+
+  <div class="diff-entry" style="top: 0.35in; left: 0.12in;">
+    <div class="hunk">@@ creed,nicaea @@</div>
+    <div class="ctx"> ex Patre</div>
+    <div class="add">+ Filioque</div>
+    <div class="ctx"> procedit</div>
+  </div>
+
+  <div class="diff-entry" style="top: 0.3in; right: 0.12in; text-align: right;">
+    <div class="hunk">@@ mary @@</div>
+    <div class="ctx"> Θεοτόκος</div>
+    <div class="add">+ immac. conception</div>
+    <div class="del">- hyperdulia only</div>
+  </div>
+
+  <!-- === BAND 2: UPPER === -->
+
+  <div class="diff-entry" style="top: 1.4in; left: 0.12in;">
+    <div class="hunk">@@ authority @@</div>
+    <div class="del">- councils + scripture</div>
+    <div class="add">+ sola scriptura</div>
+    <div class="add">+ sola fide</div>
+  </div>
+
+  <div class="diff-entry" style="top: 1.55in; right: 0.12in; text-align: right;">
+    <div class="hunk">@@ purgatory @@</div>
+    <div class="add">+ purgatorium</div>
+    <div class="add">+ indulgentiae</div>
+    <div class="del">- [absent in East]</div>
+  </div>
+
+  <!-- === BAND 3: NEAR-TITLE ABOVE (left only, gentler) === -->
+
+  <div class="diff-entry near" style="top: 2.45in; left: 0.12in;">
+    <div class="hunk">@@ eucharist @@</div>
+    <div class="del">- μετουσίωσις</div>
+    <div class="add">+ real presence</div>
+    <div class="add">+ memorial</div>
+  </div>
+
+  <div class="diff-entry near" style="top: 2.55in; right: 0.12in; text-align: right;">
+    <div class="hunk">@@ ecclesiology @@</div>
+    <div class="del">- pentarchy</div>
+    <div class="add">+ papal supremacy</div>
+  </div>
+
+  <!-- === BAND 4: NEAR-TITLE BELOW (gentler) === -->
+
+  <div class="diff-entry near" style="top: 4.85in; left: 0.12in;">
+    <div class="hunk">@@ icons,787 @@</div>
+    <div class="ctx"> προσκύνησις</div>
+    <div class="del">- adoratio [mistransl.]</div>
+    <div class="add">+ veneratio</div>
+  </div>
+
+  <div class="diff-entry near" style="top: 4.9in; right: 0.12in; text-align: right;">
+    <div class="hunk">@@ bread @@</div>
+    <div class="del">- leavened (ἄρτος)</div>
+    <div class="add">+ unleavened (azymes)</div>
+  </div>
+
+  <!-- === BAND 5: LOWER === -->
+
+  <div class="diff-entry" style="top: 5.85in; left: 0.12in;">
+    <div class="hunk">@@ salvation @@</div>
+    <div class="del">- θέωσις</div>
+    <div class="add">+ iustificatio</div>
+    <div class="add">+ forensic imputation</div>
+  </div>
+
+  <div class="diff-entry" style="top: 5.9in; right: 0.12in; text-align: right;">
+    <div class="hunk">@@ calendar,1582 @@</div>
+    <div class="del">- Julian reckoning</div>
+    <div class="add">+ Gregorian reform</div>
+    <div class="ctx"> Pascha diverges</div>
+  </div>
+
+  <!-- === BAND 6: BOTTOM === -->
+
+  <div class="diff-entry" style="top: 6.9in; left: 0.12in;">
+    <div class="hunk">@@ priesthood @@</div>
+    <div class="del">- sacerdos ordained</div>
+    <div class="add">+ priesthood of all</div>
+    <div class="add">+ believers</div>
+  </div>
+
+  <div class="diff-entry" style="top: 6.85in; right: 0.12in; text-align: right;">
+    <div class="hunk">@@ original sin @@</div>
+    <div class="del">- ancestral sin</div>
+    <div class="add">+ guilt inherited</div>
+    <div class="add">+ total depravity</div>
+  </div>
+
+  <div class="diff-entry" style="top: 7.75in; right: 0.12in; text-align: right;">
+    <div class="hunk">@@ essence,energies @@</div>
+    <div class="add">+ uncreated energies</div>
+    <div class="del">- created grace</div>
+  </div>
+
+  <div class="diff-entry" style="top: 7.8in; left: 0.12in;">
+    <div class="hunk">@@ 1054,1517 @@</div>
+    <div class="ctx"> one church</div>
+    <div class="del">- communion</div>
+    <div class="add">+ 3 strangers</div>
+  </div>
+
+  <!-- Full-width title band with background + borders -->
+  <div class="title-band"></div>
+
+  <div class="content">
+    <div class="title-block">
+      <div class="title-main">Churchianity<span class="title-ai">.ai</span></div>
+      <div class="subtitle-joke">Three AIs Walk Into a Schism</div>
+      <div class="rule"></div>
+      <div class="subtitle-formal">An Experiment in<br>Computational Ecclesiology</div>
+    </div>
+    <div class="author">Marcus R</div>
+  </div>
+
+  <div class="bottom-line"></div>
+</body>
+</html>

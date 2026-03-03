@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Cover B — Fracture Map</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <style>
+      body { background: #0a0a0d; }
+      .bg {
+        position: absolute;
+        inset: 0;
+        background:
+          radial-gradient(900px 800px at 55% 15%, rgba(255,255,255,0.08), rgba(0,0,0,0) 60%),
+          linear-gradient(180deg, #0a0a0d 0%, #0c0c12 60%, #07070b 100%);
+      }
+      .title { font-size: 56px; }
+      .subtitle { font-size: 19px; }
+    </style>
+  </head>
+  <body>
+    <div class="cover">
+      <div class="bg"></div>
+
+      <svg class="overlay" viewBox="0 0 625 925" preserveAspectRatio="none" aria-hidden="true">
+        <defs>
+          <linearGradient id="fade" x1="0" x2="0" y1="0" y2="1">
+            <stop offset="0" stop-color="rgba(255,255,255,0.00)"/>
+            <stop offset="0.15" stop-color="rgba(255,255,255,0.18)"/>
+            <stop offset="0.85" stop-color="rgba(255,255,255,0.10)"/>
+            <stop offset="1" stop-color="rgba(255,255,255,0.00)"/>
+          </linearGradient>
+        </defs>
+
+        <!-- subtle contour lines -->
+        <g fill="none" stroke="rgba(255,255,255,0.06)" stroke-width="1.2">
+          <path d="M-20,220 C 160,120 260,140 360,220 C 460,300 560,280 680,210"/>
+          <path d="M-20,270 C 160,170 260,190 360,270 C 460,350 560,330 680,260"/>
+          <path d="M-20,320 C 160,220 260,240 360,320 C 460,400 560,380 680,310"/>
+          <path d="M-20,370 C 160,270 260,290 360,370 C 460,450 560,430 680,360"/>
+          <path d="M-20,420 C 160,320 260,340 360,420 C 460,500 560,480 680,410"/>
+        </g>
+
+        <!-- three braided lines that fracture -->
+        <g fill="none" stroke-width="6" stroke-linecap="round" opacity="0.95">
+          <path d="M160,720 C 210,620 260,560 312,500 C 352,455 380,415 398,360 C 418,300 448,250 520,185"
+                stroke="rgba(90,160,255,0.75)"/>
+          <path d="M220,730 C 265,635 305,580 345,520 C 390,455 420,415 438,360 C 458,300 488,255 560,195"
+                stroke="rgba(215,179,95,0.80)"/>
+          <path d="M280,740 C 320,650 350,600 385,540 C 430,470 460,425 480,365 C 505,295 525,270 600,210"
+                stroke="rgba(210,80,110,0.78)"/>
+        </g>
+
+        <!-- fracture “fault line” -->
+        <path d="M60,585 L 210,530 L 270,460 L 330,410 L 420,340 L 530,300 L 640,250"
+              stroke="rgba(255,255,255,0.10)" stroke-width="10" stroke-linecap="round" opacity="0.55"/>
+        <path d="M60,585 L 210,530 L 270,460 L 330,410 L 420,340 L 530,300 L 640,250"
+              stroke="rgba(0,0,0,0.55)" stroke-width="4" stroke-linecap="round" opacity="0.75"/>
+
+        <!-- center fade so text stays readable -->
+        <rect x="0" y="0" width="625" height="925" fill="url(#fade)" opacity="0.20"/>
+      </svg>
+
+      <div class="stack">
+        <div>
+          <div class="kicker">A computational mirror for the church</div>
+        </div>
+
+        <div>
+          <div class="title">
+            Churchianity<span class="ai">.ai</span>
+          </div>
+          <div class="subtitle" style="margin-top:0.22in;">
+            Three AIs Walk Into a Schism
+          </div>
+          <div class="rule" style="margin-top:0.26in;"></div>
+          <div class="tagline" style="margin-top:0.20in;">
+            An Experiment in Computational Ecclesiology
+          </div>
+        </div>
+
+        <div class="bottom">
+          <div class="meta">Map • fracture • repair</div>
+          <div class="meta" style="letter-spacing:0.12em;">churchianity.ai</div>
+        </div>
+      </div>
+
+      <div class="guides">
+        <div class="bleed"></div>
+        <div class="trim"></div>
+        <div class="safe"></div>
+      </div>
+    </div>
+  </body>
+</html>
+

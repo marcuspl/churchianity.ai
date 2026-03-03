@@ -1,0 +1,131 @@
+/* Print canvas: front cover with bleed (6x9 + 0.125" each edge) */
+@page {
+  size: 6.25in 9.25in;
+  margin: 0;
+}
+
+html, body {
+  width: 6.25in;
+  height: 9.25in;
+  margin: 0;
+  padding: 0;
+  background: #0b0b0d;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.cover {
+  position: relative;
+  width: 6.25in;
+  height: 9.25in;
+  overflow: hidden;
+}
+
+/* Safe-area helper (not printed if display:none) */
+.guides {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.7;
+  display: none;
+}
+
+.guides .bleed {
+  position: absolute;
+  inset: 0;
+  border: 2px solid rgba(255, 80, 80, 0.8);
+}
+
+.guides .trim {
+  position: absolute;
+  left: 0.125in;
+  top: 0.125in;
+  width: 6in;
+  height: 9in;
+  border: 2px solid rgba(80, 200, 255, 0.8);
+}
+
+.guides .safe {
+  position: absolute;
+  left: 0.375in;
+  top: 0.375in;
+  width: 5.5in;
+  height: 8.5in;
+  border: 2px dashed rgba(255, 255, 255, 0.35);
+}
+
+.stack {
+  position: absolute;
+  left: 0.45in;
+  right: 0.45in;
+  top: 0.55in;
+  bottom: 0.55in;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 0.25in;
+}
+
+.kicker {
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-size: 11px;
+  color: rgba(255,255,255,0.68);
+}
+
+.title {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+  font-weight: 650;
+  font-size: 54px;
+  line-height: 1.02;
+  letter-spacing: -0.02em;
+  color: #f3e7cf; /* warm cream */
+}
+
+.title .ai {
+  color: #d7b35f; /* warm gold */
+}
+
+.subtitle {
+  font-family: ui-serif, Georgia, "Times New Roman", Times, serif;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.2;
+  color: rgba(243,231,207,0.95);
+}
+
+.tagline {
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  font-size: 13px;
+  line-height: 1.35;
+  letter-spacing: 0.02em;
+  color: rgba(255,255,255,0.70);
+}
+
+.rule {
+  height: 1px;
+  width: 100%;
+  background: linear-gradient(90deg, rgba(215,179,95,0.0), rgba(215,179,95,0.9), rgba(215,179,95,0.0));
+}
+
+.bottom {
+  display: flex;
+  flex-direction: column;
+  gap: 0.12in;
+}
+
+.meta {
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  font-size: 10.5px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.52);
+}
+
+.overlay {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+

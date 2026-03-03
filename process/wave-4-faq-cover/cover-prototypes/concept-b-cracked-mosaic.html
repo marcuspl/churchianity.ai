@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    width: 6in;
+    height: 9in;
+    background: #0d1117;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    overflow: hidden;
+    position: relative;
+  }
+
+  /* Mosaic background - tessellated pattern suggesting Byzantine art */
+  .mosaic {
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    overflow: hidden;
+  }
+
+  .mosaic svg {
+    width: 100%;
+    height: 100%;
+  }
+
+  /* Content overlay */
+  .content {
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0 0.5in;
+    /* Dark overlay to make text readable */
+    background: linear-gradient(
+      180deg,
+      rgba(13, 17, 23, 0.75) 0%,
+      rgba(13, 17, 23, 0.55) 35%,
+      rgba(13, 17, 23, 0.55) 65%,
+      rgba(13, 17, 23, 0.8) 100%
+    );
+  }
+
+  .title-main {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-weight: 700;
+    font-size: 38pt;
+    color: #e8d5a3;
+    letter-spacing: 0.01em;
+    line-height: 1.05;
+    margin-bottom: 0.06in;
+  }
+
+  .title-ai {
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 300;
+    font-size: 38pt;
+    color: rgba(160, 200, 220, 0.7);
+  }
+
+  .subtitle-joke {
+    font-style: italic;
+    font-weight: 400;
+    font-size: 14.5pt;
+    color: rgba(232, 213, 163, 0.8);
+    margin-bottom: 0.25in;
+    letter-spacing: 0.02em;
+  }
+
+  .subtitle-formal {
+    font-weight: 500;
+    font-size: 10.5pt;
+    color: rgba(200, 190, 170, 0.5);
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    line-height: 1.6;
+  }
+
+  .author {
+    font-weight: 400;
+    font-size: 13pt;
+    color: rgba(232, 213, 163, 0.55);
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    position: absolute;
+    bottom: 0.7in;
+    z-index: 3;
+  }
+</style>
+</head>
+<body>
+  <!-- Byzantine mosaic pattern with fractures -->
+  <div class="mosaic">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 864" preserveAspectRatio="none">
+      <defs>
+        <!-- Gold mosaic tile -->
+        <pattern id="tiles" x="0" y="0" width="48" height="48" patternUnits="userSpaceOnUse">
+          <rect width="22" height="22" x="1" y="1" fill="#3d3520" rx="1" opacity="0.6"/>
+          <rect width="22" height="22" x="25" y="1" fill="#2a3040" rx="1" opacity="0.5"/>
+          <rect width="22" height="22" x="1" y="25" fill="#2a3040" rx="1" opacity="0.5"/>
+          <rect width="22" height="22" x="25" y="25" fill="#3d3520" rx="1" opacity="0.6"/>
+        </pattern>
+
+        <!-- Pixel/glitch pattern for fracture lines -->
+        <pattern id="pixels" x="0" y="0" width="8" height="8" patternUnits="userSpaceOnUse">
+          <rect width="3" height="3" x="0" y="0" fill="#1a4a5a" opacity="0.8"/>
+          <rect width="3" height="3" x="4" y="4" fill="#2a5a3a" opacity="0.6"/>
+          <rect width="3" height="3" x="4" y="0" fill="#0a2a3a" opacity="0.4"/>
+        </pattern>
+      </defs>
+
+      <!-- Base mosaic -->
+      <rect width="100%" height="100%" fill="url(#tiles)"/>
+
+      <!-- Central arch / dome suggestion -->
+      <ellipse cx="288" cy="320" rx="180" ry="220" fill="none" stroke="#4a3d20" stroke-width="3" opacity="0.25"/>
+      <ellipse cx="288" cy="320" rx="130" ry="170" fill="none" stroke="#4a3d20" stroke-width="2" opacity="0.15"/>
+
+      <!-- Cross form at center -->
+      <line x1="288" y1="180" x2="288" y2="460" stroke="#6a5a30" stroke-width="2" opacity="0.2"/>
+      <line x1="188" y1="320" x2="388" y2="320" stroke="#6a5a30" stroke-width="2" opacity="0.2"/>
+
+      <!-- Fracture lines with pixel/digital fill showing through -->
+      <!-- Main diagonal fracture -->
+      <path d="M 80 0 L 130 150 L 110 300 L 180 450 L 150 600 L 200 864"
+            stroke="none" fill="url(#pixels)" opacity="0.4"
+            stroke-linejoin="round">
+      </path>
+      <path d="M 80 0 L 130 150 L 110 300 L 180 450 L 150 600 L 200 864"
+            stroke="#1a3a4a" stroke-width="2" fill="none" opacity="0.3"/>
+
+      <!-- Second fracture -->
+      <path d="M 400 0 L 380 200 L 420 350 L 370 500 L 410 700 L 380 864"
+            stroke="none" fill="url(#pixels)" opacity="0.35"/>
+      <path d="M 400 0 L 380 200 L 420 350 L 370 500 L 410 700 L 380 864"
+            stroke="#1a3a4a" stroke-width="2" fill="none" opacity="0.25"/>
+
+      <!-- Small fracture branches -->
+      <path d="M 130 150 L 200 180 L 250 160" stroke="#1a3a4a" stroke-width="1" fill="none" opacity="0.2"/>
+      <path d="M 380 200 L 320 230 L 290 210" stroke="#1a3a4a" stroke-width="1" fill="none" opacity="0.2"/>
+      <path d="M 180 450 L 250 470 L 300 440" stroke="#1a3a4a" stroke-width="1" fill="none" opacity="0.15"/>
+
+      <!-- Scattered pixel glitch blocks -->
+      <rect x="120" y="280" width="12" height="8" fill="#1a4a5a" opacity="0.3"/>
+      <rect x="390" y="420" width="8" height="12" fill="#2a5a3a" opacity="0.25"/>
+      <rect x="250" y="600" width="10" height="6" fill="#1a4a5a" opacity="0.2"/>
+      <rect x="440" y="150" width="6" height="10" fill="#2a5a3a" opacity="0.2"/>
+      <rect x="80" y="500" width="14" height="4" fill="#1a3a4a" opacity="0.25"/>
+    </svg>
+  </div>
+
+  <div class="content">
+    <div class="title-main">Churchianity<span class="title-ai">.ai</span></div>
+    <div class="subtitle-joke">Three AIs Walk Into a Schism</div>
+    <div class="subtitle-formal">An Experiment in<br>Computational Ecclesiology</div>
+    <div class="author">Marcus R</div>
+  </div>
+</body>
+</html>

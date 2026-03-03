@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Cover A — Terminal</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <style>
+      body { background: #07070a; }
+      .bg {
+        position: absolute;
+        inset: 0;
+        background:
+          radial-gradient(1200px 800px at 25% 20%, rgba(215,179,95,0.16), rgba(0,0,0,0) 55%),
+          radial-gradient(1100px 900px at 90% 65%, rgba(90,160,255,0.10), rgba(0,0,0,0) 55%),
+          linear-gradient(180deg, #050507 0%, #0b0b10 55%, #06060a 100%);
+      }
+      .prompt {
+        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+        font-size: 12px;
+        color: rgba(255,255,255,0.60);
+        letter-spacing: 0.01em;
+        margin-top: 0.12in;
+      }
+      .prompt b { color: rgba(215,179,95,0.95); font-weight: 650; }
+    </style>
+  </head>
+  <body>
+    <div class="cover">
+      <div class="bg"></div>
+
+      <svg class="overlay" viewBox="0 0 625 925" preserveAspectRatio="none" aria-hidden="true">
+        <defs>
+          <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+            <stop offset="0" stop-color="rgba(215,179,95,0.18)" />
+            <stop offset="1" stop-color="rgba(255,255,255,0.02)" />
+          </linearGradient>
+          <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+            <path d="M 26 0 L 0 0 0 26" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+          </pattern>
+        </defs>
+
+        <!-- faint grid -->
+        <rect x="0" y="0" width="625" height="925" fill="url(#grid)"/>
+
+        <!-- subtle diagonal wash -->
+        <path d="M-40,120 C 160,20 260,20 380,160 C 500,300 640,260 720,140 L 720,-40 L -40,-40 Z"
+              fill="url(#g)" opacity="0.55"/>
+
+        <!-- minimal “node graph” hint -->
+        <g stroke="rgba(215,179,95,0.25)" stroke-width="1.2" fill="none" opacity="0.9">
+          <path d="M120 740 L 200 670 L 290 710 L 360 640 L 460 690 L 540 610" />
+          <path d="M200 670 L 210 585 L 300 560 L 360 640" />
+          <path d="M290 710 L 310 790 L 410 820 L 460 690" />
+        </g>
+        <g fill="rgba(215,179,95,0.55)" opacity="0.9">
+          <circle cx="120" cy="740" r="4.2"/>
+          <circle cx="200" cy="670" r="4.2"/>
+          <circle cx="290" cy="710" r="4.2"/>
+          <circle cx="360" cy="640" r="4.2"/>
+          <circle cx="460" cy="690" r="4.2"/>
+          <circle cx="540" cy="610" r="4.2"/>
+          <circle cx="210" cy="585" r="3.6"/>
+          <circle cx="300" cy="560" r="3.6"/>
+          <circle cx="310" cy="790" r="3.6"/>
+          <circle cx="410" cy="820" r="3.6"/>
+        </g>
+      </svg>
+
+      <div class="stack">
+        <div>
+          <div class="kicker">A map of fracture • built with machines</div>
+          <div class="prompt"><b>$</b> churchianity.ai --explain schism --no-contempt</div>
+        </div>
+
+        <div>
+          <div class="title">
+            Churchianity<span class="ai">.ai</span>
+          </div>
+          <div class="subtitle" style="margin-top:0.22in;">
+            Three AIs Walk Into a Schism
+          </div>
+          <div class="rule" style="margin-top:0.26in;"></div>
+          <div class="tagline" style="margin-top:0.20in;">
+            An Experiment in Computational Ecclesiology
+          </div>
+        </div>
+
+        <div class="bottom">
+          <div class="meta">Nonfiction • theology for lay readers</div>
+          <div class="meta" style="letter-spacing:0.12em;">churchianity.ai</div>
+        </div>
+      </div>
+
+      <div class="guides">
+        <div class="bleed"></div>
+        <div class="trim"></div>
+        <div class="safe"></div>
+      </div>
+    </div>
+  </body>
+</html>
+
